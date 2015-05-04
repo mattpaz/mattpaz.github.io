@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trinity.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/trinity/index.edu/</link>
+    <description>Recent content in Trinity.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/trinity.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://new.trinity.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/new.trinity.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/new.trinity.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-new-trinity-edu&#34;&gt;&lt;a href=&#34;http://new.trinity.edu&#34;&gt;http://new.trinity.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trinity University</title>
+      <link>http://micro.moda/orgs/trinity.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/trinity.edu/</guid>
+      <description>&lt;p&gt;A #1 ranked liberal arts college based on best value and quality of undergraduate teaching. Offering degrees in business, computer science and leadership.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

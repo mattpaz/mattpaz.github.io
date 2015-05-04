@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kzoo.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/kzoo/index.edu/</link>
+    <description>Recent content in Kzoo.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/kzoo.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.kzoo.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/www.kzoo.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.kzoo.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-kzoo-edu&#34;&gt;&lt;a href=&#34;http://www.kzoo.edu&#34;&gt;http://www.kzoo.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kalamazoo College</title>
+      <link>http://micro.moda/orgs/kzoo.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/kzoo.edu/</guid>
+      <description>&lt;p&gt;Kalamazoo College (K College) is four-year private liberal arts college located in Kalamazoo, Michigan. K is highly selective, nationally renowned, and internationally oriented. K lets students experience more in four years and achieve more in a lifetime.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

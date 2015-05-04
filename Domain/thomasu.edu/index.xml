@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomasu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/thomasu/index.edu/</link>
+    <description>Recent content in Thomasu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/thomasu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.thomasu.edu (2015-04-18)</title>
+      <link>http://micro.moda/snapshot/edu/www.thomasu.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.thomasu.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-thomasu-edu&#34;&gt;&lt;a href=&#34;http://www.thomasu.edu&#34;&gt;http://www.thomasu.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thomas University</title>
+      <link>http://micro.moda/orgs/thomasu.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/thomasu.edu/</guid>
+      <description>&lt;p&gt;Thomas University is a four-year university that offers education programs in Georgia, such as RN Programs and master&amp;rsquo;s in Education. Contact us today to learn more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Byui.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/byui/index.edu/</link>
+    <description>Recent content in Byui.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/byui.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.byui.edu (2015-04-18)</title>
+      <link>http://micro.moda/snapshot/edu/www.byui.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.byui.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-byui-edu&#34;&gt;&lt;a href=&#34;http://www.byui.edu&#34;&gt;http://www.byui.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brigham Young University-Idaho</title>
+      <link>http://micro.moda/orgs/byui.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/byui.edu/</guid>
+      <description>&lt;p&gt;Brigham Young University-Idaho is a private, four-year university affiliated with The Church of Jesus Christ of Latter-day Saints. Guided by that affiliation, BYU-Idaho seeks to create a wholesome learning environment in which students can strengthen their commitment to their faith and receive a quality education that prepares them for leadership in the home, the community, and the workplace.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

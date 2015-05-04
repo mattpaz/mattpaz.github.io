@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wsu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/wsu/index.edu/</link>
+    <description>Recent content in Wsu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/wsu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://wsu.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/wsu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/wsu.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-wsu-edu&#34;&gt;&lt;a href=&#34;http://wsu.edu&#34;&gt;http://wsu.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Washington State University</title>
+      <link>http://micro.moda/orgs/wsu.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/wsu.edu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

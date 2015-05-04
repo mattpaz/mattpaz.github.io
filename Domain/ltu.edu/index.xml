@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ltu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/ltu/index.edu/</link>
+    <description>Recent content in Ltu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/ltu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.ltu.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/www.ltu.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.ltu.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-ltu-edu&#34;&gt;&lt;a href=&#34;http://www.ltu.edu&#34;&gt;http://www.ltu.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lawrence Technological University</title>
+      <link>http://micro.moda/orgs/ltu.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/ltu.edu/</guid>
+      <description>&lt;p&gt;Lawrence Technological University, near Detroit, MI, A private university with programs in the Arts &amp;amp; Sciences, Architecture &amp;amp; Design, Business Management, Engineering and Technology fields.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

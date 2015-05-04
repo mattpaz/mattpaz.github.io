@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uafs.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/uafs/index.edu/</link>
+    <description>Recent content in Uafs.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/uafs.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://uafs.edu (2015-04-18)</title>
+      <link>http://micro.moda/snapshot/edu/uafs.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/uafs.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-uafs-edu&#34;&gt;&lt;a href=&#34;http://uafs.edu&#34;&gt;http://uafs.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Arkansas-Fort Smith</title>
+      <link>http://micro.moda/orgs/uafs.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/uafs.edu/</guid>
+      <description>&lt;p&gt;University of Arkansas - Fort Smith, also known as UAFS, is a public, co-educational, four-year university. Located in Fort Smith, Arkansas&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

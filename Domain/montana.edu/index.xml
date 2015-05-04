@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Montana.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/montana/index.edu/</link>
+    <description>Recent content in Montana.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/montana.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.montana.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/www.montana.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.montana.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-montana-edu&#34;&gt;&lt;a href=&#34;http://www.montana.edu&#34;&gt;http://www.montana.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Montana State University</title>
+      <link>http://micro.moda/orgs/montana.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/montana.edu/</guid>
+      <description>&lt;p&gt;Montana State University is ranked in the top tier of U.S. research institutions by the Carnegie Foundation for the Advancement of Teaching.  Located in Bozeman Montana, Montana State is an accredited land grant university offering bachelor&amp;rsquo;s, master&amp;rsquo;s and doctoral degrees in 150 fields of study.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

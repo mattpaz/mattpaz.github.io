@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lander.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/lander/index.edu/</link>
+    <description>Recent content in Lander.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/lander.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.lander.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/www.lander.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.lander.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-lander-edu&#34;&gt;&lt;a href=&#34;http://www.lander.edu&#34;&gt;http://www.lander.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lander University</title>
+      <link>http://micro.moda/orgs/lander.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/lander.edu/</guid>
+      <description>&lt;p&gt;Founded in 1872, Lander University is a state-assisted, four-year university with traditional liberal arts and science programs and professional programs in business, education and nursing. Lander offers more than 60 areas of undergraduate study, as well as online programs and Master&amp;#39;s programs in Montessori and art education. With a rich heritage, academic excellence, nationally ranked athletics, and a student-centered approach to teaching, Lander is producing leaders for today and tomorrow.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

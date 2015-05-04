@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncp.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/uncp/index.edu/</link>
+    <description>Recent content in Uncp.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/uncp.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.uncp.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/www.uncp.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.uncp.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-uncp-edu&#34;&gt;&lt;a href=&#34;http://www.uncp.edu&#34;&gt;http://www.uncp.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of North Carolina at Pembroke</title>
+      <link>http://micro.moda/orgs/uncp.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/uncp.edu/</guid>
+      <description>&lt;p&gt;The University of North Carolina at Pembroke, a comprehensive University committed to academic excellence in a balanced program of teaching, research and service, offers bachelor&amp;#039;s and master&amp;#039;s degrees and an affordable, high quality education in a small campus setting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

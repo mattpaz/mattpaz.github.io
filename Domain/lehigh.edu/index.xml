@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lehigh.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/lehigh/index.edu/</link>
+    <description>Recent content in Lehigh.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/lehigh.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.lehigh.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/www.lehigh.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.lehigh.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-lehigh-edu&#34;&gt;&lt;a href=&#34;http://www.lehigh.edu&#34;&gt;http://www.lehigh.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lehigh University</title>
+      <link>http://micro.moda/orgs/lehigh.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/lehigh.edu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

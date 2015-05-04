@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elmira.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/elmira/index.edu/</link>
+    <description>Recent content in Elmira.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sun, 19 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/elmira.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.elmira.edu (2015-04-19)</title>
+      <link>http://micro.moda/snapshot/edu/www.elmira.edu/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.elmira.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-elmira-edu&#34;&gt;&lt;a href=&#34;http://www.elmira.edu&#34;&gt;http://www.elmira.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elmira College</title>
+      <link>http://micro.moda/orgs/elmira.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/elmira.edu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

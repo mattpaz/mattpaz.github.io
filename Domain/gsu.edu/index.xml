@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gsu.Edu on MicroModa</title>
+    <link>http://micro.moda/domain/gsu/index.edu/</link>
+    <description>Recent content in Gsu.Edu on MicroModa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2015 Copyright MicroModa, LLC</copyright>
+    <lastBuildDate>Sat, 18 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://micro.moda/domain/gsu.edu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snapshot of http://www.gsu.edu (2015-04-18)</title>
+      <link>http://micro.moda/snapshot/edu/www.gsu.edu/</link>
+      <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshot/edu/www.gsu.edu/</guid>
+      <description>
+
+&lt;h1 id=&#34;http-www-gsu-edu&#34;&gt;&lt;a href=&#34;http://www.gsu.edu&#34;&gt;http://www.gsu.edu&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Georgia State University</title>
+      <link>http://micro.moda/orgs/gsu.edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/gsu.edu/</guid>
+      <description>&lt;p&gt;Georgia Stateâs colleges and schools, centers of creativity and discovery, have a major impact on Atlanta, the nation and the world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
