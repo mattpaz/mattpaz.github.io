@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/unionky.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.unionky.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.unionky.edu/</link>
+      <title>Snapshot of http://www.unionky.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.unionky.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.unionky.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-unionky-edu&#34;&gt;&lt;a href=&#34;http://www.unionky.edu&#34;&gt;http://www.unionky.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.unionky.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Union College</title>
-      <link>http://micro.moda/orgs/unionky.edu/</link>
+      <link>http://micro.moda/orgs/unionky.edu_157863/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/unionky.edu/</guid>
+      <guid>http://micro.moda/orgs/unionky.edu_157863/</guid>
       <description>&lt;p&gt;Welcome to Union College: Where Higher Education is One to One! Union College is a private, liberal arts college affiliated with the United Methodist Church.&lt;/p&gt;
 </description>
     </item>

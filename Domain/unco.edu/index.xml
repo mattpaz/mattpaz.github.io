@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/unco.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.unco.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.unco.edu/</link>
+      <title>Snapshot of http://www.unco.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.unco.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.unco.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-unco-edu&#34;&gt;&lt;a href=&#34;http://www.unco.edu&#34;&gt;http://www.unco.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.unco.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Northern Colorado</title>
-      <link>http://micro.moda/orgs/unco.edu/</link>
+      <link>http://micro.moda/orgs/unco.edu_127741/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/unco.edu/</guid>
+      <guid>http://micro.moda/orgs/unco.edu_127741/</guid>
       <description>&lt;p&gt;University of Northern Colorado, UNC, offers top quality undergraduate and graduate degree programs, online classes, and professional certificates in a variety of quality academic programs across six colleges.&lt;/p&gt;
 </description>
     </item>

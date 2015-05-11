@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/wcupa.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.wcupa.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.wcupa.edu/</link>
+      <title>Snapshot of http://www.wcupa.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.wcupa.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.wcupa.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-wcupa-edu&#34;&gt;&lt;a href=&#34;http://www.wcupa.edu&#34;&gt;http://www.wcupa.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.wcupa.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>West Chester University of Pennsylvania</title>
-      <link>http://micro.moda/orgs/wcupa.edu/</link>
+      <link>http://micro.moda/orgs/wcupa.edu_216764/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/wcupa.edu/</guid>
+      <guid>http://micro.moda/orgs/wcupa.edu_216764/</guid>
       <description>&lt;p&gt;West Chester University, a member of the Pennsylvania State System of Higher Education, is a public, regional, comprehensive institution committed to providing access and offering high-quality undergraduate education, select post-baccalaureate and graduate programs, and a variety of educational and cultural resources for its students, alumni, and citizens of southeastern Pennsylvania.&lt;/p&gt;
 </description>
     </item>

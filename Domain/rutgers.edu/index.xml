@@ -11,47 +11,60 @@
     <atom:link href="http://micro.moda/domain/rutgers.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://newbrunswick.rutgers.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/newbrunswick.rutgers.edu/</link>
+      <title>Snapshot of http://newbrunswick.rutgers.edu</title>
+      <link>http://micro.moda/snapshots/edu/newbrunswick.rutgers.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/newbrunswick.rutgers.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-newbrunswick-rutgers-edu&#34;&gt;&lt;a href=&#34;http://newbrunswick.rutgers.edu&#34;&gt;http://newbrunswick.rutgers.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/newbrunswick.rutgers.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.camden.rutgers.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.camden.rutgers.edu/</link>
+      <title>Snapshot of http://www.camden.rutgers.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.camden.rutgers.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.camden.rutgers.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-camden-rutgers-edu&#34;&gt;&lt;a href=&#34;http://www.camden.rutgers.edu&#34;&gt;http://www.camden.rutgers.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.camden.rutgers.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.newrk.rutgers.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.newrk.rutgers.edu/</link>
+      <title>Snapshot of http://www.newrk.rutgers.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.newrk.rutgers.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.newrk.rutgers.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-newrk-rutgers-edu&#34;&gt;&lt;a href=&#34;http://www.newrk.rutgers.edu&#34;&gt;http://www.newrk.rutgers.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.newrk.rutgers.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rutgers University-Camden</title>
+      <link>http://micro.moda/orgs/rutgers.edu_186371/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/rutgers.edu_186371/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rutgers University-New Brunswick</title>
+      <link>http://micro.moda/orgs/rutgers.edu_186380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/rutgers.edu_186380/</guid>
+      <description>&lt;p&gt;Rutgers UniversityâNew Brunswick is one of the nation&amp;#039;s premier public research universities and a member of the Association of American Universities, the Big Ten Conference, and the Committee on Institutional Cooperation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rutgers University-Newark</title>
-      <link>http://micro.moda/orgs/rutgers.edu/</link>
+      <link>http://micro.moda/orgs/rutgers.edu_186399/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/rutgers.edu/</guid>
+      <guid>http://micro.moda/orgs/rutgers.edu_186399/</guid>
       <description></description>
     </item>
     

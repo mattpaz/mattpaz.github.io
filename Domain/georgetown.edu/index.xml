@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/georgetown.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.georgetown.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.georgetown.edu/</link>
+      <title>Snapshot of http://www.georgetown.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.georgetown.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.georgetown.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-georgetown-edu&#34;&gt;&lt;a href=&#34;http://www.georgetown.edu&#34;&gt;http://www.georgetown.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.georgetown.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Georgetown University</title>
-      <link>http://micro.moda/orgs/georgetown.edu/</link>
+      <link>http://micro.moda/orgs/georgetown.edu_131496/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/georgetown.edu/</guid>
+      <guid>http://micro.moda/orgs/georgetown.edu_131496/</guid>
       <description>&lt;p&gt;Official home page of Georgetown University. Georgetown is one of the worldâs leading academic institutions, offering a unique educational experience that prepares the next generation of global citizens to lead and make a difference in the world.&lt;/p&gt;
 </description>
     </item>

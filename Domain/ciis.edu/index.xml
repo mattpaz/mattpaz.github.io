@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ciis.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ciis.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.ciis.edu/</link>
+      <title>Snapshot of http://www.ciis.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ciis.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ciis.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ciis-edu&#34;&gt;&lt;a href=&#34;http://www.ciis.edu&#34;&gt;http://www.ciis.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ciis.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>California Institute of Integral Studies</title>
-      <link>http://micro.moda/orgs/ciis.edu/</link>
+      <link>http://micro.moda/orgs/ciis.edu_110316/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ciis.edu/</guid>
+      <guid>http://micro.moda/orgs/ciis.edu_110316/</guid>
       <description>&lt;p&gt;CIIS offers 18 leading-edge graduate programs, an undergraduate program, public programs and performing arts, and five counseling centers.&lt;/p&gt;
 </description>
     </item>

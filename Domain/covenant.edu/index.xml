@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/covenant.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.covenant.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.covenant.edu/</link>
+      <title>Snapshot of http://www.covenant.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.covenant.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.covenant.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-covenant-edu&#34;&gt;&lt;a href=&#34;http://www.covenant.edu&#34;&gt;http://www.covenant.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.covenant.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Covenant College</title>
-      <link>http://micro.moda/orgs/covenant.edu/</link>
+      <link>http://micro.moda/orgs/covenant.edu_139393/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/covenant.edu/</guid>
+      <guid>http://micro.moda/orgs/covenant.edu_139393/</guid>
       <description>&lt;p&gt;The mission of Covenant College is to explore and express the preeminence of Jesus Christ in all things. We offer the world biblically grounded men and women equipped to live out extraordinary callings in ordinary places.&lt;/p&gt;
 </description>
     </item>

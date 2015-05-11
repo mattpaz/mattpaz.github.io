@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/southuniversity.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.southuniversity.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.southuniversity.edu/</link>
+      <title>Snapshot of http://www.southuniversity.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.southuniversity.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.southuniversity.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-southuniversity-edu&#34;&gt;&lt;a href=&#34;http://www.southuniversity.edu&#34;&gt;http://www.southuniversity.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.southuniversity.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>South University-Savannah</title>
-      <link>http://micro.moda/orgs/southuniversity.edu/</link>
+      <link>http://micro.moda/orgs/southuniversity.edu_139579/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/southuniversity.edu/</guid>
+      <guid>http://micro.moda/orgs/southuniversity.edu_139579/</guid>
       <description>&lt;p&gt;South University is dedicated to providing educational opportunities for the intellectual, social and professional development of a diverse student population.&lt;/p&gt;
 </description>
     </item>

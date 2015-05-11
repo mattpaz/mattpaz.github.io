@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/oneonta.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://suny.oneonta.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/suny.oneonta.edu/</link>
+      <title>Snapshot of http://suny.oneonta.edu</title>
+      <link>http://micro.moda/snapshots/edu/suny.oneonta.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/suny.oneonta.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-suny-oneonta-edu&#34;&gt;&lt;a href=&#34;http://suny.oneonta.edu&#34;&gt;http://suny.oneonta.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/suny.oneonta.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SUNY Oneonta</title>
-      <link>http://micro.moda/orgs/oneonta.edu/</link>
+      <link>http://micro.moda/orgs/oneonta.edu_196185/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/oneonta.edu/</guid>
+      <guid>http://micro.moda/orgs/oneonta.edu_196185/</guid>
       <description></description>
     </item>
     

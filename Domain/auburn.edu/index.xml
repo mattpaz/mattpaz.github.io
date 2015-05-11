@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/auburn.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.auburn.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.auburn.edu/</link>
+      <title>Snapshot of http://www.auburn.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.auburn.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.auburn.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-auburn-edu&#34;&gt;&lt;a href=&#34;http://www.auburn.edu&#34;&gt;http://www.auburn.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.auburn.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Auburn University</title>
-      <link>http://micro.moda/orgs/auburn.edu/</link>
+      <link>http://micro.moda/orgs/auburn.edu_100858/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/auburn.edu/</guid>
+      <guid>http://micro.moda/orgs/auburn.edu_100858/</guid>
       <description>&lt;p&gt;Auburn University&lt;/p&gt;
 </description>
     </item>

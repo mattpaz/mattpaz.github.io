@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/moval.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.moval.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.moval.edu/</link>
+      <title>Snapshot of http://www.moval.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.moval.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.moval.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-moval-edu&#34;&gt;&lt;a href=&#34;http://www.moval.edu&#34;&gt;http://www.moval.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.moval.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Missouri Valley College</title>
-      <link>http://micro.moda/orgs/moval.edu/</link>
+      <link>http://micro.moda/orgs/moval.edu_178369/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/moval.edu/</guid>
+      <guid>http://micro.moda/orgs/moval.edu_178369/</guid>
       <description>&lt;p&gt;Missouri Valley College is a private, four-year liberal arts college affiliated with the Presbyterian Church.
                       The beautiful 150-acre campus is in Marshall in west central Missouri.&lt;/p&gt;
 </description>

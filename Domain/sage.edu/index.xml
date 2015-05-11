@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/sage.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.sage.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.sage.edu/</link>
+      <title>Snapshot of http://www.sage.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.sage.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.sage.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-sage-edu&#34;&gt;&lt;a href=&#34;http://www.sage.edu&#34;&gt;http://www.sage.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.sage.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Sage Colleges</title>
-      <link>http://micro.moda/orgs/sage.edu/</link>
+      <link>http://micro.moda/orgs/sage.edu_195128/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/sage.edu/</guid>
+      <guid>http://micro.moda/orgs/sage.edu_195128/</guid>
       <description>&lt;p&gt;Bachelor&amp;rsquo;s, Master&amp;rsquo;s, Doctoral and Online programs. Sage is comprised of Russell Sage College for undergraduate women in Troy, NY; Sage College of Albany, coeducational undergraduate in Albany, NY; and graduate schools of Education, Health Sciences, &amp;amp; Management. Sage offers additional programs through the School of Professional &amp;amp; Continuing Education and Sage Online.&lt;/p&gt;
 </description>
     </item>

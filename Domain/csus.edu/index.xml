@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/csus.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.csus.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.csus.edu/</link>
+      <title>Snapshot of http://www.csus.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.csus.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.csus.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-csus-edu&#34;&gt;&lt;a href=&#34;http://www.csus.edu&#34;&gt;http://www.csus.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.csus.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>California State University-Sacramento</title>
-      <link>http://micro.moda/orgs/csus.edu/</link>
+      <link>http://micro.moda/orgs/csus.edu_110617/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/csus.edu/</guid>
+      <guid>http://micro.moda/orgs/csus.edu_110617/</guid>
       <description></description>
     </item>
     

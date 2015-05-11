@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/lipscomb.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.lipscomb.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.lipscomb.edu/</link>
+      <title>Snapshot of http://www.lipscomb.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.lipscomb.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.lipscomb.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-lipscomb-edu&#34;&gt;&lt;a href=&#34;http://www.lipscomb.edu&#34;&gt;http://www.lipscomb.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.lipscomb.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lipscomb University</title>
-      <link>http://micro.moda/orgs/lipscomb.edu/</link>
+      <link>http://micro.moda/orgs/lipscomb.edu_219976/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/lipscomb.edu/</guid>
+      <guid>http://micro.moda/orgs/lipscomb.edu_219976/</guid>
       <description>&lt;p&gt;Lipscomb University is a faith-based, liberal arts institution dedicated to challenging students academically, spiritually and as global community citizens.&lt;/p&gt;
 </description>
     </item>

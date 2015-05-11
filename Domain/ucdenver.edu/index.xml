@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ucdenver.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ucdenver.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.ucdenver.edu/</link>
+      <title>Snapshot of http://www.ucdenver.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ucdenver.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ucdenver.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ucdenver-edu&#34;&gt;&lt;a href=&#34;http://www.ucdenver.edu&#34;&gt;http://www.ucdenver.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ucdenver.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Colorado Denver</title>
-      <link>http://micro.moda/orgs/ucdenver.edu/</link>
+      <link>http://micro.moda/orgs/ucdenver.edu_126562/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ucdenver.edu/</guid>
+      <guid>http://micro.moda/orgs/ucdenver.edu_126562/</guid>
       <description>&lt;p&gt;CU Denver offers more than 130 programs in 13 schools and colleges at the undergraduate, graduate, doctoral and first professional (health) levels.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/westminster-mo.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.westminster-mo.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.westminster-mo.edu/</link>
+      <title>Snapshot of http://www.westminster-mo.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.WESTMINSTER-MO.EDU/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.westminster-mo.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-westminster-mo-edu&#34;&gt;&lt;a href=&#34;http://WWW.WESTMINSTER-MO.EDU&#34;&gt;http://WWW.WESTMINSTER-MO.EDU&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/WWW.WESTMINSTER-MO.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Westminster College</title>
-      <link>http://micro.moda/orgs/westminster-mo.edu/</link>
+      <link>http://micro.moda/orgs/westminster-mo.edu_179946/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/westminster-mo.edu/</guid>
+      <guid>http://micro.moda/orgs/westminster-mo.edu_179946/</guid>
       <description></description>
     </item>
     

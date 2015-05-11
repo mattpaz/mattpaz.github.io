@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/mcny.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.mcny.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.mcny.edu/</link>
+      <title>Snapshot of http://www.mcny.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.mcny.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.mcny.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-mcny-edu&#34;&gt;&lt;a href=&#34;http://www.mcny.edu&#34;&gt;http://www.mcny.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.mcny.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Metropolitan College of New York</title>
-      <link>http://micro.moda/orgs/mcny.edu/</link>
+      <link>http://micro.moda/orgs/mcny.edu_190114/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/mcny.edu/</guid>
+      <guid>http://micro.moda/orgs/mcny.edu_190114/</guid>
       <description>&lt;p&gt;Metropolitan College of New York provides superior, experientially-based education that fosters personal and professional development, promotes social justice, and encourages positive change in workplaces and communities. We value integrity, innovation, empowerment and diversity.&lt;/p&gt;
 </description>
     </item>

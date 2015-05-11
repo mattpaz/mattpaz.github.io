@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/apsu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.apsu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.apsu.edu/</link>
+      <title>Snapshot of http://www.apsu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.apsu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.apsu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-apsu-edu&#34;&gt;&lt;a href=&#34;http://www.apsu.edu&#34;&gt;http://www.apsu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.apsu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Austin Peay State University</title>
-      <link>http://micro.moda/orgs/apsu.edu/</link>
+      <link>http://micro.moda/orgs/apsu.edu_219602/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/apsu.edu/</guid>
+      <guid>http://micro.moda/orgs/apsu.edu_219602/</guid>
       <description>&lt;p&gt;Austin Peay State University (APSU), located in Clarksville, Tennessee, is the state&amp;rsquo;s fastest growing university. We are home to the Govs and Lady Govs.&lt;/p&gt;
 </description>
     </item>

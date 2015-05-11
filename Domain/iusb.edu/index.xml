@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/iusb.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://iusb.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/iusb.edu/</link>
+      <title>Snapshot of http://iusb.edu</title>
+      <link>http://micro.moda/snapshots/edu/iusb.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/iusb.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-iusb-edu&#34;&gt;&lt;a href=&#34;http://iusb.edu&#34;&gt;http://iusb.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/iusb.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Indiana University-South Bend</title>
-      <link>http://micro.moda/orgs/iusb.edu/</link>
+      <link>http://micro.moda/orgs/iusb.edu_151342/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/iusb.edu/</guid>
+      <guid>http://micro.moda/orgs/iusb.edu_151342/</guid>
       <description></description>
     </item>
     

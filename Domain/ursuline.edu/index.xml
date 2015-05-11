@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ursuline.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ursuline.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.ursuline.edu/</link>
+      <title>Snapshot of http://www.ursuline.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ursuline.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ursuline.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ursuline-edu&#34;&gt;&lt;a href=&#34;http://www.ursuline.edu&#34;&gt;http://www.ursuline.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ursuline.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ursuline College</title>
-      <link>http://micro.moda/orgs/ursuline.edu/</link>
+      <link>http://micro.moda/orgs/ursuline.edu_206349/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ursuline.edu/</guid>
+      <guid>http://micro.moda/orgs/ursuline.edu_206349/</guid>
       <description></description>
     </item>
     

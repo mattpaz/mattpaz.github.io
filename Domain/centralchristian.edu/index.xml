@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/centralchristian.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.centralchristian.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.centralchristian.edu/</link>
+      <title>Snapshot of http://www.centralchristian.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.centralchristian.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.centralchristian.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-centralchristian-edu&#34;&gt;&lt;a href=&#34;http://www.centralchristian.edu&#34;&gt;http://www.centralchristian.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.centralchristian.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Central Christian College of Kansas</title>
-      <link>http://micro.moda/orgs/centralchristian.edu/</link>
+      <link>http://micro.moda/orgs/centralchristian.edu_154855/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/centralchristian.edu/</guid>
+      <guid>http://micro.moda/orgs/centralchristian.edu_154855/</guid>
       <description>&lt;p&gt;Central Christian College of Kansas is located in McPherson, KS and is one of the colleges that offers degrees in contemporary Christian music &amp;amp; insurance.&lt;/p&gt;
 </description>
     </item>

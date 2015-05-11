@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/calvin.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.calvin.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.calvin.edu/</link>
+      <title>Snapshot of http://www.calvin.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.calvin.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.calvin.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-calvin-edu&#34;&gt;&lt;a href=&#34;http://www.calvin.edu&#34;&gt;http://www.calvin.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.calvin.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Calvin College</title>
-      <link>http://micro.moda/orgs/calvin.edu/</link>
+      <link>http://micro.moda/orgs/calvin.edu_169080/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/calvin.edu/</guid>
+      <guid>http://micro.moda/orgs/calvin.edu_169080/</guid>
       <description></description>
     </item>
     

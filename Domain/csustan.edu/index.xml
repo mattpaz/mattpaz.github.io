@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/csustan.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.csustan.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.csustan.edu/</link>
+      <title>Snapshot of http://www.csustan.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.csustan.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.csustan.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-csustan-edu&#34;&gt;&lt;a href=&#34;http://www.csustan.edu&#34;&gt;http://www.csustan.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.csustan.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>California State University-Stanislaus</title>
-      <link>http://micro.moda/orgs/csustan.edu/</link>
+      <link>http://micro.moda/orgs/csustan.edu_110495/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/csustan.edu/</guid>
+      <guid>http://micro.moda/orgs/csustan.edu_110495/</guid>
       <description>&lt;p&gt;California State University, Stanislaus: An exceptional public university that, because of its student-friendly size and commitment to excellence, is able to offer all the benefits of a private education.&lt;/p&gt;
 </description>
     </item>

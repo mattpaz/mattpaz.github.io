@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/csuci.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.csuci.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.csuci.edu/</link>
+      <title>Snapshot of http://www.csuci.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.csuci.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.csuci.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-csuci-edu&#34;&gt;&lt;a href=&#34;http://www.csuci.edu&#34;&gt;http://www.csuci.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.csuci.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>California State University-Channel Islands</title>
-      <link>http://micro.moda/orgs/csuci.edu/</link>
+      <link>http://micro.moda/orgs/csuci.edu_441937/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/csuci.edu/</guid>
+      <guid>http://micro.moda/orgs/csuci.edu_441937/</guid>
       <description>&lt;p&gt;California State University Channel Islands is Ventura County&amp;rsquo;s first public, four-year university.&lt;/p&gt;
 </description>
     </item>

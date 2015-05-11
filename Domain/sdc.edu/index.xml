@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/sdc.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.sdc.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.sdc.edu/</link>
+      <title>Snapshot of http://www.sdc.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.sdc.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.sdc.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-sdc-edu&#34;&gt;&lt;a href=&#34;http://www.sdc.edu&#34;&gt;http://www.sdc.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.sdc.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sojourner-Douglass College</title>
-      <link>http://micro.moda/orgs/sdc.edu/</link>
+      <link>http://micro.moda/orgs/sdc.edu_163921/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/sdc.edu/</guid>
+      <guid>http://micro.moda/orgs/sdc.edu_163921/</guid>
       <description>&lt;p&gt;Sojourner-Douglass College is a private institution of higher learning with an Afrocentric focus headquartered Baltimore, Maryland, in the United States.&lt;/p&gt;
 </description>
     </item>

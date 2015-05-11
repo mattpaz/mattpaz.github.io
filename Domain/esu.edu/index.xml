@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/esu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www4.esu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www4.esu.edu/</link>
+      <title>Snapshot of http://www4.esu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www4.esu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www4.esu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www4-esu-edu&#34;&gt;&lt;a href=&#34;http://www4.esu.edu&#34;&gt;http://www4.esu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www4.esu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>East Stroudsburg University of Pennsylvania</title>
-      <link>http://micro.moda/orgs/esu.edu/</link>
+      <link>http://micro.moda/orgs/esu.edu_212115/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/esu.edu/</guid>
+      <guid>http://micro.moda/orgs/esu.edu_212115/</guid>
       <description>&lt;p&gt;The official website of East Stroudsburg University located in East Stroudsburg, Pennsylvania. ESU is a comprehensive university in northeastern Pennsylvania offering 59 undergraduate and 22 graduate degrees. It is one of the 14 institutions in the Pennsylvania State System of Higher Education.&lt;/p&gt;
 </description>
     </item>

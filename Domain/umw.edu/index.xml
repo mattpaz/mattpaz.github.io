@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/umw.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.umw.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.umw.edu/</link>
+      <title>Snapshot of http://www.umw.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.umw.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.umw.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-umw-edu&#34;&gt;&lt;a href=&#34;http://www.umw.edu&#34;&gt;http://www.umw.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.umw.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Mary Washington</title>
-      <link>http://micro.moda/orgs/umw.edu/</link>
+      <link>http://micro.moda/orgs/umw.edu_232681/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/umw.edu/</guid>
+      <guid>http://micro.moda/orgs/umw.edu_232681/</guid>
       <description>&lt;p&gt;The University of Mary Washington is one of Virginiaâs outstanding public liberal arts universities, providing a superior education that inspires and enables our students to make positive changes in the world.&lt;/p&gt;
 </description>
     </item>

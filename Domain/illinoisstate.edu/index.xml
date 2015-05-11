@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/illinoisstate.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://illinoisstate.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/illinoisstate.edu/</link>
+      <title>Snapshot of http://illinoisstate.edu</title>
+      <link>http://micro.moda/snapshots/edu/illinoisstate.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/illinoisstate.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-illinoisstate-edu&#34;&gt;&lt;a href=&#34;http://illinoisstate.edu&#34;&gt;http://illinoisstate.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/illinoisstate.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Illinois State University</title>
-      <link>http://micro.moda/orgs/illinoisstate.edu/</link>
+      <link>http://micro.moda/orgs/illinoisstate.edu_145813/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/illinoisstate.edu/</guid>
+      <guid>http://micro.moda/orgs/illinoisstate.edu_145813/</guid>
       <description></description>
     </item>
     

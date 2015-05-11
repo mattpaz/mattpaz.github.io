@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/wpi.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.wpi.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.wpi.edu/</link>
+      <title>Snapshot of http://www.wpi.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.wpi.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.wpi.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-wpi-edu&#34;&gt;&lt;a href=&#34;http://www.wpi.edu&#34;&gt;http://www.wpi.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.wpi.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Worcester Polytechnic Institute</title>
-      <link>http://micro.moda/orgs/wpi.edu/</link>
+      <link>http://micro.moda/orgs/wpi.edu_168421/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/wpi.edu/</guid>
+      <guid>http://micro.moda/orgs/wpi.edu_168421/</guid>
       <description>&lt;p&gt;A WPI education has never been more relevant than it is today, because the demand for innovative thinkers who can solve problems on a global scale has never been greater.&lt;/p&gt;
 </description>
     </item>

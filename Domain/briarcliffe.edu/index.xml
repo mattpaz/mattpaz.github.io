@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/briarcliffe.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.briarcliffe.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.briarcliffe.edu/</link>
+      <title>Snapshot of http://www.briarcliffe.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.briarcliffe.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.briarcliffe.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-briarcliffe-edu&#34;&gt;&lt;a href=&#34;http://www.briarcliffe.edu&#34;&gt;http://www.briarcliffe.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.briarcliffe.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Briarcliffe College</title>
-      <link>http://micro.moda/orgs/briarcliffe.edu/</link>
+      <link>http://micro.moda/orgs/briarcliffe.edu_189459/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/briarcliffe.edu/</guid>
+      <guid>http://micro.moda/orgs/briarcliffe.edu_189459/</guid>
       <description>&lt;p&gt;Briarcliffe College, with its two Long Island locations, focuses on student growth in the educational setting. Learn more today.&lt;/p&gt;
 </description>
     </item>

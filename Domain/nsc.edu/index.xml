@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/nsc.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://nsc.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/nsc.edu/</link>
+      <title>Snapshot of http://nsc.edu</title>
+      <link>http://micro.moda/snapshots/edu/nsc.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/nsc.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-nsc-edu&#34;&gt;&lt;a href=&#34;http://nsc.edu&#34;&gt;http://nsc.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/nsc.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nevada State College</title>
-      <link>http://micro.moda/orgs/nsc.edu/</link>
+      <link>http://micro.moda/orgs/nsc.edu_441900/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/nsc.edu/</guid>
+      <guid>http://micro.moda/orgs/nsc.edu_441900/</guid>
       <description>&lt;p&gt;NSC -&lt;/p&gt;
 </description>
     </item>

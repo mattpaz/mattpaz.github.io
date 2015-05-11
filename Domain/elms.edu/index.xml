@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/elms.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.elms.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.elms.edu/</link>
+      <title>Snapshot of http://www.elms.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.elms.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.elms.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-elms-edu&#34;&gt;&lt;a href=&#34;http://www.elms.edu&#34;&gt;http://www.elms.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.elms.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>College of Our Lady of the Elms</title>
-      <link>http://micro.moda/orgs/elms.edu/</link>
+      <link>http://micro.moda/orgs/elms.edu_167394/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/elms.edu/</guid>
+      <guid>http://micro.moda/orgs/elms.edu_167394/</guid>
       <description>&lt;p&gt;Coeducational Catholic liberal arts college founded by the Sisters of St. Joseph of Springfield, Massachusetts.&lt;/p&gt;
 </description>
     </item>

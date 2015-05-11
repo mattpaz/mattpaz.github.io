@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/walshcollege.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.walshcollege.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.walshcollege.edu/</link>
+      <title>Snapshot of http://www.walshcollege.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.walshcollege.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.walshcollege.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-walshcollege-edu&#34;&gt;&lt;a href=&#34;http://www.walshcollege.edu&#34;&gt;http://www.walshcollege.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.walshcollege.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Walsh College of Accountancy and Business Administration</title>
-      <link>http://micro.moda/orgs/walshcollege.edu/</link>
+      <link>http://micro.moda/orgs/walshcollege.edu_172608/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/walshcollege.edu/</guid>
+      <guid>http://micro.moda/orgs/walshcollege.edu_172608/</guid>
       <description>&lt;p&gt;Detroit&amp;#39;s all-business school,Walsh College offers undergraduate and graduate business programs in international business,strategic leadership,information systems,finance,strat&lt;/p&gt;
 </description>
     </item>

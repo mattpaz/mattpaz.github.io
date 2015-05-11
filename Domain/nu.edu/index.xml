@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/nu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.nu.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.nu.edu/</link>
+      <title>Snapshot of http://www.nu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.nu.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.nu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-nu-edu&#34;&gt;&lt;a href=&#34;http://www.nu.edu&#34;&gt;http://www.nu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.nu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>National University</title>
-      <link>http://micro.moda/orgs/nu.edu/</link>
+      <link>http://micro.moda/orgs/nu.edu_119605/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/nu.edu/</guid>
+      <guid>http://micro.moda/orgs/nu.edu_119605/</guid>
       <description>&lt;p&gt;With over 130 online and on-campus bachelor&amp;rsquo;s and graduate degree programs, National University is a leader in on-campus and online education.&lt;/p&gt;
 </description>
     </item>

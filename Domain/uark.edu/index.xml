@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/uark.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.uark.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.uark.edu/</link>
+      <title>Snapshot of http://www.uark.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.uark.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.uark.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-uark-edu&#34;&gt;&lt;a href=&#34;http://www.uark.edu&#34;&gt;http://www.uark.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.uark.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Arkansas</title>
-      <link>http://micro.moda/orgs/uark.edu/</link>
+      <link>http://micro.moda/orgs/uark.edu_106397/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/uark.edu/</guid>
+      <guid>http://micro.moda/orgs/uark.edu_106397/</guid>
       <description></description>
     </item>
     

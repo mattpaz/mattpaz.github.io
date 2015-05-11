@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/usca.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://web.usca.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/web.usca.edu/</link>
+      <title>Snapshot of http://web.usca.edu</title>
+      <link>http://micro.moda/snapshots/edu/web.usca.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/web.usca.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-web-usca-edu&#34;&gt;&lt;a href=&#34;http://web.usca.edu&#34;&gt;http://web.usca.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/web.usca.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of South Carolina-Aiken</title>
-      <link>http://micro.moda/orgs/usca.edu/</link>
+      <link>http://micro.moda/orgs/usca.edu_218645/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/usca.edu/</guid>
+      <guid>http://micro.moda/orgs/usca.edu_218645/</guid>
       <description>&lt;p&gt;The University of South Carolina Aiken is a public comprehensive college in the South. Located in Aiken, South Carolina, USC Aiken has been voted one of the top public colleges in the South by US News and World Report.&lt;/p&gt;
 </description>
     </item>

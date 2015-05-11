@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/providence.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.providence.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.providence.edu/</link>
+      <title>Snapshot of http://www.providence.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.providence.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.providence.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-providence-edu&#34;&gt;&lt;a href=&#34;http://www.providence.edu&#34;&gt;http://www.providence.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.providence.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Providence College</title>
-      <link>http://micro.moda/orgs/providence.edu/</link>
+      <link>http://micro.moda/orgs/providence.edu_217402/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/providence.edu/</guid>
+      <guid>http://micro.moda/orgs/providence.edu_217402/</guid>
       <description>&lt;p&gt;Providence College is a primarily undergraduate, liberal arts, independent, not-for-profit, Catholic institution of higher education. Committed to fostering academic excellence through the sciences and humanities, the College provides a variety of opportunities for intellectual, social, moral, and spiritual growth in a supportive environment.&lt;/p&gt;
 </description>
     </item>

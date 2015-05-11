@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/coker.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.coker.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.coker.edu/</link>
+      <title>Snapshot of http://www.coker.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.coker.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.coker.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-coker-edu&#34;&gt;&lt;a href=&#34;http://www.coker.edu&#34;&gt;http://www.coker.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.coker.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Coker College</title>
-      <link>http://micro.moda/orgs/coker.edu/</link>
+      <link>http://micro.moda/orgs/coker.edu_217907/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/coker.edu/</guid>
+      <guid>http://micro.moda/orgs/coker.edu_217907/</guid>
       <description>&lt;p&gt;Coker College readies undergraduates for personal and professional success through a distinctive four-year program that emphasizes a practical application of the liberal arts as well as hands-on and discussion-based learning within and beyond the classroom. Coker is ranked among the âBest Collegesâ in the South by U.S. News &amp;amp; World Report as well as The Princeton Review. Located in Hartsville, S.C., Coker is within two hours of the cultural, financial and recreational resources of Charlotte, Columbia, Charleston and Myrtle Beach.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/snu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://snu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/snu.edu/</link>
+      <title>Snapshot of http://snu.edu</title>
+      <link>http://micro.moda/snapshots/edu/SNU.EDU/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/snu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-snu-edu&#34;&gt;&lt;a href=&#34;http://SNU.EDU&#34;&gt;http://SNU.EDU&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/SNU.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Southern Nazarene University</title>
-      <link>http://micro.moda/orgs/snu.edu/</link>
+      <link>http://micro.moda/orgs/snu.edu_206862/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/snu.edu/</guid>
+      <guid>http://micro.moda/orgs/snu.edu_206862/</guid>
       <description></description>
     </item>
     

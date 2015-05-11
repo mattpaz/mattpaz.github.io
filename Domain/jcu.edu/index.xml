@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/jcu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://sites.jcu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/sites.jcu.edu/</link>
+      <title>Snapshot of http://sites.jcu.edu</title>
+      <link>http://micro.moda/snapshots/edu/sites.jcu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/sites.jcu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-sites-jcu-edu&#34;&gt;&lt;a href=&#34;http://sites.jcu.edu&#34;&gt;http://sites.jcu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/sites.jcu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>John Carroll University</title>
-      <link>http://micro.moda/orgs/jcu.edu/</link>
+      <link>http://micro.moda/orgs/jcu.edu_203368/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/jcu.edu/</guid>
+      <guid>http://micro.moda/orgs/jcu.edu_203368/</guid>
       <description>&lt;p&gt;John Carroll University is a private, coeducational, Jesuit Catholic university located in University Heights, Ohio.&lt;/p&gt;
 </description>
     </item>

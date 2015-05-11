@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/keene.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.keene.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.keene.edu/</link>
+      <title>Snapshot of http://www.keene.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.keene.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.keene.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-keene-edu&#34;&gt;&lt;a href=&#34;http://www.keene.edu&#34;&gt;http://www.keene.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.keene.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Keene State College</title>
-      <link>http://micro.moda/orgs/keene.edu/</link>
+      <link>http://micro.moda/orgs/keene.edu_183062/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/keene.edu/</guid>
+      <guid>http://micro.moda/orgs/keene.edu_183062/</guid>
       <description>&lt;p&gt;Keene State College is a public institution grounded in the liberal arts. KSC offers over 40 programs of study, as well as individualized majors, service learning, and national and international exchanges. The campus, with 21st-century technology housed in tr&amp;hellip;&lt;/p&gt;
 </description>
     </item>

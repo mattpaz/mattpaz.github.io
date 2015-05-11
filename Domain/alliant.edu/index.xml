@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/alliant.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.alliant.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.alliant.edu/</link>
+      <title>Snapshot of http://www.alliant.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.alliant.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.alliant.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-alliant-edu&#34;&gt;&lt;a href=&#34;http://www.alliant.edu&#34;&gt;http://www.alliant.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.alliant.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alliant International University</title>
-      <link>http://micro.moda/orgs/alliant.edu/</link>
+      <link>http://micro.moda/orgs/alliant.edu_110468/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/alliant.edu/</guid>
+      <guid>http://micro.moda/orgs/alliant.edu_110468/</guid>
       <description></description>
     </item>
     

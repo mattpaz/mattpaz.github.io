@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/itu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://itu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/itu.edu/</link>
+      <title>Snapshot of http://itu.edu</title>
+      <link>http://micro.moda/snapshots/edu/itu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/itu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-itu-edu&#34;&gt;&lt;a href=&#34;http://itu.edu&#34;&gt;http://itu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/itu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>International Technological University</title>
-      <link>http://micro.moda/orgs/itu.edu/</link>
+      <link>http://micro.moda/orgs/itu.edu_443128/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/itu.edu/</guid>
+      <guid>http://micro.moda/orgs/itu.edu_443128/</guid>
       <description>&lt;p&gt;ITU in San Jose, CA. A diverse university offering graduate degrees in Business Administration, Electrical Engineering, Computer Science, Digital Arts, Software&lt;/p&gt;
 </description>
     </item>

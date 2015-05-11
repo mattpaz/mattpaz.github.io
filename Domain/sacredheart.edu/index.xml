@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/sacredheart.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.sacredheart.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.sacredheart.edu/</link>
+      <title>Snapshot of http://www.sacredheart.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.sacredheart.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.sacredheart.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-sacredheart-edu&#34;&gt;&lt;a href=&#34;http://www.sacredheart.edu&#34;&gt;http://www.sacredheart.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.sacredheart.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sacred Heart University</title>
-      <link>http://micro.moda/orgs/sacredheart.edu/</link>
+      <link>http://micro.moda/orgs/sacredheart.edu_130253/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/sacredheart.edu/</guid>
+      <guid>http://micro.moda/orgs/sacredheart.edu_130253/</guid>
       <description>&lt;p&gt;Sacred Heart University in Fairfield, County, offers full- &amp;amp; part-time associate and bachelor&amp;rsquo;s undergraduate degrees, and graduate master&amp;rsquo;s and doctoral programs in CT &amp;amp; abroad.&lt;/p&gt;
 </description>
     </item>

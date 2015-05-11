@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/calbaptist.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.calbaptist.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.calbaptist.edu/</link>
+      <title>Snapshot of http://www.calbaptist.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.calbaptist.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.calbaptist.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-calbaptist-edu&#34;&gt;&lt;a href=&#34;http://www.calbaptist.edu&#34;&gt;http://www.calbaptist.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.calbaptist.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>California Baptist University</title>
-      <link>http://micro.moda/orgs/calbaptist.edu/</link>
+      <link>http://micro.moda/orgs/calbaptist.edu_110361/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/calbaptist.edu/</guid>
+      <guid>http://micro.moda/orgs/calbaptist.edu_110361/</guid>
       <description>&lt;p&gt;California Baptist University, one of the top Christian Colleges in the nation, is a private Christian university located near Los Angeles in Southern California.&lt;/p&gt;
 </description>
     </item>

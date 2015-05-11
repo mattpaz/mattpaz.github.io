@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/duq.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.duq.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.duq.edu/</link>
+      <title>Snapshot of http://www.duq.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.duq.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.duq.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-duq-edu&#34;&gt;&lt;a href=&#34;http://www.duq.edu&#34;&gt;http://www.duq.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.duq.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Duquesne University</title>
-      <link>http://micro.moda/orgs/duq.edu/</link>
+      <link>http://micro.moda/orgs/duq.edu_212106/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/duq.edu/</guid>
+      <guid>http://micro.moda/orgs/duq.edu_212106/</guid>
       <description>&lt;p&gt;412.396.6000 - The largest, most comprehensive Catholic university in Pennsylvania with more than 10000 students in 10 schools of study.&lt;/p&gt;
 </description>
     </item>

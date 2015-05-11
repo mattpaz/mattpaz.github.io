@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/case.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.case.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.case.edu/</link>
+      <title>Snapshot of http://www.case.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.case.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.case.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-case-edu&#34;&gt;&lt;a href=&#34;http://www.case.edu&#34;&gt;http://www.case.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.case.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Case Western Reserve University</title>
-      <link>http://micro.moda/orgs/case.edu/</link>
+      <link>http://micro.moda/orgs/case.edu_201645/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/case.edu/</guid>
+      <guid>http://micro.moda/orgs/case.edu_201645/</guid>
       <description>&lt;p&gt;Case Western Reserve University is one of the nation&amp;rsquo;s top universities and an independent, leading research institute located in Cleveland&amp;rsquo;s urban, culturally vibrant University Circle&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/queens.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.queens.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.queens.edu/</link>
+      <title>Snapshot of http://www.queens.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.queens.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.queens.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-queens-edu&#34;&gt;&lt;a href=&#34;http://www.queens.edu&#34;&gt;http://www.queens.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.queens.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Queens University of Charlotte</title>
-      <link>http://micro.moda/orgs/queens.edu/</link>
+      <link>http://micro.moda/orgs/queens.edu_199412/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/queens.edu/</guid>
+      <guid>http://micro.moda/orgs/queens.edu_199412/</guid>
       <description>&lt;p&gt;Queens University of Charlotte is a private co-ed university in Charlotte, North Carolina, committed to liberal arts and professional studies. The university today offers 34 undergraduate majors and 66 concentrations, and 10 graduate programs through the College of Arts and Sciences, the McColl School of Business, the Cato School of Education, the Knight School of Communication, Hayworth College for Adult Studies and Blair College of Health which features the Presbyterian School of Nursing. Queens offers small classes and personal attention.&lt;/p&gt;
 </description>
     </item>

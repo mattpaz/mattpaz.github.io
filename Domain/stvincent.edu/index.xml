@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/stvincent.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.stvincent.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.stvincent.edu/</link>
+      <title>Snapshot of http://www.stvincent.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.stvincent.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.stvincent.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-stvincent-edu&#34;&gt;&lt;a href=&#34;http://www.stvincent.edu&#34;&gt;http://www.stvincent.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.stvincent.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Saint Vincent College</title>
-      <link>http://micro.moda/orgs/stvincent.edu/</link>
+      <link>http://micro.moda/orgs/stvincent.edu_215798/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/stvincent.edu/</guid>
+      <guid>http://micro.moda/orgs/stvincent.edu_215798/</guid>
       <description>&lt;p&gt;Saint Vincent College, a top-ranked private liberal arts catholic college located in the Laurel Highland of PA, offers undergraduate and graduate degrees, as well as teaching certifications and cooperative programs in the health professions.&lt;/p&gt;
 </description>
     </item>

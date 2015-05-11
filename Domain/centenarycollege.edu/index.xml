@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/centenarycollege.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.centenarycollege.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.centenarycollege.edu/</link>
+      <title>Snapshot of http://www.centenarycollege.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.centenarycollege.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.centenarycollege.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-centenarycollege-edu&#34;&gt;&lt;a href=&#34;http://www.centenarycollege.edu&#34;&gt;http://www.centenarycollege.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.centenarycollege.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Centenary College</title>
-      <link>http://micro.moda/orgs/centenarycollege.edu/</link>
+      <link>http://micro.moda/orgs/centenarycollege.edu_183974/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/centenarycollege.edu/</guid>
+      <guid>http://micro.moda/orgs/centenarycollege.edu_183974/</guid>
       <description>&lt;p&gt;Established in 1867, Centenary College has grown into an innovative, coeducational liberal arts college with a strong career focus. The history and traditions we celebrate at Centenary form the very foundation of the College and provide a solid building block for successfully educating and preparing students to face tomorrowâs challenges.&lt;/p&gt;
 </description>
     </item>

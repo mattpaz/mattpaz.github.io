@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/atu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.atu.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.atu.edu/</link>
+      <title>Snapshot of http://www.atu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.atu.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.atu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-atu-edu&#34;&gt;&lt;a href=&#34;http://www.atu.edu&#34;&gt;http://www.atu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.atu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Arkansas Tech University</title>
-      <link>http://micro.moda/orgs/atu.edu/</link>
+      <link>http://micro.moda/orgs/atu.edu_106467/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/atu.edu/</guid>
+      <guid>http://micro.moda/orgs/atu.edu_106467/</guid>
       <description></description>
     </item>
     

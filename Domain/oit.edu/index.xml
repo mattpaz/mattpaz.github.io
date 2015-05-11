@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/oit.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.oit.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.oit.edu/</link>
+      <title>Snapshot of http://www.oit.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.oit.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.oit.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-oit-edu&#34;&gt;&lt;a href=&#34;http://www.oit.edu&#34;&gt;http://www.oit.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.oit.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Oregon Institute of Technology</title>
-      <link>http://micro.moda/orgs/oit.edu/</link>
+      <link>http://micro.moda/orgs/oit.edu_209506/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/oit.edu/</guid>
+      <guid>http://micro.moda/orgs/oit.edu_209506/</guid>
       <description>&lt;p&gt;Oregon Tech offers Master &amp;amp; Bachelor Degree Programs in Engineering and Health Technologies, IT, Management, Communications, Applied Sciences &amp;amp; more.&lt;/p&gt;
 </description>
     </item>

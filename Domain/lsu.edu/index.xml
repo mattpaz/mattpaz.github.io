@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/lsu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.lsu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.lsu.edu/</link>
+      <title>Snapshot of http://www.lsu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.lsu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.lsu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-lsu-edu&#34;&gt;&lt;a href=&#34;http://www.lsu.edu&#34;&gt;http://www.lsu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.lsu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Louisiana State University and Agricultural &amp; Mechanical College</title>
-      <link>http://micro.moda/orgs/lsu.edu/</link>
+      <link>http://micro.moda/orgs/lsu.edu_159391/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/lsu.edu/</guid>
+      <guid>http://micro.moda/orgs/lsu.edu_159391/</guid>
       <description>&lt;p&gt;LSU is the flagship university for Louisiana, supporting land, sea and space grant research.&lt;/p&gt;
 </description>
     </item>

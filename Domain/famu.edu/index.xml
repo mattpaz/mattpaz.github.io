@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/famu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.famu.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.famu.edu/</link>
+      <title>Snapshot of http://www.famu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.famu.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.famu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-famu-edu&#34;&gt;&lt;a href=&#34;http://www.famu.edu&#34;&gt;http://www.famu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.famu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Florida Agricultural and Mechanical University</title>
-      <link>http://micro.moda/orgs/famu.edu/</link>
+      <link>http://micro.moda/orgs/famu.edu_133650/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/famu.edu/</guid>
+      <guid>http://micro.moda/orgs/famu.edu_133650/</guid>
       <description></description>
     </item>
     

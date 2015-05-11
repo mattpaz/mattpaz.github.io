@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/colostate.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.colostate.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.colostate.edu/</link>
+      <title>Snapshot of http://www.colostate.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.colostate.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.colostate.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-colostate-edu&#34;&gt;&lt;a href=&#34;http://www.colostate.edu&#34;&gt;http://www.colostate.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.colostate.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Colorado State University-Fort Collins</title>
-      <link>http://micro.moda/orgs/colostate.edu/</link>
+      <link>http://micro.moda/orgs/colostate.edu_126818/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/colostate.edu/</guid>
+      <guid>http://micro.moda/orgs/colostate.edu_126818/</guid>
       <description>&lt;p&gt;Colorado State University is an accredited, public, four-year, comprehensive research university located in Fort Collins. CSU offers bachelors, masters and doctorate degrees from its colleges and areas of study.&lt;/p&gt;
 </description>
     </item>

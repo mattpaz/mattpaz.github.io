@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/utexas.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.utexas.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.utexas.edu/</link>
+      <title>Snapshot of http://www.utexas.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.utexas.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.utexas.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-utexas-edu&#34;&gt;&lt;a href=&#34;http://www.utexas.edu&#34;&gt;http://www.utexas.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.utexas.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The University of Texas at Austin</title>
-      <link>http://micro.moda/orgs/utexas.edu/</link>
+      <link>http://micro.moda/orgs/utexas.edu_228778/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/utexas.edu/</guid>
+      <guid>http://micro.moda/orgs/utexas.edu_228778/</guid>
       <description>&lt;p&gt;Like the state it calls home, The University of Texas at Austin is a bold, ambitious leader, home to more than 51,000 students and 3,000 teaching faculty.&lt;/p&gt;
 </description>
     </item>

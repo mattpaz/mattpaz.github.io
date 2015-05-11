@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/und.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://und.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/und.edu/</link>
+      <title>Snapshot of http://und.edu</title>
+      <link>http://micro.moda/snapshots/edu/und.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/und.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-und-edu&#34;&gt;&lt;a href=&#34;http://und.edu&#34;&gt;http://und.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/und.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of North Dakota</title>
-      <link>http://micro.moda/orgs/und.edu/</link>
+      <link>http://micro.moda/orgs/und.edu_200280/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/und.edu/</guid>
+      <guid>http://micro.moda/orgs/und.edu_200280/</guid>
       <description>&lt;p&gt;The University of North Dakota, a national public research university, is regarded as a national leader in rural and family health issues, aerospace studies, aviation, energy and environmental research, and educational programs for American Indians. Located in Grand Forks the university offers programs in liberal arts, sciences, business, education, law, medicine, engineering, nursing, and aerospace.&lt;/p&gt;
 </description>
     </item>

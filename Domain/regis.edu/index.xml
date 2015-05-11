@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/regis.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.regis.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.regis.edu/</link>
+      <title>Snapshot of http://www.regis.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.regis.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.regis.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-regis-edu&#34;&gt;&lt;a href=&#34;http://www.regis.edu&#34;&gt;http://www.regis.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.regis.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Regis University</title>
-      <link>http://micro.moda/orgs/regis.edu/</link>
+      <link>http://micro.moda/orgs/regis.edu_127918/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/regis.edu/</guid>
+      <guid>http://micro.moda/orgs/regis.edu_127918/</guid>
       <description>&lt;p&gt;Regis University, rated a top university in Colorado offering three colleges and schools for degree programs within a Jesuit Catholic university community&lt;/p&gt;
 </description>
     </item>

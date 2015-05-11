@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/livingstone.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.livingstone.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.livingstone.edu/</link>
+      <title>Snapshot of http://www.livingstone.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.livingstone.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.livingstone.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-livingstone-edu&#34;&gt;&lt;a href=&#34;http://www.livingstone.edu&#34;&gt;http://www.livingstone.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.livingstone.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Livingstone College</title>
-      <link>http://micro.moda/orgs/livingstone.edu/</link>
+      <link>http://micro.moda/orgs/livingstone.edu_198862/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/livingstone.edu/</guid>
+      <guid>http://micro.moda/orgs/livingstone.edu_198862/</guid>
       <description>&lt;p&gt;Livingstone College is a private historically black institution, founded in 1879 that is secured by a strong commitment to quality instruction. Located in Salisbury, NC, Livingstone College prides itself as being a Holistic Learning Environment. Livingstone College is affiliated with the African Methodist Episcopal Zion Church.&lt;/p&gt;
 </description>
     </item>

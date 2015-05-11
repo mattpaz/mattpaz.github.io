@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/otterbein.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.otterbein.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.otterbein.edu/</link>
+      <title>Snapshot of http://www.otterbein.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.otterbein.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.otterbein.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-otterbein-edu&#34;&gt;&lt;a href=&#34;http://www.otterbein.edu&#34;&gt;http://www.otterbein.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.otterbein.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Otterbein University</title>
-      <link>http://micro.moda/orgs/otterbein.edu/</link>
+      <link>http://micro.moda/orgs/otterbein.edu_204936/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/otterbein.edu/</guid>
+      <guid>http://micro.moda/orgs/otterbein.edu_204936/</guid>
       <description></description>
     </item>
     

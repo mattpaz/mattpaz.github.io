@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ccad.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ccad.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.ccad.edu/</link>
+      <title>Snapshot of http://www.ccad.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.CCAD.EDU/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ccad.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ccad-edu&#34;&gt;&lt;a href=&#34;http://WWW.CCAD.EDU&#34;&gt;http://WWW.CCAD.EDU&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/WWW.CCAD.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Columbus College of Art and Design</title>
-      <link>http://micro.moda/orgs/ccad.edu/</link>
+      <link>http://micro.moda/orgs/ccad.edu_202170/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ccad.edu/</guid>
+      <guid>http://micro.moda/orgs/ccad.edu_202170/</guid>
       <description>&lt;p&gt;Columbus College of Art &amp;amp;amp; Design prepares tomorrow&amp;amp;rsquo;s creative leaders with BFA &amp;amp;amp; MFA degree programs. Explore our private design school in Columbus, Ohio.&lt;/p&gt;
 </description>
     </item>

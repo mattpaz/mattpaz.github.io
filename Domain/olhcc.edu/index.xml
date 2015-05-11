@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/olhcc.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.olhcc.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.olhcc.edu/</link>
+      <title>Snapshot of http://www.olhcc.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.olhcc.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.olhcc.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-olhcc-edu&#34;&gt;&lt;a href=&#34;http://www.olhcc.edu&#34;&gt;http://www.olhcc.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.olhcc.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our Lady of Holy Cross College</title>
-      <link>http://micro.moda/orgs/olhcc.edu/</link>
+      <link>http://micro.moda/orgs/olhcc.edu_160065/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/olhcc.edu/</guid>
+      <guid>http://micro.moda/orgs/olhcc.edu_160065/</guid>
       <description></description>
     </item>
     

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/artcenter.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.artcenter.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.artcenter.edu/</link>
+      <title>Snapshot of http://www.artcenter.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.artcenter.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.artcenter.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-artcenter-edu&#34;&gt;&lt;a href=&#34;http://www.artcenter.edu&#34;&gt;http://www.artcenter.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.artcenter.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Art Center College of Design</title>
-      <link>http://micro.moda/orgs/artcenter.edu/</link>
+      <link>http://micro.moda/orgs/artcenter.edu_109651/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/artcenter.edu/</guid>
+      <guid>http://micro.moda/orgs/artcenter.edu_109651/</guid>
       <description>&lt;p&gt;Art Center College of Design has been at the forefront of art and design education for over 80 years. Art Center offers undergraduate degree programs in Advertising, Entertainment Design, Environmental Design, Film, Fine Art, Graphic Design, Illustration, Interactive Design, Photography &amp;amp; Imaging, Product Design, Transportation Design, Humanities &amp;amp; Design Science, and Integrated Studies and graduate degree programs in Art, Broadcast Cinema, Media Design, Industrial Design and Transportation Design. Art Center College of Design challenges students through a transdisciplinary curriculum that explores socially responsible, creative and design-based solutions to real-world issues.&lt;/p&gt;
 </description>
     </item>

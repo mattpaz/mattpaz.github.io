@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/amda.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.amda.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.amda.edu/</link>
+      <title>Snapshot of http://www.amda.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.amda.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.amda.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-amda-edu&#34;&gt;&lt;a href=&#34;http://www.amda.edu&#34;&gt;http://www.amda.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.amda.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>American Musical and Dramatic Academy</title>
-      <link>http://micro.moda/orgs/amda.edu/</link>
+      <link>http://micro.moda/orgs/amda.edu_188854/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/amda.edu/</guid>
+      <guid>http://micro.moda/orgs/amda.edu_188854/</guid>
       <description>&lt;p&gt;AMDA, the American Musical and Dramatic Academy, College of the Performing Arts, is a world-renowned conservatory and college located in New York and Los&lt;/p&gt;
 </description>
     </item>

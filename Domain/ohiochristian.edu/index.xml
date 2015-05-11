@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ohiochristian.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ohiochristian.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.ohiochristian.edu/</link>
+      <title>Snapshot of http://www.ohiochristian.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ohiochristian.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ohiochristian.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ohiochristian-edu&#34;&gt;&lt;a href=&#34;http://www.ohiochristian.edu&#34;&gt;http://www.ohiochristian.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ohiochristian.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ohio Christian University</title>
-      <link>http://micro.moda/orgs/ohiochristian.edu/</link>
+      <link>http://micro.moda/orgs/ohiochristian.edu_201964/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ohiochristian.edu/</guid>
+      <guid>http://micro.moda/orgs/ohiochristian.edu_201964/</guid>
       <description></description>
     </item>
     

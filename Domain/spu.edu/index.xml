@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/spu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.spu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.spu.edu/</link>
+      <title>Snapshot of http://www.spu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.spu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.spu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-spu-edu&#34;&gt;&lt;a href=&#34;http://www.spu.edu&#34;&gt;http://www.spu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.spu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Seattle Pacific University</title>
-      <link>http://micro.moda/orgs/spu.edu/</link>
+      <link>http://micro.moda/orgs/spu.edu_236577/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/spu.edu/</guid>
+      <guid>http://micro.moda/orgs/spu.edu_236577/</guid>
       <description>&lt;p&gt;Seattle Pacific University is a premier Christian university that equips people to engage the culture and change the world.&lt;/p&gt;
 </description>
     </item>

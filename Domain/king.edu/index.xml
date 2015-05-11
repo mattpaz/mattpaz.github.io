@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/king.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.king.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.king.edu/</link>
+      <title>Snapshot of http://www.king.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.king.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.king.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-king-edu&#34;&gt;&lt;a href=&#34;http://www.king.edu&#34;&gt;http://www.king.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.king.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>King University</title>
-      <link>http://micro.moda/orgs/king.edu/</link>
+      <link>http://micro.moda/orgs/king.edu_220516/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/king.edu/</guid>
+      <guid>http://micro.moda/orgs/king.edu_220516/</guid>
       <description>&lt;p&gt;King University is a Presbyterian, doctoral-level comprehensive university. Founded in 1867 as King College, the University offers more than 80 majors, minors, pre-professional degrees and concentrations in fields such as business, nursing, law, medical and health sciences, pharmacy, education, and humanities. Graduate programs are offered in business administration, education, and nursing.&lt;/p&gt;
 </description>
     </item>

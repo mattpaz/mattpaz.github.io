@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/snhu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.snhu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.snhu.edu/</link>
+      <title>Snapshot of http://www.snhu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.snhu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.snhu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-snhu-edu&#34;&gt;&lt;a href=&#34;http://www.snhu.edu&#34;&gt;http://www.snhu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.snhu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Southern New Hampshire University</title>
-      <link>http://micro.moda/orgs/snhu.edu/</link>
+      <link>http://micro.moda/orgs/snhu.edu_183026/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/snhu.edu/</guid>
+      <guid>http://micro.moda/orgs/snhu.edu_183026/</guid>
       <description>&lt;p&gt;At Southern New Hampshire University, we believe there are no limits on what you can do, what you can be, or what you can achieve. This is a University that goes the extra mile - so you can too&lt;/p&gt;
 </description>
     </item>

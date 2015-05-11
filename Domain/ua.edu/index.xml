@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ua.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ua.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.ua.edu/</link>
+      <title>Snapshot of http://www.ua.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ua.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ua.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ua-edu&#34;&gt;&lt;a href=&#34;http://www.ua.edu&#34;&gt;http://www.ua.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ua.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The University of Alabama</title>
-      <link>http://micro.moda/orgs/ua.edu/</link>
+      <link>http://micro.moda/orgs/ua.edu_100751/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ua.edu/</guid>
+      <guid>http://micro.moda/orgs/ua.edu_100751/</guid>
       <description>&lt;p&gt;Official Web Site of The University of Alabama; founded in 1831, UA is a senior comprehensive doctoral-level institution dedicated to advancing intellectual and social conditions through quality programs of teaching, research, and service&lt;/p&gt;
 </description>
     </item>

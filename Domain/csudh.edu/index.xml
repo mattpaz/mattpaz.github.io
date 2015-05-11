@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/csudh.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.csudh.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.csudh.edu/</link>
+      <title>Snapshot of http://www.csudh.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.csudh.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.csudh.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-csudh-edu&#34;&gt;&lt;a href=&#34;http://www.csudh.edu&#34;&gt;http://www.csudh.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.csudh.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>California State University-Dominguez Hills</title>
-      <link>http://micro.moda/orgs/csudh.edu/</link>
+      <link>http://micro.moda/orgs/csudh.edu_110547/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/csudh.edu/</guid>
+      <guid>http://micro.moda/orgs/csudh.edu_110547/</guid>
       <description>&lt;p&gt;Academics are the heart of California State University, Dominguez Hills. From face-to-face interactions to learning in the comfort of your own home, we offer a learning community where you can pursue your academic goals towards your future. Our urban university adheres to an environment of academic excellence, community service, and liberal education. We encourage students to learn outside the classroom by taking advantage of the many internship and research opportunities available out there.&lt;/p&gt;
 </description>
     </item>

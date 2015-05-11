@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/lakeforest.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.lakeforest.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.lakeforest.edu/</link>
+      <title>Snapshot of http://www.lakeforest.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.lakeforest.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.lakeforest.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-lakeforest-edu&#34;&gt;&lt;a href=&#34;http://www.lakeforest.edu&#34;&gt;http://www.lakeforest.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.lakeforest.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lake Forest College</title>
-      <link>http://micro.moda/orgs/lakeforest.edu/</link>
+      <link>http://micro.moda/orgs/lakeforest.edu_146481/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/lakeforest.edu/</guid>
+      <guid>http://micro.moda/orgs/lakeforest.edu_146481/</guid>
       <description>&lt;p&gt;Located 30 miles north of Chicago, Lake Forest College offers students a world-class education and the skills they need for success after college.&amp;lt;br /&amp;gt; What gives a Lake Forest education its edge? Itâs the combination of resume-building internships, experience-rich research and leadership opportunities, along with personal guidance from top professors in small classroom settings.&lt;/p&gt;
 </description>
     </item>

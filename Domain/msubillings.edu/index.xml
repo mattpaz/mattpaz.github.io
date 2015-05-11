@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/msubillings.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.msubillings.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.msubillings.edu/</link>
+      <title>Snapshot of http://www.msubillings.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.msubillings.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.msubillings.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-msubillings-edu&#34;&gt;&lt;a href=&#34;http://www.msubillings.edu&#34;&gt;http://www.msubillings.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.msubillings.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Montana State University-Billings</title>
-      <link>http://micro.moda/orgs/msubillings.edu/</link>
+      <link>http://micro.moda/orgs/msubillings.edu_180179/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/msubillings.edu/</guid>
+      <guid>http://micro.moda/orgs/msubillings.edu_180179/</guid>
       <description>&lt;p&gt;Montana State University Billings is full-service university offering  Associate&amp;rsquo;s, Bachelor&amp;rsquo;s and Master&amp;rsquo;s degrees for careers through the University&amp;rsquo;s five colleges â arts and sciences, business, allied health professions, education, and City College.&lt;/p&gt;
 </description>
     </item>

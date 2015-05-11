@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/peace.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.peace.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.peace.edu/</link>
+      <title>Snapshot of http://www.peace.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.peace.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.peace.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-peace-edu&#34;&gt;&lt;a href=&#34;http://www.peace.edu&#34;&gt;http://www.peace.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.peace.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>William Peace University</title>
-      <link>http://micro.moda/orgs/peace.edu/</link>
+      <link>http://micro.moda/orgs/peace.edu_199272/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/peace.edu/</guid>
+      <guid>http://micro.moda/orgs/peace.edu_199272/</guid>
       <description>&lt;p&gt;William Peace University is a SACS-accredited, small, private co-ed university in Raleigh, NC.&lt;/p&gt;
 </description>
     </item>

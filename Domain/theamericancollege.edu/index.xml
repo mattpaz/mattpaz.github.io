@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/theamericancollege.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.theamericancollege.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.theamericancollege.edu/</link>
+      <title>Snapshot of http://www.theamericancollege.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.theamericancollege.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.theamericancollege.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-theamericancollege-edu&#34;&gt;&lt;a href=&#34;http://www.theamericancollege.edu&#34;&gt;http://www.theamericancollege.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.theamericancollege.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>American College of Financial Services</title>
-      <link>http://micro.moda/orgs/theamericancollege.edu/</link>
+      <link>http://micro.moda/orgs/theamericancollege.edu_210809/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/theamericancollege.edu/</guid>
+      <guid>http://micro.moda/orgs/theamericancollege.edu_210809/</guid>
       <description>&lt;p&gt;Provides education for Certified Financial Planner, CFP exam preparation, ChFC, CLU, CASL, degrees in financial and insurance services.&lt;/p&gt;
 </description>
     </item>

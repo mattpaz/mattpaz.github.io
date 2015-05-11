@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/fullsail.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.fullsail.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.fullsail.edu/</link>
+      <title>Snapshot of http://www.fullsail.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.fullsail.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.fullsail.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-fullsail-edu&#34;&gt;&lt;a href=&#34;http://www.fullsail.edu&#34;&gt;http://www.fullsail.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.fullsail.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Full Sail University</title>
-      <link>http://micro.moda/orgs/fullsail.edu/</link>
+      <link>http://micro.moda/orgs/fullsail.edu_134237/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/fullsail.edu/</guid>
+      <guid>http://micro.moda/orgs/fullsail.edu_134237/</guid>
       <description>&lt;p&gt;Full Sail University offers campus and online degree programs that are designed for the world of entertainment and media. Offering associate&amp;rsquo;s, bachelor&amp;rsquo;s, and master&amp;rsquo;s degrees, Full Sailâs approach is centered on real-world industry experience.&lt;/p&gt;
 </description>
     </item>

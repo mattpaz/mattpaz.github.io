@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/malone.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.malone.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.malone.edu/</link>
+      <title>Snapshot of http://www.malone.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.malone.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.malone.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-malone-edu&#34;&gt;&lt;a href=&#34;http://www.malone.edu&#34;&gt;http://www.malone.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.malone.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Malone University</title>
-      <link>http://micro.moda/orgs/malone.edu/</link>
+      <link>http://micro.moda/orgs/malone.edu_203775/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/malone.edu/</guid>
+      <guid>http://micro.moda/orgs/malone.edu_203775/</guid>
       <description>&lt;p&gt;Malone University is a Christian liberal arts university in Canton, Ohio. Malone is committed to providing an exceptional educational experience grounded in biblical faith.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/lmunet.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.lmunet.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.lmunet.edu/</link>
+      <title>Snapshot of http://www.lmunet.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.lmunet.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.lmunet.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-lmunet-edu&#34;&gt;&lt;a href=&#34;http://www.lmunet.edu&#34;&gt;http://www.lmunet.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.lmunet.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lincoln Memorial University</title>
-      <link>http://micro.moda/orgs/lmunet.edu/</link>
+      <link>http://micro.moda/orgs/lmunet.edu_220631/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/lmunet.edu/</guid>
+      <guid>http://micro.moda/orgs/lmunet.edu_220631/</guid>
       <description>&lt;p&gt;Can you see it? Your career path is here. Lincoln Memorial University is a values-based learning community dedicated to providing educational experiences in the liberal arts and professional studies. LMU strives to give students a foundation for a more productive life by upholding the principles of Abraham Lincoln&amp;rsquo;s life: a dedication to individual liberty, responsibility, and improvement; a respect for citizenship; recognition of the intrinsic value of high moral and ethical standards; and a belief in a personal God. LMU is a Career Path University.&lt;/p&gt;
 </description>
     </item>

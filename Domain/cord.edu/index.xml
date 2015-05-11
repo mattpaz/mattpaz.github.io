@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/cord.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.cord.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.cord.edu/</link>
+      <title>Snapshot of http://www.cord.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.cord.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.cord.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-cord-edu&#34;&gt;&lt;a href=&#34;http://www.cord.edu&#34;&gt;http://www.cord.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.cord.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Concordia College at Moorhead</title>
-      <link>http://micro.moda/orgs/cord.edu/</link>
+      <link>http://micro.moda/orgs/cord.edu_173300/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/cord.edu/</guid>
+      <guid>http://micro.moda/orgs/cord.edu_173300/</guid>
       <description>&lt;p&gt;Concordia College in Moorhead, Minn., prepares students to influence the affairs of the world through a liberal arts education with a globally focused curriculum.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/mhu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.mhu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.mhu.edu/</link>
+      <title>Snapshot of http://www.mhu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.mhu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.mhu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-mhu-edu&#34;&gt;&lt;a href=&#34;http://www.mhu.edu&#34;&gt;http://www.mhu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.mhu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mars Hill University</title>
-      <link>http://micro.moda/orgs/mhu.edu/</link>
+      <link>http://micro.moda/orgs/mhu.edu_198899/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/mhu.edu/</guid>
+      <guid>http://micro.moda/orgs/mhu.edu_198899/</guid>
       <description>&lt;p&gt;Mars Hill University is a premier private, liberal arts institution offering over 30 baccalaureate degrees and one graduate degree in elementary education. Founded in 1856 by Baptist families of the region, the campus is located just 20 minutes north of Asheville in the mountains of western North Carolina.&lt;/p&gt;
 </description>
     </item>

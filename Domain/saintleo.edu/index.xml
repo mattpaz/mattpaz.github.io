@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/saintleo.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.saintleo.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.saintleo.edu/</link>
+      <title>Snapshot of http://www.saintleo.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.saintleo.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.saintleo.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-saintleo-edu&#34;&gt;&lt;a href=&#34;http://www.saintleo.edu&#34;&gt;http://www.saintleo.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.saintleo.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Saint Leo University</title>
-      <link>http://micro.moda/orgs/saintleo.edu/</link>
+      <link>http://micro.moda/orgs/saintleo.edu_137032/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/saintleo.edu/</guid>
+      <guid>http://micro.moda/orgs/saintleo.edu_137032/</guid>
       <description>&lt;p&gt;Founded in 1889, Saint Leo University is a leading Catholic teaching institution that enrolls more than 16,000 students across our traditional Florida campus, more than 40 education center and office locations, and online degree programs.&lt;/p&gt;
 </description>
     </item>

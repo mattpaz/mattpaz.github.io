@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/scu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.scu.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.scu.edu/</link>
+      <title>Snapshot of http://www.scu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.scu.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.scu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-scu-edu&#34;&gt;&lt;a href=&#34;http://www.scu.edu&#34;&gt;http://www.scu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.scu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Santa Clara University</title>
-      <link>http://micro.moda/orgs/scu.edu/</link>
+      <link>http://micro.moda/orgs/scu.edu_122931/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/scu.edu/</guid>
+      <guid>http://micro.moda/orgs/scu.edu_122931/</guid>
       <description></description>
     </item>
     

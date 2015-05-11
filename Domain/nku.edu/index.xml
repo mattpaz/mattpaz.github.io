@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/nku.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.nku.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.nku.edu/</link>
+      <title>Snapshot of http://www.nku.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.nku.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.nku.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-nku-edu&#34;&gt;&lt;a href=&#34;http://www.nku.edu&#34;&gt;http://www.nku.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.nku.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Northern Kentucky University</title>
-      <link>http://micro.moda/orgs/nku.edu/</link>
+      <link>http://micro.moda/orgs/nku.edu_157447/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/nku.edu/</guid>
+      <guid>http://micro.moda/orgs/nku.edu_157447/</guid>
       <description>&lt;p&gt;Northern Kentucky University, a growing metropolitan university of more than 15,000 students served by nearly 2,600 faculty and staff on a thriving suburban campus near Cincinnati. &amp;nbsp;&lt;/p&gt;
 </description>
     </item>

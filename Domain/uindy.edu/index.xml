@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/uindy.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://uindy.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/uindy.edu/</link>
+      <title>Snapshot of http://uindy.edu</title>
+      <link>http://micro.moda/snapshots/edu/uindy.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/uindy.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-uindy-edu&#34;&gt;&lt;a href=&#34;http://uindy.edu&#34;&gt;http://uindy.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/uindy.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Indianapolis</title>
-      <link>http://micro.moda/orgs/uindy.edu/</link>
+      <link>http://micro.moda/orgs/uindy.edu_151263/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/uindy.edu/</guid>
+      <guid>http://micro.moda/orgs/uindy.edu_151263/</guid>
       <description>&lt;p&gt;The Official Website of The University of Indianapolis, a comprehensive and diverse institution of higher education dedicated to preparing graduates for effective, responsible and articulate membership in today&amp;rsquo;s complex world. Now in its second century, the University continues to grow its reputation regionally, nationally and internationally for its academic programs and high level of student engagement in learning, leadership, and service.&lt;/p&gt;
 </description>
     </item>

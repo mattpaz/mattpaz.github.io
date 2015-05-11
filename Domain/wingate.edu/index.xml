@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/wingate.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.wingate.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.wingate.edu/</link>
+      <title>Snapshot of http://www.wingate.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.wingate.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.wingate.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-wingate-edu&#34;&gt;&lt;a href=&#34;http://www.wingate.edu&#34;&gt;http://www.wingate.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.wingate.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wingate University</title>
-      <link>http://micro.moda/orgs/wingate.edu/</link>
+      <link>http://micro.moda/orgs/wingate.edu_199962/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/wingate.edu/</guid>
+      <guid>http://micro.moda/orgs/wingate.edu_199962/</guid>
       <description>&lt;p&gt;A private university in North Carolina. Site contains information about academic programs, admissions, alumni and sports.&lt;/p&gt;
 </description>
     </item>

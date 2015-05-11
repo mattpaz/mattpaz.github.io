@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/mountida.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.mountida.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.mountida.edu/</link>
+      <title>Snapshot of http://www.mountida.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.mountida.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.mountida.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-mountida-edu&#34;&gt;&lt;a href=&#34;http://www.mountida.edu&#34;&gt;http://www.mountida.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.mountida.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mount Ida College</title>
-      <link>http://micro.moda/orgs/mountida.edu/</link>
+      <link>http://micro.moda/orgs/mountida.edu_166948/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/mountida.edu/</guid>
+      <guid>http://micro.moda/orgs/mountida.edu_166948/</guid>
       <description>&lt;p&gt;Mount Ida College is a small, private college near Boston Massachusetts with signature professional programs that prepare a wide range of students for their&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/sullivan.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.sullivan.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.sullivan.edu/</link>
+      <title>Snapshot of http://www.sullivan.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.sullivan.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.sullivan.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-sullivan-edu&#34;&gt;&lt;a href=&#34;http://www.sullivan.edu&#34;&gt;http://www.sullivan.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.sullivan.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sullivan University</title>
-      <link>http://micro.moda/orgs/sullivan.edu/</link>
+      <link>http://micro.moda/orgs/sullivan.edu_157793/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/sullivan.edu/</guid>
+      <guid>http://micro.moda/orgs/sullivan.edu_157793/</guid>
       <description>&lt;p&gt;Sullivan University lets you earn your college degree online or at one of our three campuses: Louisville, KY, Lexington, KY and Fort Knox, KY. Sullivan has programs to suit every goal &amp;ndash; certificates, associate degree, bachelors degree, masters degree (including MBA), and even doctorate degrees.&lt;/p&gt;
 </description>
     </item>

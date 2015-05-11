@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/bgsu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.bgsu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.bgsu.edu/</link>
+      <title>Snapshot of http://www.bgsu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.bgsu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.bgsu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-bgsu-edu&#34;&gt;&lt;a href=&#34;http://www.bgsu.edu&#34;&gt;http://www.bgsu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.bgsu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bowling Green State University-Main Campus</title>
-      <link>http://micro.moda/orgs/bgsu.edu/</link>
+      <link>http://micro.moda/orgs/bgsu.edu_201441/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/bgsu.edu/</guid>
+      <guid>http://micro.moda/orgs/bgsu.edu_201441/</guid>
       <description>&lt;p&gt;BGSU&amp;#x20;is&amp;#x20;one&amp;#x20;of&amp;#x20;the&amp;#x20;top&amp;#x20;public&amp;#x20;universities&amp;#x20;nationwide.&amp;#x20;Students&amp;#x20;prepare&amp;#x20;for&amp;#x20;lifelong&amp;#x20;career&amp;#x20;growth,&amp;#x20;lives&amp;#x20;of&amp;#x20;engaged&amp;#x20;citizenship&amp;#x20;and&amp;#x20;leadership.&lt;/p&gt;
 </description>
     </item>

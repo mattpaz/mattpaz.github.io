@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/hope.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.hope.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.hope.edu/</link>
+      <title>Snapshot of http://www.hope.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.hope.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.hope.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-hope-edu&#34;&gt;&lt;a href=&#34;http://www.hope.edu&#34;&gt;http://www.hope.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.hope.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hope College</title>
-      <link>http://micro.moda/orgs/hope.edu/</link>
+      <link>http://micro.moda/orgs/hope.edu_170301/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/hope.edu/</guid>
+      <guid>http://micro.moda/orgs/hope.edu_170301/</guid>
       <description>&lt;p&gt;At this distinguished four-year liberal arts college in Holland, Michigan, academic excellence and vibrant Christian faith join to strengthen each other in a supportive and welcoming community.&lt;/p&gt;
 </description>
     </item>

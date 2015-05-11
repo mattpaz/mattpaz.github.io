@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/kenyon.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.kenyon.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.kenyon.edu/</link>
+      <title>Snapshot of http://www.kenyon.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.kenyon.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.kenyon.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-kenyon-edu&#34;&gt;&lt;a href=&#34;http://www.kenyon.edu&#34;&gt;http://www.kenyon.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.kenyon.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kenyon College</title>
-      <link>http://micro.moda/orgs/kenyon.edu/</link>
+      <link>http://micro.moda/orgs/kenyon.edu_203535/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/kenyon.edu/</guid>
+      <guid>http://micro.moda/orgs/kenyon.edu_203535/</guid>
       <description>&lt;p&gt;Founded in 1824 in Gambier, Ohio, Kenyon College is a highly selective liberal arts college offering 1,600 students an academically challenging curriculum in a close-knit community.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/uca.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.uca.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.uca.edu/</link>
+      <title>Snapshot of http://www.uca.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.uca.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.uca.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-uca-edu&#34;&gt;&lt;a href=&#34;http://www.uca.edu&#34;&gt;http://www.uca.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.uca.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Central Arkansas</title>
-      <link>http://micro.moda/orgs/uca.edu/</link>
+      <link>http://micro.moda/orgs/uca.edu_106704/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/uca.edu/</guid>
+      <guid>http://micro.moda/orgs/uca.edu_106704/</guid>
       <description>&lt;p&gt;UCA offers a well-rounded and exciting college experience: engaging academics, exciting sports, and a superb location. Find out what UCA is all about and why over 11,000 students choose UCA as their &amp;quot;home away from home.&amp;quot;&lt;/p&gt;
 </description>
     </item>

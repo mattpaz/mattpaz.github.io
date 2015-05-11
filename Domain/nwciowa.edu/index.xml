@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/nwciowa.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.nwciowa.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.nwciowa.edu/</link>
+      <title>Snapshot of http://www.nwciowa.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.nwciowa.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.nwciowa.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-nwciowa-edu&#34;&gt;&lt;a href=&#34;http://www.nwciowa.edu&#34;&gt;http://www.nwciowa.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.nwciowa.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Northwestern College</title>
-      <link>http://micro.moda/orgs/nwciowa.edu/</link>
+      <link>http://micro.moda/orgs/nwciowa.edu_154101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/nwciowa.edu/</guid>
+      <guid>http://micro.moda/orgs/nwciowa.edu_154101/</guid>
       <description>&lt;p&gt;Northwestern College is a nationally ranked Christian college in Iowa that offers challenging academics in a Christ-centered community.&lt;/p&gt;
 </description>
     </item>

@@ -11,59 +11,81 @@
     <atom:link href="http://micro.moda/domain/aii.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.aih.aii.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.aih.aii.edu/</link>
+      <title>Snapshot of http://www.aih.aii.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.aih.aii.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.aih.aii.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-aih-aii-edu&#34;&gt;&lt;a href=&#34;http://www.aih.aii.edu&#34;&gt;http://www.aih.aii.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.aih.aii.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.aiw.aii.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.aiw.aii.edu/</link>
+      <title>Snapshot of http://www.aiw.aii.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.aiw.aii.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.aiw.aii.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-aiw-aii-edu&#34;&gt;&lt;a href=&#34;http://www.aiw.aii.edu&#34;&gt;http://www.aiw.aii.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.aiw.aii.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.ilia.aii.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.ilia.aii.edu/</link>
+      <title>Snapshot of http://www.ilia.aii.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ilia.aii.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ilia.aii.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ilia-aii-edu&#34;&gt;&lt;a href=&#34;http://www.ilia.aii.edu&#34;&gt;http://www.ilia.aii.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ilia.aii.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.aii.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.aii.edu/</link>
+      <title>Snapshot of http://www.aii.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.aii.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.aii.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-aii-edu&#34;&gt;&lt;a href=&#34;http://www.aii.edu&#34;&gt;http://www.aii.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.aii.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Art Institute of Houston</title>
+      <link>http://micro.moda/orgs/aii.edu_222938/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/aii.edu_222938/</guid>
+      <description>&lt;p&gt;Over 90 years of educating creative professionals.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Art Institute of Washington</title>
-      <link>http://micro.moda/orgs/aii.edu/</link>
+      <link>http://micro.moda/orgs/aii.edu_440341/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/aii.edu/</guid>
+      <guid>http://micro.moda/orgs/aii.edu_440341/</guid>
+      <description>&lt;p&gt;Over 90 years of educating creative professionals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Illinois Institute of Art-Chicago</title>
+      <link>http://micro.moda/orgs/aii.edu_148177/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/aii.edu_148177/</guid>
+      <description>&lt;p&gt;Art, Fashion Design, Culinary Arts Schools - The Art Institutes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Illinois Institute of Art-Schaumburg</title>
+      <link>http://micro.moda/orgs/aii.edu_428286/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/aii.edu_428286/</guid>
       <description>&lt;p&gt;Over 90 years of educating creative professionals.&lt;/p&gt;
 </description>
     </item>

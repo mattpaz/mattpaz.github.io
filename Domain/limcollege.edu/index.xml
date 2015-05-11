@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/limcollege.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.limcollege.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.limcollege.edu/</link>
+      <title>Snapshot of http://www.limcollege.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.limcollege.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.limcollege.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-limcollege-edu&#34;&gt;&lt;a href=&#34;http://www.limcollege.edu&#34;&gt;http://www.limcollege.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.limcollege.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LIM College</title>
-      <link>http://micro.moda/orgs/limcollege.edu/</link>
+      <link>http://micro.moda/orgs/limcollege.edu_192271/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/limcollege.edu/</guid>
+      <guid>http://micro.moda/orgs/limcollege.edu_192271/</guid>
       <description>&lt;p&gt;LIM College is exclusively devoted to the business of fashion&lt;/p&gt;
 </description>
     </item>

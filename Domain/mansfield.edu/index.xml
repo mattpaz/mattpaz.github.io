@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/mansfield.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.mansfield.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.mansfield.edu/</link>
+      <title>Snapshot of http://www.mansfield.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.mansfield.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.mansfield.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-mansfield-edu&#34;&gt;&lt;a href=&#34;http://www.mansfield.edu&#34;&gt;http://www.mansfield.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.mansfield.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mansfield University of Pennsylvania</title>
-      <link>http://micro.moda/orgs/mansfield.edu/</link>
+      <link>http://micro.moda/orgs/mansfield.edu_213783/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/mansfield.edu/</guid>
+      <guid>http://micro.moda/orgs/mansfield.edu_213783/</guid>
       <description></description>
     </item>
     

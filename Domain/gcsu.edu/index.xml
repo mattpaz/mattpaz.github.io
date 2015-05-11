@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/gcsu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.gcsu.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.gcsu.edu/</link>
+      <title>Snapshot of http://www.gcsu.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.GCSU.EDU/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.gcsu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-gcsu-edu&#34;&gt;&lt;a href=&#34;http://WWW.GCSU.EDU&#34;&gt;http://WWW.GCSU.EDU&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/WWW.GCSU.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Georgia College and State University</title>
-      <link>http://micro.moda/orgs/gcsu.edu/</link>
+      <link>http://micro.moda/orgs/gcsu.edu_139861/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/gcsu.edu/</guid>
+      <guid>http://micro.moda/orgs/gcsu.edu_139861/</guid>
       <description>&lt;p&gt;As Georgia&amp;rsquo;s public liberal arts university, Georgia College offers undergraduate programs of study to talented and motivated students in a residential college setting.Georgia College also provides, at multiple locations, graduate and professional studies that support the needs of the region and create pathways to individual success and personal fulfillment.&amp;nbsp; Its academically engaging, student-centered programs often take learning beyond the traditional classroom and develop the intellectual, professional, and civic skills and dispositions that enable graduates to thrive in an information-intensive and diverse global society.&amp;nbsp; Through its teaching, research, and service, Georgia College enriches the lives of students and their local and global communities.&lt;/p&gt;
 </description>
     </item>

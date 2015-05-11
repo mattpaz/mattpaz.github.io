@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/georgiasouthern.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.georgiasouthern.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.georgiasouthern.edu/</link>
+      <title>Snapshot of http://www.georgiasouthern.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.georgiasouthern.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.georgiasouthern.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-georgiasouthern-edu&#34;&gt;&lt;a href=&#34;http://www.georgiasouthern.edu&#34;&gt;http://www.georgiasouthern.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.georgiasouthern.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Georgia Southern University</title>
-      <link>http://micro.moda/orgs/georgiasouthern.edu/</link>
+      <link>http://micro.moda/orgs/georgiasouthern.edu_139931/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/georgiasouthern.edu/</guid>
+      <guid>http://micro.moda/orgs/georgiasouthern.edu_139931/</guid>
       <description>&lt;p&gt;Georgia Southern University is a large-scale, small-feel public research university offering practical knowledge in more than 100 degree programs in business, education, science, technology and the arts.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/clarku.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.clarku.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.clarku.edu/</link>
+      <title>Snapshot of http://www.clarku.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.clarku.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.clarku.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-clarku-edu&#34;&gt;&lt;a href=&#34;http://www.clarku.edu&#34;&gt;http://www.clarku.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.clarku.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Clark University</title>
-      <link>http://micro.moda/orgs/clarku.edu/</link>
+      <link>http://micro.moda/orgs/clarku.edu_165334/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/clarku.edu/</guid>
+      <guid>http://micro.moda/orgs/clarku.edu_165334/</guid>
       <description>&lt;p&gt;Learn through inquiry, experience diversity, make a difference at our small liberal arts and research university, located in New England&amp;rsquo;s 2nd largest city.&lt;/p&gt;
 </description>
     </item>

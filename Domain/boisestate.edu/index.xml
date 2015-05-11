@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/boisestate.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.boisestate.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.boisestate.edu/</link>
+      <title>Snapshot of http://www.boisestate.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.boisestate.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.boisestate.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-boisestate-edu&#34;&gt;&lt;a href=&#34;http://www.boisestate.edu&#34;&gt;http://www.boisestate.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.boisestate.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Boise State University</title>
-      <link>http://micro.moda/orgs/boisestate.edu/</link>
+      <link>http://micro.moda/orgs/boisestate.edu_142115/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/boisestate.edu/</guid>
+      <guid>http://micro.moda/orgs/boisestate.edu_142115/</guid>
       <description>&lt;p&gt;Idaho&amp;#039;s metropolitan research university, Boise State offers over 200 graduate and undergraduate degrees in the stateâs political, business and cultural center.&lt;/p&gt;
 </description>
     </item>

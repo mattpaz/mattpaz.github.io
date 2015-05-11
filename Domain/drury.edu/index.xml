@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/drury.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.drury.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.drury.edu/</link>
+      <title>Snapshot of http://www.drury.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.drury.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.drury.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-drury-edu&#34;&gt;&lt;a href=&#34;http://www.drury.edu&#34;&gt;http://www.drury.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.drury.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Drury University</title>
-      <link>http://micro.moda/orgs/drury.edu/</link>
+      <link>http://micro.moda/orgs/drury.edu_177214/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/drury.edu/</guid>
+      <guid>http://micro.moda/orgs/drury.edu_177214/</guid>
       <description>&lt;p&gt;Drury University is a private liberal arts university located in Springfield, Missouri, offering more than 70 undergraduate &amp;amp; graduate programs.&lt;/p&gt;
 </description>
     </item>

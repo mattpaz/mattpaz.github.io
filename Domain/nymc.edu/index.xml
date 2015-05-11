@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/nymc.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.nymc.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.nymc.edu/</link>
+      <title>Snapshot of http://www.nymc.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.NYMC.EDU/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.nymc.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-nymc-edu&#34;&gt;&lt;a href=&#34;http://WWW.NYMC.EDU&#34;&gt;http://WWW.NYMC.EDU&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/WWW.NYMC.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New York Medical College</title>
-      <link>http://micro.moda/orgs/nymc.edu/</link>
+      <link>http://micro.moda/orgs/nymc.edu_193830/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/nymc.edu/</guid>
+      <guid>http://micro.moda/orgs/nymc.edu_193830/</guid>
       <description></description>
     </item>
     

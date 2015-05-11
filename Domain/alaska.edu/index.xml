@@ -11,35 +11,40 @@
     <atom:link href="http://micro.moda/domain/alaska.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.uaa.alaska.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.uaa.alaska.edu/</link>
+      <title>Snapshot of http://www.uaa.alaska.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.uaa.alaska.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.uaa.alaska.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-uaa-alaska-edu&#34;&gt;&lt;a href=&#34;http://www.uaa.alaska.edu&#34;&gt;http://www.uaa.alaska.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.uaa.alaska.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.uas.alaska.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.uas.alaska.edu/</link>
+      <title>Snapshot of http://www.uas.alaska.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.uas.alaska.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.uas.alaska.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-uas-alaska-edu&#34;&gt;&lt;a href=&#34;http://www.uas.alaska.edu&#34;&gt;http://www.uas.alaska.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.uas.alaska.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>University of Alaska Anchorage</title>
+      <link>http://micro.moda/orgs/alaska.edu_102553/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/alaska.edu_102553/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>University of Alaska Southeast</title>
-      <link>http://micro.moda/orgs/alaska.edu/</link>
+      <link>http://micro.moda/orgs/alaska.edu_102632/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/alaska.edu/</guid>
+      <guid>http://micro.moda/orgs/alaska.edu_102632/</guid>
       <description></description>
     </item>
     

@@ -11,47 +11,60 @@
     <atom:link href="http://micro.moda/domain/maine.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.umf.maine.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.umf.maine.edu/</link>
+      <title>Snapshot of http://www.umf.maine.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.umf.maine.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.umf.maine.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-umf-maine-edu&#34;&gt;&lt;a href=&#34;http://www.umf.maine.edu&#34;&gt;http://www.umf.maine.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.umf.maine.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.umfk.maine.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.umfk.maine.edu/</link>
+      <title>Snapshot of http://www.umfk.maine.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.umfk.maine.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.umfk.maine.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-umfk-maine-edu&#34;&gt;&lt;a href=&#34;http://www.umfk.maine.edu&#34;&gt;http://www.umfk.maine.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.umfk.maine.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.usm.maine.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.usm.maine.edu/</link>
+      <title>Snapshot of http://www.usm.maine.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.usm.maine.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.usm.maine.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-usm-maine-edu&#34;&gt;&lt;a href=&#34;http://www.usm.maine.edu&#34;&gt;http://www.usm.maine.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.usm.maine.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University of Maine at Farmington</title>
+      <link>http://micro.moda/orgs/maine.edu_161226/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/maine.edu_161226/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University of Maine at Fort Kent</title>
+      <link>http://micro.moda/orgs/maine.edu_161235/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/maine.edu_161235/</guid>
+      <description>&lt;p&gt;The University of Maine at Fort Kent, situated at the center of Acadian history and culture in rural Northern Maine, is a regional baccalaureate university within the University of Maine System serving over one thousand students. We offer a number of programs to suit your educational needs in a safe, rural community atmosphere. If you are looking for a small campus experience and you love the outdoors, then this is the university for you.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Southern Maine</title>
-      <link>http://micro.moda/orgs/maine.edu/</link>
+      <link>http://micro.moda/orgs/maine.edu_161554/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/maine.edu/</guid>
+      <guid>http://micro.moda/orgs/maine.edu_161554/</guid>
       <description></description>
     </item>
     

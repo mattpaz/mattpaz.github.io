@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/westmont.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.westmont.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.westmont.edu/</link>
+      <title>Snapshot of http://www.westmont.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.westmont.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.westmont.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-westmont-edu&#34;&gt;&lt;a href=&#34;http://www.westmont.edu&#34;&gt;http://www.westmont.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.westmont.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Westmont College</title>
-      <link>http://micro.moda/orgs/westmont.edu/</link>
+      <link>http://micro.moda/orgs/westmont.edu_125727/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/westmont.edu/</guid>
+      <guid>http://micro.moda/orgs/westmont.edu_125727/</guid>
       <description>&lt;p&gt;A Christian, liberal arts college in Santa Barbara, California for undergraduate programs, offering 26 bachelors of arts and science degrees, ten pre-professional programs, and an elementary and secondary credential program.&lt;/p&gt;
 </description>
     </item>

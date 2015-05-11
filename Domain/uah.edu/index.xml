@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/uah.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.uah.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.uah.edu/</link>
+      <title>Snapshot of http://www.uah.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.uah.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.uah.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-uah-edu&#34;&gt;&lt;a href=&#34;http://www.uah.edu&#34;&gt;http://www.uah.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.uah.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Alabama in Huntsville</title>
-      <link>http://micro.moda/orgs/uah.edu/</link>
+      <link>http://micro.moda/orgs/uah.edu_100706/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/uah.edu/</guid>
+      <guid>http://micro.moda/orgs/uah.edu_100706/</guid>
       <description>&lt;p&gt;The University of Alabama in Huntsville (UAH) is a public co-educational, state-supported research university within The University of Alabama System. UAH was founded as part of the University of Alabama in 1950 and became an autonomous campus within the UA System in 1969.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/mbbc.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.mbbc.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.mbbc.edu/</link>
+      <title>Snapshot of http://www.mbbc.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.mbbc.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.mbbc.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-mbbc-edu&#34;&gt;&lt;a href=&#34;http://www.mbbc.edu&#34;&gt;http://www.mbbc.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.mbbc.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Maranatha Baptist University</title>
-      <link>http://micro.moda/orgs/mbbc.edu/</link>
+      <link>http://micro.moda/orgs/mbbc.edu_239071/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/mbbc.edu/</guid>
+      <guid>http://micro.moda/orgs/mbbc.edu_239071/</guid>
       <description></description>
     </item>
     

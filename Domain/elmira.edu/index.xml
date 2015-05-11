@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/elmira.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.elmira.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.elmira.edu/</link>
+      <title>Snapshot of http://www.elmira.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.elmira.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.elmira.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-elmira-edu&#34;&gt;&lt;a href=&#34;http://www.elmira.edu&#34;&gt;http://www.elmira.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.elmira.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Elmira College</title>
-      <link>http://micro.moda/orgs/elmira.edu/</link>
+      <link>http://micro.moda/orgs/elmira.edu_190983/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/elmira.edu/</guid>
+      <guid>http://micro.moda/orgs/elmira.edu_190983/</guid>
       <description></description>
     </item>
     

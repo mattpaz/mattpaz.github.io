@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/uapb.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.uapb.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.uapb.edu/</link>
+      <title>Snapshot of http://www.uapb.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.uapb.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.uapb.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-uapb-edu&#34;&gt;&lt;a href=&#34;http://www.uapb.edu&#34;&gt;http://www.uapb.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.uapb.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Arkansas at Pine Bluff</title>
-      <link>http://micro.moda/orgs/uapb.edu/</link>
+      <link>http://micro.moda/orgs/uapb.edu_106412/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/uapb.edu/</guid>
+      <guid>http://micro.moda/orgs/uapb.edu_106412/</guid>
       <description></description>
     </item>
     

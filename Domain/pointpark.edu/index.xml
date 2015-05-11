@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/pointpark.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.pointpark.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.pointpark.edu/</link>
+      <title>Snapshot of http://www.pointpark.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.pointpark.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.pointpark.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-pointpark-edu&#34;&gt;&lt;a href=&#34;http://www.pointpark.edu&#34;&gt;http://www.pointpark.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.pointpark.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Point Park University</title>
-      <link>http://micro.moda/orgs/pointpark.edu/</link>
+      <link>http://micro.moda/orgs/pointpark.edu_215442/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/pointpark.edu/</guid>
+      <guid>http://micro.moda/orgs/pointpark.edu_215442/</guid>
       <description>&lt;p&gt;Point Park University is a comprehensive doctoral-level university with a strong liberal arts tradition, and is located in the heart of Downtown Pittsburgh.  Point Park University has schools in arts and sciences, business, communication and a Conservatory of Performing Arts.&lt;/p&gt;
 </description>
     </item>

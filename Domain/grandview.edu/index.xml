@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/grandview.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.grandview.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.grandview.edu/</link>
+      <title>Snapshot of http://www.grandview.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.grandview.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.grandview.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-grandview-edu&#34;&gt;&lt;a href=&#34;http://www.grandview.edu&#34;&gt;http://www.grandview.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.grandview.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Grand View University</title>
-      <link>http://micro.moda/orgs/grandview.edu/</link>
+      <link>http://micro.moda/orgs/grandview.edu_153375/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/grandview.edu/</guid>
+      <guid>http://micro.moda/orgs/grandview.edu_153375/</guid>
       <description>&lt;p&gt;A liberal arts university in Des Moines, Iowa. Visit our site for information about admissions, financial aid, scholarships, careers, student information, information for the adult learner, alumni information, academics, athletics and tuition.&lt;/p&gt;
 </description>
     </item>

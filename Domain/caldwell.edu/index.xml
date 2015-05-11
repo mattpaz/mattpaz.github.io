@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/caldwell.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.caldwell.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.caldwell.edu/</link>
+      <title>Snapshot of http://www.caldwell.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.caldwell.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.caldwell.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-caldwell-edu&#34;&gt;&lt;a href=&#34;http://www.caldwell.edu&#34;&gt;http://www.caldwell.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.caldwell.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Caldwell College</title>
-      <link>http://micro.moda/orgs/caldwell.edu/</link>
+      <link>http://micro.moda/orgs/caldwell.edu_183910/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/caldwell.edu/</guid>
+      <guid>http://micro.moda/orgs/caldwell.edu_183910/</guid>
       <description></description>
     </item>
     

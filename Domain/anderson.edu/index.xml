@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/anderson.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.anderson.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.anderson.edu/</link>
+      <title>Snapshot of http://www.anderson.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.anderson.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.anderson.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-anderson-edu&#34;&gt;&lt;a href=&#34;http://www.anderson.edu&#34;&gt;http://www.anderson.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.anderson.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anderson University</title>
-      <link>http://micro.moda/orgs/anderson.edu/</link>
+      <link>http://micro.moda/orgs/anderson.edu_150066/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/anderson.edu/</guid>
+      <guid>http://micro.moda/orgs/anderson.edu_150066/</guid>
       <description>&lt;p&gt;Anderson University is a private Christian university in Anderson, Indiana, offering 65 undergraduate majors and graduate degrees in business, music, nursing, and theology. Anderson University is ranked among the best colleges in the Midwest.&lt;/p&gt;
 </description>
     </item>

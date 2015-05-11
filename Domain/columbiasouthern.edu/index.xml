@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/columbiasouthern.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.columbiasouthern.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.columbiasouthern.edu/</link>
+      <title>Snapshot of http://www.columbiasouthern.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.columbiasouthern.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.columbiasouthern.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-columbiasouthern-edu&#34;&gt;&lt;a href=&#34;http://www.columbiasouthern.edu&#34;&gt;http://www.columbiasouthern.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.columbiasouthern.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Columbia Southern University</title>
-      <link>http://micro.moda/orgs/columbiasouthern.edu/</link>
+      <link>http://micro.moda/orgs/columbiasouthern.edu_450933/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/columbiasouthern.edu/</guid>
+      <guid>http://micro.moda/orgs/columbiasouthern.edu_450933/</guid>
       <description>&lt;p&gt;CSU is a completely online university offering degree programs, open enrollment, affordable tuition rates and flexible learning methods designed to accommodate your life.&lt;/p&gt;
 </description>
     </item>

@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/stratford.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.stratford.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.stratford.edu/</link>
+      <title>Snapshot of http://www.stratford.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.stratford.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.stratford.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-stratford-edu&#34;&gt;&lt;a href=&#34;http://www.stratford.edu&#34;&gt;http://www.stratford.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.stratford.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stratford University</title>
-      <link>http://micro.moda/orgs/stratford.edu/</link>
+      <link>http://micro.moda/orgs/stratford.edu_438498/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/stratford.edu/</guid>
+      <guid>http://micro.moda/orgs/stratford.edu_438498/</guid>
       <description>&lt;p&gt;Stratford University offers classroom and online, degree and non-credit programs, that are ideal for your academic and professional goals.&lt;/p&gt;
 </description>
     </item>

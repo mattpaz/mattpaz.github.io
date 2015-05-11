@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/centralpenn.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.centralpenn.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.centralpenn.edu/</link>
+      <title>Snapshot of http://www.centralpenn.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.centralpenn.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.centralpenn.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-centralpenn-edu&#34;&gt;&lt;a href=&#34;http://www.centralpenn.edu&#34;&gt;http://www.centralpenn.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.centralpenn.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Central Penn College</title>
-      <link>http://micro.moda/orgs/centralpenn.edu/</link>
+      <link>http://micro.moda/orgs/centralpenn.edu_211477/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/centralpenn.edu/</guid>
+      <guid>http://micro.moda/orgs/centralpenn.edu_211477/</guid>
       <description>&lt;p&gt;Central Penn College is a career-oriented, baccalaureate and post-baccalaureate, residential college in the suburbs of Harrisburg and an offsite location in Lancaster Pennsylvania. Central Penn offers bachelor&amp;#39;s and associate degree programs for both traditional and continuing education students by providing hands-on and online distance education taught by experienced, caring faculty.&lt;/p&gt;
 </description>
     </item>

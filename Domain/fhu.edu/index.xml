@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/fhu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.fhu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.fhu.edu/</link>
+      <title>Snapshot of http://www.fhu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.fhu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.fhu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-fhu-edu&#34;&gt;&lt;a href=&#34;http://www.fhu.edu&#34;&gt;http://www.fhu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.fhu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Freed-Hardeman University</title>
-      <link>http://micro.moda/orgs/fhu.edu/</link>
+      <link>http://micro.moda/orgs/fhu.edu_220215/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/fhu.edu/</guid>
+      <guid>http://micro.moda/orgs/fhu.edu_220215/</guid>
       <description>&lt;p&gt;Freed-Hardeman University is a private liberal arts university associated with the churches of Christ located in Henderson, TN.&lt;/p&gt;
 </description>
     </item>

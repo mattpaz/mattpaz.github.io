@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ysu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ysu.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.ysu.edu/</link>
+      <title>Snapshot of http://www.ysu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ysu.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ysu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ysu-edu&#34;&gt;&lt;a href=&#34;http://www.ysu.edu&#34;&gt;http://www.ysu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ysu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Youngstown State University</title>
-      <link>http://micro.moda/orgs/ysu.edu/</link>
+      <link>http://micro.moda/orgs/ysu.edu_206695/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ysu.edu/</guid>
+      <guid>http://micro.moda/orgs/ysu.edu_206695/</guid>
       <description>&lt;p&gt;Youngstown State University is an Ohio urban research university with a wide variety higher education programs and majors. Pursue your career goals at YSU.&lt;/p&gt;
 </description>
     </item>

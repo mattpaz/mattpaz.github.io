@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/roberts.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.roberts.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.roberts.edu/</link>
+      <title>Snapshot of http://www.roberts.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.Roberts.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.roberts.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-roberts-edu&#34;&gt;&lt;a href=&#34;http://WWW.Roberts.edu&#34;&gt;http://WWW.Roberts.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/WWW.Roberts.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Roberts Wesleyan College</title>
-      <link>http://micro.moda/orgs/roberts.edu/</link>
+      <link>http://micro.moda/orgs/roberts.edu_194958/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/roberts.edu/</guid>
+      <guid>http://micro.moda/orgs/roberts.edu_194958/</guid>
       <description>&lt;p&gt;Christian college in Rochester, NY committed to preparing thoughtful, spiritually mature, service-oriented people who will help transform society.&lt;/p&gt;
 </description>
     </item>

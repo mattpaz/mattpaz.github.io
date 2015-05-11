@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/ycp.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.ycp.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.ycp.edu/</link>
+      <title>Snapshot of http://www.ycp.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.ycp.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.ycp.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-ycp-edu&#34;&gt;&lt;a href=&#34;http://www.ycp.edu&#34;&gt;http://www.ycp.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.ycp.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>York College Pennsylvania</title>
-      <link>http://micro.moda/orgs/ycp.edu/</link>
+      <link>http://micro.moda/orgs/ycp.edu_217059/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/ycp.edu/</guid>
+      <guid>http://micro.moda/orgs/ycp.edu_217059/</guid>
       <description>&lt;p&gt;York College of Pennsylvania offers more than 50 majors to its 4,600 undergraduate students and master&amp;rsquo;s programs in business, education and nursing, and a doctorate in nursing practice.&lt;/p&gt;
 </description>
     </item>

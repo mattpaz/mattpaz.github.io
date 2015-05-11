@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/stmarytx.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.stmarytx.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.stmarytx.edu/</link>
+      <title>Snapshot of http://www.stmarytx.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.stmarytx.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.stmarytx.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-stmarytx-edu&#34;&gt;&lt;a href=&#34;http://www.stmarytx.edu&#34;&gt;http://www.stmarytx.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.stmarytx.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>St Mary&#39;s University</title>
-      <link>http://micro.moda/orgs/stmarytx.edu/</link>
+      <link>http://micro.moda/orgs/stmarytx.edu_228149/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/stmarytx.edu/</guid>
+      <guid>http://micro.moda/orgs/stmarytx.edu_228149/</guid>
       <description>&lt;p&gt;A Marianist liberal arts institution in San Antonio, the oldest and largest Catholic university in Texas. Degree programs offered from five schools &amp;hellip;&lt;/p&gt;
 </description>
     </item>

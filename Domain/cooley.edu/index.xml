@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/cooley.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.cooley.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.cooley.edu/</link>
+      <title>Snapshot of http://www.cooley.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.cooley.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.cooley.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-cooley-edu&#34;&gt;&lt;a href=&#34;http://www.cooley.edu&#34;&gt;http://www.cooley.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.cooley.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thomas M Cooley Law School</title>
-      <link>http://micro.moda/orgs/cooley.edu/</link>
+      <link>http://micro.moda/orgs/cooley.edu_172477/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/cooley.edu/</guid>
+      <guid>http://micro.moda/orgs/cooley.edu_172477/</guid>
       <description>&lt;p&gt;WMU-Cooley is an independent, private, non-profit educational institution affiliated with Western Michigan University&lt;/p&gt;
 </description>
     </item>

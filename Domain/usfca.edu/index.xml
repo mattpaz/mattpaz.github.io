@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/usfca.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.usfca.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.usfca.edu/</link>
+      <title>Snapshot of http://www.usfca.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.usfca.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.usfca.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-usfca-edu&#34;&gt;&lt;a href=&#34;http://www.usfca.edu&#34;&gt;http://www.usfca.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.usfca.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of San Francisco</title>
-      <link>http://micro.moda/orgs/usfca.edu/</link>
+      <link>http://micro.moda/orgs/usfca.edu_122612/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/usfca.edu/</guid>
+      <guid>http://micro.moda/orgs/usfca.edu_122612/</guid>
       <description>&lt;p&gt;Academic excellence in the service of humankind. USF exists to provide a rigorous, world-class education to a new generation of leaders, who will work to create a more humane and just world.&lt;/p&gt;
 </description>
     </item>

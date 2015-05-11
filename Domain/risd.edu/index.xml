@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/risd.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.risd.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.risd.edu/</link>
+      <title>Snapshot of http://www.risd.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.risd.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.risd.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-risd-edu&#34;&gt;&lt;a href=&#34;http://www.risd.edu&#34;&gt;http://www.risd.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.risd.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rhode Island School of Design</title>
-      <link>http://micro.moda/orgs/risd.edu/</link>
+      <link>http://micro.moda/orgs/risd.edu_217493/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/risd.edu/</guid>
+      <guid>http://micro.moda/orgs/risd.edu_217493/</guid>
       <description></description>
     </item>
     

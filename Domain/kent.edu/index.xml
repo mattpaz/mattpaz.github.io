@@ -11,36 +11,42 @@
     <atom:link href="http://micro.moda/domain/kent.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.kent.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.kent.edu/</link>
+      <title>Snapshot of http://www.kent.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.kent.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.kent.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-kent-edu&#34;&gt;&lt;a href=&#34;http://www.kent.edu&#34;&gt;http://www.kent.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.kent.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Snapshot of http://www.salem.kent.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.salem.kent.edu/</link>
+      <title>Snapshot of http://www.salem.kent.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.salem.kent.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.salem.kent.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-salem-kent-edu&#34;&gt;&lt;a href=&#34;http://www.salem.kent.edu&#34;&gt;http://www.salem.kent.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.salem.kent.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kent State University at Kent</title>
-      <link>http://micro.moda/orgs/kent.edu/</link>
+      <link>http://micro.moda/orgs/kent.edu_203517/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/kent.edu/</guid>
+      <guid>http://micro.moda/orgs/kent.edu_203517/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Kent State University at Salem</title>
+      <link>http://micro.moda/orgs/kent.edu_203492/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/orgs/kent.edu_203492/</guid>
+      <description>&lt;p&gt;Searching for the best Columbiana County Colleges? Explore Kent State&amp;#039;s Columbiana classes to earn your degree and move toward your career.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

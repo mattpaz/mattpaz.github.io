@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/bradley.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.bradley.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.bradley.edu/</link>
+      <title>Snapshot of http://www.bradley.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.bradley.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.bradley.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-bradley-edu&#34;&gt;&lt;a href=&#34;http://www.bradley.edu&#34;&gt;http://www.bradley.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.bradley.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bradley University</title>
-      <link>http://micro.moda/orgs/bradley.edu/</link>
+      <link>http://micro.moda/orgs/bradley.edu_143358/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/bradley.edu/</guid>
+      <guid>http://micro.moda/orgs/bradley.edu_143358/</guid>
       <description>&lt;p&gt;Bradley University links academic excellence, experiential learning and leadership development with an entrepreneurial spirit for a world-class education.&lt;/p&gt;
 </description>
     </item>

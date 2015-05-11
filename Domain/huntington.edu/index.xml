@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/huntington.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.huntington.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.huntington.edu/</link>
+      <title>Snapshot of http://www.huntington.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.huntington.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.huntington.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-huntington-edu&#34;&gt;&lt;a href=&#34;http://www.huntington.edu&#34;&gt;http://www.huntington.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.huntington.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Huntington University</title>
-      <link>http://micro.moda/orgs/huntington.edu/</link>
+      <link>http://micro.moda/orgs/huntington.edu_150941/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/huntington.edu/</guid>
+      <guid>http://micro.moda/orgs/huntington.edu_150941/</guid>
       <description></description>
     </item>
     

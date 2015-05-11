@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/thomasu.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.thomasu.edu (2015-04-18)</title>
-      <link>http://micro.moda/snapshot/edu/www.thomasu.edu/</link>
+      <title>Snapshot of http://www.thomasu.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.thomasu.edu/</link>
       <pubDate>Sat, 18 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.thomasu.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-thomasu-edu&#34;&gt;&lt;a href=&#34;http://www.thomasu.edu&#34;&gt;http://www.thomasu.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.thomasu.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thomas University</title>
-      <link>http://micro.moda/orgs/thomasu.edu/</link>
+      <link>http://micro.moda/orgs/thomasu.edu_141167/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/thomasu.edu/</guid>
+      <guid>http://micro.moda/orgs/thomasu.edu_141167/</guid>
       <description>&lt;p&gt;Thomas University is a four-year university that offers education programs in Georgia, such as RN Programs and master&amp;rsquo;s in Education. Contact us today to learn more.&lt;/p&gt;
 </description>
     </item>

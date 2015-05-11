@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/sjcme.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.sjcme.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.sjcme.edu/</link>
+      <title>Snapshot of http://www.sjcme.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.sjcme.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.sjcme.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-sjcme-edu&#34;&gt;&lt;a href=&#34;http://www.sjcme.edu&#34;&gt;http://www.sjcme.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.sjcme.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Saint Joseph&#39;s College of Maine</title>
-      <link>http://micro.moda/orgs/sjcme.edu/</link>
+      <link>http://micro.moda/orgs/sjcme.edu_161518/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/sjcme.edu/</guid>
+      <guid>http://micro.moda/orgs/sjcme.edu_161518/</guid>
       <description></description>
     </item>
     

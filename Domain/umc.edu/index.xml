@@ -11,23 +11,21 @@
     <atom:link href="http://micro.moda/domain/umc.edu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Snapshot of http://www.umc.edu (2015-04-19)</title>
-      <link>http://micro.moda/snapshot/edu/www.umc.edu/</link>
+      <title>Snapshot of http://www.umc.edu</title>
+      <link>http://micro.moda/snapshots/edu/www.umc.edu/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/snapshot/edu/www.umc.edu/</guid>
-      <description>
-
-&lt;h1 id=&#34;http-www-umc-edu&#34;&gt;&lt;a href=&#34;http://www.umc.edu&#34;&gt;http://www.umc.edu&lt;/a&gt;&lt;/h1&gt;
+      <guid>http://micro.moda/snapshots/edu/www.umc.edu/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>University of Mississippi Medical Center</title>
-      <link>http://micro.moda/orgs/umc.edu/</link>
+      <link>http://micro.moda/orgs/umc.edu_176026/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://micro.moda/orgs/umc.edu/</guid>
+      <guid>http://micro.moda/orgs/umc.edu_176026/</guid>
       <description>&lt;p&gt;The University of Mississippi Medical Center, located in Jackson, is an academic medical center engaged in health professions education, research and the provision of comprehensive health-care services.&lt;/p&gt;
 </description>
     </item>
