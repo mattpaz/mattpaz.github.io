@@ -23,18 +23,6 @@
     </item>
     
     <item>
-      <title>TOR on Campus</title>
-      <link>http://micro.moda/blog/edutor/</link>
-      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://micro.moda/blog/edutor/</guid>
-      <description>&lt;p&gt;Interesting find from the EDUCAUSE Security Listserv regarding TOR participation among universities&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://seclists.org/educause/2015/q2/75&#34;&gt;http://seclists.org/educause/2015/q2/75&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Color Variations with SASS</title>
       <link>http://micro.moda/blog/color_theory_ideas/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
@@ -43,6 +31,18 @@
       <description>&lt;p&gt;Interesting article about how Vox used SASS to produce standard variations from a color palette.  There might be something interesting here to explore relative to the prospects for extracting a color palette from a screen shot I&amp;rsquo;m sifting in this site.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.creativebloq.com/web-design/colour-theory-for-web-71412476?page=1&#34;&gt;http://www.creativebloq.com/web-design/colour-theory-for-web-71412476?page=1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TOR on Campus</title>
+      <link>http://micro.moda/blog/edutor/</link>
+      <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/blog/edutor/</guid>
+      <description>&lt;p&gt;Interesting find from the EDUCAUSE Security Listserv regarding TOR participation among universities&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://seclists.org/educause/2015/q2/75&#34;&gt;http://seclists.org/educause/2015/q2/75&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -297,15 +297,15 @@
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.ollusa.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.ollusa.edu/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.shawuniversity.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.shawuniversity.edu/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.nyu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.nyu.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.stcl.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.stcl.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.potsdam.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.potsdam.edu/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.snhu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.snhu.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.sbuniv.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.sbuniv.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.newrk.rutgers.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.newrk.rutgers.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.salem.kent.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.salem.kent.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.okcu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.okcu.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.odu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.odu.edu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.bgsu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.bgsu.edu/&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.sbuniv.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.sbuniv.edu/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.newrk.rutgers.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.newrk.rutgers.edu/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.salem.kent.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.salem.kent.edu/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/snapshots/edu/www.bgsu.edu/&#34;&gt;http://localhost:1313/snapshots/edu/www.bgsu.edu/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;things-to-link-to&#34;&gt;Things to Link to&lt;/h2&gt;
@@ -488,21 +488,21 @@
     </item>
     
     <item>
-      <title>Snapshot of http://www.atsu.edu</title>
-      <link>http://micro.moda/snapshots/edu/WWW.ATSU.EDU/</link>
-      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://micro.moda/snapshots/edu/WWW.ATSU.EDU/</guid>
-      <description>&lt;p&gt;#&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Snapshot of http://snu.edu</title>
       <link>http://micro.moda/snapshots/edu/SNU.EDU/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>http://micro.moda/snapshots/edu/SNU.EDU/</guid>
+      <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snapshot of http://www.atsu.edu</title>
+      <link>http://micro.moda/snapshots/edu/WWW.ATSU.EDU/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://micro.moda/snapshots/edu/WWW.ATSU.EDU/</guid>
       <description>&lt;p&gt;#&lt;/p&gt;
 </description>
     </item>

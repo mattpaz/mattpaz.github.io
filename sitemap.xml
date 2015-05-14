@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/blog/edutor/</loc>
+    <loc>http://micro.moda/blog/color_theory_ideas/</loc>
     <lastmod>2015-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/blog/color_theory_ideas/</loc>
+    <loc>http://micro.moda/blog/edutor/</loc>
     <lastmod>2015-05-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +43,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.ATSU.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/SNU.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/SNU.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/WWW.ATSU.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,22 +83,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/WWW.FARMINGDALE.EDU/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/WWW.GETTYSBURG.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/WWW.GOUCHER.EDU/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.FARMINGDALE.EDU/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.HWS.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,17 +108,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/WWW.HWS.EDU/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/WWW.KETTERING.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.NYMC.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/WWW.LYNDONSTATE.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.LYNDONSTATE.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/WWW.NYMC.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,12 +148,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.UTA.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/WWW.USD.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.USD.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/WWW.UTA.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,12 +168,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.WIT.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/WWW.WESTMINSTER-MO.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/WWW.WESTMINSTER-MO.EDU/</loc>
+    <loc>http://micro.moda/snapshots/edu/WWW.WIT.EDU/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,12 +233,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/nsc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/nnmc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/nnmc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/nsc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,12 +253,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/ouhsc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/osumarion.osu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/osumarion.osu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/ouhsc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -273,17 +273,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/sites.jcu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/rocky.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/sites.jcu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/suny.oneonta.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/syr.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -294,11 +299,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/tulane.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/syr.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -438,6 +438,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.alma.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.altoona.psu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -448,17 +453,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.alma.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.alverno.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.amberton.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -468,17 +463,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.amberton.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.amherst.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.andrews.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.andersonuniversity.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.andersonuniversity.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.andrews.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -498,12 +498,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.appstate.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.apsu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.apsu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.appstate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -524,6 +524,11 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.asbury.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.assumption.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -553,17 +558,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.barnard.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.assumption.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.bard.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.barnard.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -588,12 +588,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.bc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.bcm.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.bcm.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.bc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,11 +638,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.berea.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.bentley.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -654,6 +649,11 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.bethel.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.berea.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -693,12 +693,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.bluffton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.bluefieldstate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.bluefieldstate.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.bluffton.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -713,12 +713,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.brandman.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.brandeis.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.brandeis.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.brandman.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -738,12 +738,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.brockport.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.bridgewater.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.bridgewater.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.brockport.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -763,12 +763,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.brynmawr.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.bryant.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.bryant.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.brynmawr.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -813,17 +813,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.cairn.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.caldwell.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.calu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.cairn.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -833,7 +828,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.cambridgecollege.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.calu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -843,12 +838,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.cameron.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.cambridgecollege.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.campbellsville.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.cameron.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -858,12 +853,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.canton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.campbellsville.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.carleton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.canton.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -873,12 +868,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.carlow.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.carleton.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.carroll.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.carlow.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -899,6 +894,16 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.castleton.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.carroll.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.catawba.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -933,12 +938,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.centralpenn.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.centre.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.centre.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.centralpenn.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -953,11 +958,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.catawba.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.chatham.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -968,12 +968,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.cheyney.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.chowan.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.cheyney.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.citadel.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -988,7 +993,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.citadel.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ciu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1003,12 +1008,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.clarkson.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.clarku.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.clarku.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.clarkson.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1048,11 +1053,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ciu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.cobleskill.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -1073,12 +1073,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.colby-sawyer.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.colby.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.colby-sawyer.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.collegeforcreativestudies.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1088,7 +1093,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.collegeforcreativestudies.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.columbiasc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1104,11 +1109,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.concord.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.columbiasc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1133,12 +1133,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.cord.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.corban.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.corban.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.cord.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1153,6 +1153,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.creighton.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.crown.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -1163,7 +1168,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.creighton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.cse.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1173,17 +1178,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.cse.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.csi.cuny.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.csp.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.csi.cuny.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1228,17 +1228,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.cune.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.curry.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.cuw.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.cune.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1258,12 +1258,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.davenport.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.dartmouth.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.dartmouth.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.davenport.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1288,17 +1288,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.delhi.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.denison.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.delval.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.delhi.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1313,12 +1313,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.digipen.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.dickinsonstate.com/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.dickinsonstate.com/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.digipen.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1353,17 +1353,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.dsu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.duq.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.dyc.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.dsu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1383,17 +1383,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.ecu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.edgewood.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.edinboro.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.ecu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1408,17 +1408,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.elon.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.elms.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.elon.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.emerson.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.emmanuel.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1433,22 +1438,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.emmanuel.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.enc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.eou.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.endicott.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.enmu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.eou.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1459,11 +1464,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.esc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.endicott.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1483,12 +1483,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.evangel.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.etsu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.etsu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.evangel.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1513,22 +1513,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.fdu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.fcsl.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ferris.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.fdu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.felician.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.ferris.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1548,22 +1548,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.fisher.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.findlay.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.fitnyc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.fisher.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.fitchburgstate.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.fitnyc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1583,22 +1583,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.francis.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.framingham.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.franklin.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.francis.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.franciscan.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.franklin.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1618,12 +1618,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.gannon.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.furman.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.furman.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.gannon.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1643,22 +1643,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.gcc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.georgefox.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.geneseo.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.geneva.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.georgefox.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1694,6 +1689,11 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.gonzaga.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.gcc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1768,12 +1768,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.hbu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.haverford.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.haverford.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.hbu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1833,7 +1833,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.houghton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.hsc.unt.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1843,12 +1843,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.hsc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.hsc.unt.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.houghton.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1859,6 +1854,11 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.hsutx.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.hsc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1918,12 +1918,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.jjay.cuny.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.jmu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.jmu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.jjay.cuny.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1938,22 +1938,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.juniata.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.k-state.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.kaplanuniversity.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.kcumb.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.kcumb.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.juniata.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.kaplanuniversity.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1973,6 +1973,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.keystone.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.kenyon.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -1983,17 +1988,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.keystone.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.king.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.kings.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.king.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2008,7 +2008,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.kzoo.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lafayette.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2018,7 +2018,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lafayette.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lamar.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2028,17 +2028,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lamar.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.lander.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.langston.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lanecollege.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2048,7 +2043,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.langston.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.lasalle.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.kzoo.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2063,11 +2068,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lclark.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.lawrence.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -2078,17 +2078,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lec.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.lecom.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lehman.cuny.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lclark.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.lec.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2103,7 +2103,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lemoyne.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lehman.cuny.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2113,22 +2113,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.lemoyne.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.letu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lanecollege.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.lhup.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.liberty.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2143,12 +2138,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lincoln.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lincolnu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lincolnu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.liberty.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.lincoln.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2168,17 +2168,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lipscomb.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.livingstone.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.loc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lipscomb.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2188,7 +2183,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.longwood.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.loc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2203,17 +2198,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.longwood.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.lourdes.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.loyno.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.loyola.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.loyola.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.loyno.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2253,17 +2253,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lycoming.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.lvc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lynchburg.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lycoming.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2273,7 +2268,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.lynchburg.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.macalester.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.macu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2298,17 +2303,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.macu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.manhattanville.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.mansfield.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2318,12 +2313,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.marietta.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.marianuniversity.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.marianuniversity.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.marietta.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2343,12 +2338,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.martinmethodist.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.marygrove.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.marygrove.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.martinmethodist.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2363,7 +2358,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.maryville.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mansfield.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2373,12 +2368,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.marywood.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.maryville.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.massart.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.marywood.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2393,17 +2388,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.massart.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.mbc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mcdaniel.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mcdaniel.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2418,11 +2418,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mcny.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.mcneese.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -2433,12 +2428,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mec.cuny.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mcny.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.med.cornell.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mec.cuny.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2453,7 +2448,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mercy.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.med.cornell.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2463,12 +2458,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.meredith.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.merrimack.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.merrimack.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mercy.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.meredith.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2493,7 +2493,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.miami.miamioh.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.midcontinent.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2503,7 +2503,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.midcontinent.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.miami.miamioh.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2563,12 +2563,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.mnu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.mnsu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mnu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.molloy.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2583,11 +2588,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.molloy.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.monmouth.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -2598,7 +2598,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.montana.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.moravian.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2608,7 +2608,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.moravian.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.morgan.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2618,12 +2618,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.morgan.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.mountsaintvincent.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.morris.umn.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2633,7 +2628,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.morris.umn.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.montana.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2643,7 +2638,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.mountsaintvincent.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.mountunion.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.msbcollege.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2654,11 +2659,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.moval.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.msbcollege.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2678,11 +2678,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.msoe.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.mssm.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -2693,12 +2688,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mssu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.msoe.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mst.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mssu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2713,12 +2708,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.msun.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mst.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mtaloy.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.msun.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2728,17 +2723,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mtmc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.mtmary.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mtaloy.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.mtholyoke.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.mtmc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2758,6 +2753,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.mtmary.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.murraystate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -2768,12 +2768,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.muw.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mvnu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mvnu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.muw.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2784,11 +2784,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.mwsu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.myunion.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2804,6 +2799,11 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.nccu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.myunion.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2833,17 +2833,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.neit.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.nec.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.neumann.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.neit.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2888,12 +2888,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.nicholls.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.nichols.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.nichols.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.nicholls.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2918,17 +2918,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.nmsu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.nmt.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.nmsu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.nmu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.northcentral.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2943,22 +2948,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.northwood.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.northwestu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.norwich.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.northwood.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.notredamecollege.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.norwich.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -2973,17 +2978,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.nsula.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.northcentral.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.nwmissouri.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.nsula.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3003,11 +3003,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.nyls.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.nyu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -3018,7 +3013,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.nyls.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.oberlin.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.odu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3028,7 +3033,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.odu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ohiochristian.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3043,7 +3048,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ohiochristian.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.okbu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3053,17 +3058,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.okbu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.okcu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.okwu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3073,7 +3068,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.olhcc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.okwu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3093,12 +3088,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.onu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.olhcc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.opsu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.onu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3118,12 +3118,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ou.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.owu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.owu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ou.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3153,6 +3153,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.peace.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.pdx.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -3163,17 +3168,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.peace.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.philau.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.pfeiffer.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.philau.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3188,17 +3188,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.pittstate.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.plattsburgh.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.plu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.pittstate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3208,17 +3203,12 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.plu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.pointpark.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.pratt.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.potsdam.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3228,7 +3218,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.potsdam.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.pratt.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.providence.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.psu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3243,12 +3248,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.purdue.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.purchase.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.purchase.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.purdue.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3273,6 +3278,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.reed.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.ramapo.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -3283,22 +3293,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.reed.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.rhodes.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.ric.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.richmond.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3308,22 +3303,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.richmond.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.rider.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.psu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ric.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.rio.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.rit.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3338,17 +3333,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.rit.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.rmc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.rmu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.roanoke.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3363,17 +3358,27 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.roanoke.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.rpi.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.rwu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.rowan.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.rsu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.rwu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3388,22 +3393,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.salem.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.saintpeters.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.salemstate.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.salem.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.salem.kent.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.salemstate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3414,11 +3419,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.salisbury.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.rowan.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3438,7 +3438,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.schreiner.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.scranton.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3448,17 +3448,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.scranton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.schreiner.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.scsu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.sdc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3473,7 +3468,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.sdc.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.se.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.semo.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3484,11 +3489,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.selu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.semo.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3508,12 +3508,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.sfc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.shawuniversity.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.shawuniversity.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.sfc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3523,17 +3523,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.shsu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.shu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.siena.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.shsu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3548,7 +3543,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.sjcme.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.siena.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3558,12 +3553,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.sjfc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.sjcme.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.sju.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.sjfc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3618,12 +3618,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.snhu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.snc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.snc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.snhu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3643,12 +3643,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.spalding.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.southwestern.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.southwestern.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.spalding.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -3968,12 +3968,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.tnstate.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.tntech.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.tntech.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.tnstate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4013,22 +4013,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.tufts.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.ttuhsc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.twcnet.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.tufts.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.tusculum.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.twcnet.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4058,11 +4058,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.uat.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -4073,7 +4068,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ucmo.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4088,12 +4083,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ucwv.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.udayton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ucmo.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4103,12 +4093,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.udmercy.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.udayton.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uh.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.udmercy.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4118,7 +4108,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.uh.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.uhd.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.ucwv.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4158,12 +4158,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.umass.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.umaryland.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.umaryland.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.umass.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4188,22 +4188,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.umcrookston.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.umc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.umd.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.umcrookston.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.umes.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.umd.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4243,7 +4238,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.umes.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.uml.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.umsl.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4258,17 +4263,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.umsl.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.umuc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.umwestern.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4278,12 +4273,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.unca.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.umwestern.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.unc.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.unca.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4308,17 +4308,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.une.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.uncw.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.unh.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.une.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4338,12 +4338,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.unl.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.unm.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.unl.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.unmc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4358,11 +4363,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.unmc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.unr.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -4373,12 +4373,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uoregon.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.unwsp.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.unwsp.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uoregon.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4388,17 +4388,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.upb.pitt.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.upenn.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.upstate.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.upb.pitt.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4413,7 +4408,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ursinus.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.upstate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4428,7 +4423,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.ursinus.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.ursuline.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.uscupstate.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4438,7 +4443,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uscupstate.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.usfsm.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4453,22 +4458,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.usfsm.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.usm.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.usna.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.usm.maine.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.usm.maine.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.usna.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4488,17 +4488,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.utep.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.utdallas.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.utep.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.utexas.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.uth.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4518,17 +4523,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uth.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.utmb.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.utpb.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4543,12 +4538,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.utsouthwestern.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.utpb.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.utulsa.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.utsa.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.utsouthwestern.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4558,7 +4558,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.utsa.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.utulsa.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.uu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4569,11 +4574,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.uvm.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.uu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4603,12 +4603,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uwosh.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uwm.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uwm.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uwosh.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4618,17 +4618,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uwrf.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.uwplatt.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uwsuper.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uwrf.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4638,17 +4633,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.uwsuper.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.uwstout.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uwyo.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uww.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uww.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uwyo.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4683,6 +4683,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.vcu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.vfcc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
@@ -4693,12 +4698,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.vcu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.viterbo.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.virginia.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4708,12 +4708,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.viterbo.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.vsu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.virginia.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.vtc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4724,11 +4729,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.vwc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.vtc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4753,22 +4753,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.washjeff.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.washcoll.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wayne.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.washjeff.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.washington.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.wayne.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4788,17 +4788,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.webster.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.wcupa.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.weber.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.webster.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4813,12 +4813,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.westminster.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.westliberty.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.westliberty.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.westminster.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4863,12 +4863,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.willamette.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.wilkes.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wilkes.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.willamette.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4898,17 +4898,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wisc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.winthrop.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.wisc.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.wittenberg.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.wju.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4919,11 +4924,6 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.wlu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.wju.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4958,12 +4958,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.worcester.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.wooster.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wooster.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.worcester.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4973,12 +4973,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wpunj.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.wpi.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wpi.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.wpunj.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -4988,12 +4988,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wssu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.wsc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wustl.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.wssu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -5003,22 +5003,12 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.wustl.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.wvstateu.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.wsc.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.wvutech.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.wwu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -5028,12 +5018,22 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.wvup.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.wvutech.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.wvwc.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wvup.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.wwu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -5048,12 +5048,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.yk.psu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ycp.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ycp.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.yk.psu.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -5078,22 +5078,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www2.kutztown.edu/</loc>
-    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www2.cortland.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/wwwl.uhcl.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www2.kutztown.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www4.esu.edu/</loc>
+    <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/wwwl.uhcl.edu/</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -5148,12 +5148,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/fairfield.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/calpoly.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/calpoly.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/fairfield.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5228,17 +5228,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/ualr.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/uconn.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/uindy.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/ualr.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5263,22 +5263,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.aamu.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.Trincoll.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.adams.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.aamu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.academyart.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.adams.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5338,11 +5338,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.artcenter.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.ashford.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -5379,6 +5374,11 @@
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.aum.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.artcenter.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5428,12 +5428,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.bradley.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.boisestate.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.boisestate.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.bradley.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5483,17 +5483,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.calstatela.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.calbaptist.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.callutheran.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.calstatela.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5578,22 +5578,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.collegeofidaho.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.coloradomesa.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.colorado.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.coloradocollege.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.coloradomesa.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5618,17 +5613,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.cookman.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.connecticutcollege.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.cookman.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.cornellcollege.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.collegeofidaho.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5643,17 +5643,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.csudh.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.csub.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.csuchico.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.csudh.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5693,12 +5693,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.csustan.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.csusb.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.csusb.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.csustan.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5728,17 +5728,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.depauw.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.depaul.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.depauw.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.desu.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.dmu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5753,11 +5758,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.dmu.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.drake.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -5768,12 +5768,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.easternct.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.earlham.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.earlham.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.easternct.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5803,12 +5803,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.fau.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.famu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.famu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.fau.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5838,12 +5838,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.fiu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.flagler.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.flagler.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.fiu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5878,12 +5878,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.fullsail.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.fullerton.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.fullerton.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.fullsail.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5898,17 +5898,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.gatech.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.gbc.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.gatech.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.gcu.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.georgetown.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -5943,17 +5948,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.georgetown.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.grinnell.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.greenville.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.grinnell.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6008,12 +6008,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.hsu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.humboldt.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.humboldt.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.hsu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6023,7 +6023,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.huntington.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ic.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6033,22 +6033,17 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.huntington.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.iit.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ic.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.illinois.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.indianatech.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6073,6 +6068,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.indianatech.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.iub.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -6083,12 +6083,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.iuk.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.iun.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.iun.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.iuk.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6098,12 +6098,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.iwu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.jacksonville.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.jacksonville.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.iwu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6118,12 +6118,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.jsu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.judsonu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.judsonu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.jsu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6143,12 +6143,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.lakeforest.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.knox.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.knox.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.lakeforest.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6233,12 +6233,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mi.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.miami.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.miami.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mi.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6248,12 +6248,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.millikin.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.mills.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.mills.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.millikin.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6443,12 +6443,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.point.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.pomona.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.pomona.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.point.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6518,27 +6518,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.rose-hulman.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.rosalindfranklin.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.rose-hulman.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.sacredheart.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.saintjoe.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.saic.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6553,7 +6543,17 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.samford.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.saintjoe.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.saic.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.sau.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6563,7 +6563,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.sau.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.samford.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6623,12 +6623,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.siu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.simpsonu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.simpsonu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.siu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6708,12 +6708,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.thunderbird.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.thomasu.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.thomasu.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.thunderbird.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6733,6 +6733,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.trinitydc.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.troy.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -6743,12 +6748,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.trinitydc.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.truett.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.truett.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.tuskegee.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6768,17 +6773,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uah.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.uaf.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uams.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uah.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6788,7 +6788,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.tuskegee.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uams.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6828,12 +6828,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uchastings.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ucf.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ucla.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uchastings.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6843,7 +6843,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ucf.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ucla.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.ucsb.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6858,12 +6863,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ucsb.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.ucsf.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.ucsf.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.udc.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6878,11 +6883,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.udc.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.uga.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -6893,12 +6893,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uiowa.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uidaho.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.uidaho.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.uiowa.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -6948,22 +6948,22 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.usfca.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/snapshots/edu/www.usf.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.usi.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.usfca.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.usj.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/snapshots/edu/www.usi.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -7008,6 +7008,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/snapshots/edu/www.wesley.edu/</loc>
+    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/snapshots/edu/www.wesleyan.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
@@ -7018,17 +7023,12 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/snapshots/edu/www.wesley.edu/</loc>
+    <loc>http://micro.moda/snapshots/edu/www.western.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://micro.moda/snapshots/edu/www.westernu.edu/</loc>
-    <lastmod>2015-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/snapshots/edu/www.western.edu/</loc>
     <lastmod>2015-04-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -7078,15 +7078,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/aamu.edu_100654/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/uab.edu_100663/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uah.edu_100706/</loc>
+    <loc>http://micro.moda/orgs/aamu.edu_100654/</loc>
   </url>
   
   <url>
@@ -7126,11 +7122,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uwa.edu_101587/</loc>
+    <loc>http://micro.moda/orgs/miles.edu_101675/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/miles.edu_101675/</loc>
+    <loc>http://micro.moda/orgs/uwa.edu_101587/</loc>
   </url>
   
   <url>
@@ -7142,15 +7138,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/una.edu_101879/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/oakwood.edu_101912/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/samford.edu_102049/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/una.edu_101879/</loc>
   </url>
   
   <url>
@@ -7206,6 +7202,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/uah.edu_100706/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/west.edu_106102/</loc>
   </url>
   
@@ -7214,11 +7214,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uams.edu_106263/</loc>
+    <loc>http://micro.moda/orgs/arkansasbaptist.edu_106306/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/arkansasbaptist.edu_106306/</loc>
+    <loc>http://micro.moda/orgs/uams.edu_106263/</loc>
   </url>
   
   <url>
@@ -7242,11 +7242,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/harding.edu_107044/</loc>
+    <loc>http://micro.moda/orgs/uca.edu_106704/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uca.edu_106704/</loc>
+    <loc>http://micro.moda/orgs/harding.edu_107044/</loc>
   </url>
   
   <url>
@@ -7255,6 +7255,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/hendrix.edu_107080/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/jbu.edu_107141/</loc>
   </url>
   
   <url>
@@ -7282,15 +7286,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/jbu.edu_107141/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/biola.edu_110097/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ciis.edu_110316/</loc>
   </url>
   
   <url>
@@ -7298,11 +7294,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/uchastings.edu_110398/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/cca.edu_110370/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uchastings.edu_110398/</loc>
+    <loc>http://micro.moda/orgs/ciis.edu_110316/</loc>
   </url>
   
   <url>
@@ -7314,15 +7314,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/alliant.edu_110468/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/callutheran.edu_110413/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/csustan.edu_110495/</loc>
   </url>
   
   <url>
@@ -7330,11 +7322,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/csusb.edu_110510/</loc>
+    <loc>http://micro.moda/orgs/alliant.edu_110468/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/csustan.edu_110495/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/csupomona.edu_110529/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/csusb.edu_110510/</loc>
   </url>
   
   <url>
@@ -7350,11 +7350,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fullerton.edu_110565/</loc>
+    <loc>http://micro.moda/orgs/csueastbay.edu_110574/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/csueastbay.edu_110574/</loc>
+    <loc>http://micro.moda/orgs/fullerton.edu_110565/</loc>
   </url>
   
   <url>
@@ -7362,15 +7362,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/calstatela.edu_110592/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/csun.edu_110608/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/csus.edu_110617/</loc>
   </url>
   
   <url>
@@ -7378,23 +7370,23 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uci.edu_110653/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/ucdavis.edu_110644/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/csus.edu_110617/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/calstatela.edu_110592/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/uci.edu_110653/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/ucla.edu_110662/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ucr.edu_110671/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ucsd.edu_110680/</loc>
   </url>
   
   <url>
@@ -7403,6 +7395,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/ucsb.edu_110705/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/ucsd.edu_110680/</loc>
   </url>
   
   <url>
@@ -7422,11 +7418,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cui.edu_112075/</loc>
+    <loc>http://micro.moda/orgs/cgu.edu_112251/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cgu.edu_112251/</loc>
+    <loc>http://micro.moda/orgs/cui.edu_112075/</loc>
   </url>
   
   <url>
@@ -7450,11 +7446,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/fresno.edu_114813/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/ggu.edu_115083/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fresno.edu_114813/</loc>
+    <loc>http://micro.moda/orgs/hnu.edu_115728/</loc>
   </url>
   
   <url>
@@ -7475,10 +7475,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/lasierra.edu_117627/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/hnu.edu_115728/</loc>
   </url>
   
   <url>
@@ -7506,15 +7502,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/nu.edu_119605/</loc>
+    <loc>http://micro.moda/orgs/ucr.edu_110671/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/nps.edu_119678/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/otis.edu_120403/</loc>
   </url>
   
   <url>
@@ -7526,11 +7518,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hiu.edu_120537/</loc>
+    <loc>http://micro.moda/orgs/otis.edu_120403/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/puc.edu_120865/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/hiu.edu_120537/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/nu.edu_119605/</loc>
   </url>
   
   <url>
@@ -7550,10 +7550,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/redlands.edu_121691/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/pomona.edu_121345/</loc>
   </url>
   
@@ -7562,11 +7558,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sandiego.edu_122436/</loc>
+    <loc>http://micro.moda/orgs/sfsu.edu_122597/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sfsu.edu_122597/</loc>
+    <loc>http://micro.moda/orgs/redlands.edu_121691/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/sandiego.edu_122436/</loc>
   </url>
   
   <url>
@@ -7578,11 +7578,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/scu.edu_122931/</loc>
+    <loc>http://micro.moda/orgs/scrippscollege.edu_123165/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/scrippscollege.edu_123165/</loc>
+    <loc>http://micro.moda/orgs/scu.edu_122931/</loc>
   </url>
   
   <url>
@@ -7590,11 +7590,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/sonoma.edu_123572/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/stmarys-ca.edu_123554/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sonoma.edu_123572/</loc>
+    <loc>http://micro.moda/orgs/swlaw.edu_123970/</loc>
   </url>
   
   <url>
@@ -7606,10 +7610,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/swlaw.edu_123970/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/westmont.edu_125727/</loc>
   </url>
   
@@ -7618,11 +7618,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/woodbury.edu_125897/</loc>
+    <loc>http://micro.moda/orgs/tjsl.edu_126049/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/tjsl.edu_126049/</loc>
+    <loc>http://micro.moda/orgs/woodbury.edu_125897/</loc>
   </url>
   
   <url>
@@ -7642,15 +7642,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ccu.edu_126669/</loc>
+    <loc>http://micro.moda/orgs/mines.edu_126775/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/coloradocollege.edu_126678/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/mines.edu_126775/</loc>
   </url>
   
   <url>
@@ -7726,15 +7722,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/newhaven.edu_129941/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/post.edu_130183/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/quinnipiac.edu_130226/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/newhaven.edu_129941/</loc>
+    <loc>http://micro.moda/orgs/ccu.edu_126669/</loc>
   </url>
   
   <url>
@@ -7750,11 +7746,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wesleyan.edu_130697/</loc>
+    <loc>http://micro.moda/orgs/trincoll.edu_130590/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/trincoll.edu_130590/</loc>
+    <loc>http://micro.moda/orgs/wesleyan.edu_130697/</loc>
   </url>
   
   <url>
@@ -7774,11 +7770,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wesley.edu_131098/</loc>
+    <loc>http://micro.moda/orgs/gbc.edu_130989/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wilmu.edu_131113/</loc>
+    <loc>http://micro.moda/orgs/wesley.edu_131098/</loc>
   </url>
   
   <url>
@@ -7786,15 +7782,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/gbc.edu_130989/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/cua.edu_131283/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/wilmu.edu_131113/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/udc.edu_131399/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/quinnipiac.edu_130226/</loc>
   </url>
   
   <url>
@@ -7810,11 +7810,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/howard.edu_131520/</loc>
+    <loc>http://micro.moda/orgs/trinitydc.edu_131876/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/trinitydc.edu_131876/</loc>
+    <loc>http://micro.moda/orgs/howard.edu_131520/</loc>
   </url>
   
   <url>
@@ -7822,7 +7822,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/barry.edu_132471/</loc>
+    <loc>http://micro.moda/orgs/cookman.edu_132602/</loc>
   </url>
   
   <url>
@@ -7830,19 +7830,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cookman.edu_132602/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/ucf.edu_132903/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/eckerd.edu_133492/</loc>
+    <loc>http://micro.moda/orgs/famu.edu_133650/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/famu.edu_133650/</loc>
+    <loc>http://micro.moda/orgs/barry.edu_132471/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/eckerd.edu_133492/</loc>
   </url>
   
   <url>
@@ -7858,10 +7858,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fiu.edu_133951/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/fmuniv.edu_133979/</loc>
   </url>
   
@@ -7870,11 +7866,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fsu.edu_134097/</loc>
+    <loc>http://micro.moda/orgs/fiu.edu_133951/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/ufl.edu_134130/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/fsu.edu_134097/</loc>
   </url>
   
   <url>
@@ -7886,7 +7886,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/keiseruniversity.edu_135081/</loc>
+    <loc>http://micro.moda/orgs/miami.edu_135726/</loc>
   </url>
   
   <url>
@@ -7902,7 +7902,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/miami.edu_135726/</loc>
+    <loc>http://micro.moda/orgs/keiseruniversity.edu_135081/</loc>
   </url>
   
   <url>
@@ -7914,7 +7914,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/saintleo.edu_137032/</loc>
+    <loc>http://micro.moda/orgs/usf.edu_137351/</loc>
   </url>
   
   <url>
@@ -7922,15 +7922,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/usf.edu_137351/</loc>
+    <loc>http://micro.moda/orgs/stetson.edu_137546/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/stu.edu_137476/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/stetson.edu_137546/</loc>
   </url>
   
   <url>
@@ -7954,11 +7950,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/asurams.edu_138716/</loc>
+    <loc>http://micro.moda/orgs/armstrong.edu_138789/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/armstrong.edu_138789/</loc>
+    <loc>http://micro.moda/orgs/asurams.edu_138716/</loc>
   </url>
   
   <url>
@@ -7970,15 +7966,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/berry.edu_139144/</loc>
+    <loc>http://micro.moda/orgs/brenau.edu_139199/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/saintleo.edu_137032/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/clayton.edu_139311/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/brenau.edu_139199/</loc>
   </url>
   
   <url>
@@ -8010,11 +8006,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/gsw.edu_139764/</loc>
+    <loc>http://micro.moda/orgs/gcsu.edu_139861/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/gcsu.edu_139861/</loc>
+    <loc>http://micro.moda/orgs/gsw.edu_139764/</loc>
   </url>
   
   <url>
@@ -8026,11 +8022,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uga.edu_139959/</loc>
+    <loc>http://micro.moda/orgs/berry.edu_139144/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/kennesaw.edu_140164/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/uga.edu_139959/</loc>
   </url>
   
   <url>
@@ -8042,7 +8042,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/morehouse.edu_140553/</loc>
+    <loc>http://micro.moda/orgs/piedmont.edu_140818/</loc>
   </url>
   
   <url>
@@ -8050,11 +8050,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/piedmont.edu_140818/</loc>
+    <loc>http://micro.moda/orgs/reinhardt.edu_140872/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/reinhardt.edu_140872/</loc>
+    <loc>http://micro.moda/orgs/morehouse.edu_140553/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/scad.edu_140951/</loc>
   </url>
   
   <url>
@@ -8067,10 +8071,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/spelman.edu_141060/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/scad.edu_140951/</loc>
   </url>
   
   <url>
@@ -8098,7 +8098,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/chaminade.edu_141486/</loc>
+    <loc>http://micro.moda/orgs/hpu.edu_141644/</loc>
   </url>
   
   <url>
@@ -8106,7 +8106,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hpu.edu_141644/</loc>
+    <loc>http://micro.moda/orgs/hawaii.edu_141981/</loc>
   </url>
   
   <url>
@@ -8114,15 +8114,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hawaii.edu_141981/</loc>
+    <loc>http://micro.moda/orgs/uidaho.edu_142285/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/isu.edu_142276/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/uidaho.edu_142285/</loc>
   </url>
   
   <url>
@@ -8134,11 +8130,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/nnu.edu_142461/</loc>
+    <loc>http://micro.moda/orgs/byui.edu_142522/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/byui.edu_142522/</loc>
+    <loc>http://micro.moda/orgs/nnu.edu_142461/</loc>
   </url>
   
   <url>
@@ -8166,19 +8162,23 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/colum.edu_144281/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/cuchicago.edu_144351/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/depaul.edu_144740/</loc>
+    <loc>http://micro.moda/orgs/colum.edu_144281/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/chaminade.edu_141486/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/eiu.edu_144892/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/depaul.edu_144740/</loc>
   </url>
   
   <url>
@@ -8190,15 +8190,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/greenville.edu_145372/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/rosalindfranklin.edu_145558/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uic.edu_145600/</loc>
+    <loc>http://micro.moda/orgs/greenville.edu_145372/</loc>
   </url>
   
   <url>
@@ -8210,7 +8206,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/iwu.edu_145646/</loc>
+    <loc>http://micro.moda/orgs/uic.edu_145600/</loc>
   </url>
   
   <url>
@@ -8218,7 +8214,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/illinoisstate.edu_145813/</loc>
+    <loc>http://micro.moda/orgs/iwu.edu_145646/</loc>
   </url>
   
   <url>
@@ -8226,15 +8222,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/jmls.edu_146241/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/judsonu.edu_146339/</loc>
+    <loc>http://micro.moda/orgs/illinoisstate.edu_145813/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/kendall.edu_146393/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/judsonu.edu_146339/</loc>
   </url>
   
   <url>
@@ -8243,6 +8239,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/lakeforest.edu_146481/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/jmls.edu_146241/</loc>
   </url>
   
   <url>
@@ -8266,15 +8266,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/monmouthcollege.edu_147341/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/nl.edu_147536/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/northcentralcollege.edu_147660/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/monmouthcollege.edu_147341/</loc>
   </url>
   
   <url>
@@ -8282,11 +8278,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/niu.edu_147703/</loc>
+    <loc>http://micro.moda/orgs/nl.edu_147536/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/northwestern.edu_147767/</loc>
+    <loc>http://micro.moda/orgs/niu.edu_147703/</loc>
   </url>
   
   <url>
@@ -8294,11 +8290,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/quincy.edu_148131/</loc>
+    <loc>http://micro.moda/orgs/olivet.edu_147828/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/olivet.edu_147828/</loc>
+    <loc>http://micro.moda/orgs/northwestern.edu_147767/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/quincy.edu_148131/</loc>
   </url>
   
   <url>
@@ -8310,19 +8310,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/rockford.edu_148405/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/roosevelt.edu_148487/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/dom.edu_148496/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/rockford.edu_148405/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/rush.edu_148511/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/roosevelt.edu_148487/</loc>
   </url>
   
   <url>
@@ -8334,7 +8334,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/siu.edu_149222/</loc>
+    <loc>http://micro.moda/orgs/sxu.edu_148627/</loc>
   </url>
   
   <url>
@@ -8342,19 +8342,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/tiu.edu_149514/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/sxu.edu_148627/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/siue.edu_149231/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/tiu.edu_149514/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/wiu.edu_149772/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/siu.edu_149222/</loc>
   </url>
   
   <url>
@@ -8366,7 +8366,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/bethelcollege.edu_150145/</loc>
+    <loc>http://micro.moda/orgs/butler.edu_150163/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/ccsj.edu_150172/</loc>
   </url>
   
   <url>
@@ -8374,11 +8378,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/butler.edu_150163/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ccsj.edu_150172/</loc>
+    <loc>http://micro.moda/orgs/bethelcollege.edu_150145/</loc>
   </url>
   
   <url>
@@ -8390,11 +8390,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/evansville.edu_150534/</loc>
+    <loc>http://micro.moda/orgs/franklincollege.edu_150604/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/franklincollege.edu_150604/</loc>
+    <loc>http://micro.moda/orgs/evansville.edu_150534/</loc>
   </url>
   
   <url>
@@ -8402,7 +8402,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hanover.edu_150756/</loc>
+    <loc>http://micro.moda/orgs/ipfw.edu_151102/</loc>
   </url>
   
   <url>
@@ -8410,11 +8410,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ipfw.edu_151102/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/harrison.edu_151166/</loc>
+    <loc>http://micro.moda/orgs/hanover.edu_150756/</loc>
   </url>
   
   <url>
@@ -8422,11 +8418,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/harrison.edu_151166/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/uindy.edu_151263/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/indianatech.edu_151290/</loc>
+    <loc>http://micro.moda/orgs/indstate.edu_151324/</loc>
   </url>
   
   <url>
@@ -8434,7 +8434,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/indstate.edu_151324/</loc>
+    <loc>http://micro.moda/orgs/indianatech.edu_151290/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/iuk.edu_151333/</loc>
   </url>
   
   <url>
@@ -8458,15 +8462,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/manchester.edu_151777/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/marian.edu_151786/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/indwes.edu_151801/</loc>
   </url>
   
   <url>
@@ -8474,15 +8470,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/purduecal.edu_152248/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/iuk.edu_151333/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/pnc.edu_152266/</loc>
+    <loc>http://micro.moda/orgs/indwes.edu_151801/</loc>
   </url>
   
   <url>
@@ -8490,7 +8478,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/purduecal.edu_152248/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/rose-hulman.edu_152318/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/pnc.edu_152266/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/manchester.edu_151777/</loc>
   </url>
   
   <url>
@@ -8502,7 +8502,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/saintmarys.edu_152390/</loc>
+    <loc>http://micro.moda/orgs/trine.edu_152567/</loc>
   </url>
   
   <url>
@@ -8510,7 +8510,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/trine.edu_152567/</loc>
+    <loc>http://micro.moda/orgs/saintmarys.edu_152390/</loc>
   </url>
   
   <url>
@@ -8526,15 +8526,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/clarke.edu_153126/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/bvu.edu_153001/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/central.edu_153108/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/clarke.edu_153126/</loc>
   </url>
   
   <url>
@@ -8550,15 +8550,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/drake.edu_153269/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/dbq.edu_153278/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/graceland.edu_153366/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/drake.edu_153269/</loc>
   </url>
   
   <url>
@@ -8566,15 +8562,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/iastate.edu_153603/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/uiowa.edu_153658/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/loras.edu_153825/</loc>
+    <loc>http://micro.moda/orgs/dbq.edu_153278/</loc>
   </url>
   
   <url>
@@ -8582,7 +8570,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/luther.edu_153834/</loc>
+    <loc>http://micro.moda/orgs/uiowa.edu_153658/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/iastate.edu_153603/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/loras.edu_153825/</loc>
   </url>
   
   <url>
@@ -8590,7 +8586,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/morningside.edu_154004/</loc>
+    <loc>http://micro.moda/orgs/luther.edu_153834/</loc>
   </url>
   
   <url>
@@ -8606,7 +8602,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/nwciowa.edu_154101/</loc>
+    <loc>http://micro.moda/orgs/morningside.edu_154004/</loc>
   </url>
   
   <url>
@@ -8614,7 +8610,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/simpson.edu_154350/</loc>
+    <loc>http://micro.moda/orgs/nwciowa.edu_154101/</loc>
   </url>
   
   <url>
@@ -8622,11 +8618,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uiu.edu_154493/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/waldorf.edu_154518/</loc>
+    <loc>http://micro.moda/orgs/simpson.edu_154350/</loc>
   </url>
   
   <url>
@@ -8634,7 +8626,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/uiu.edu_154493/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/wmpenn.edu_154590/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/waldorf.edu_154518/</loc>
   </url>
   
   <url>
@@ -8642,11 +8642,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/benedictine.edu_154712/</loc>
+    <loc>http://micro.moda/orgs/centralchristian.edu_154855/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/centralchristian.edu_154855/</loc>
+    <loc>http://micro.moda/orgs/benedictine.edu_154712/</loc>
   </url>
   
   <url>
@@ -8654,11 +8654,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fhsu.edu_155061/</loc>
+    <loc>http://micro.moda/orgs/friends.edu_155089/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/friends.edu_155089/</loc>
+    <loc>http://micro.moda/orgs/fhsu.edu_155061/</loc>
   </url>
   
   <url>
@@ -8666,23 +8666,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/newmanu.edu_155335/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/k-state.edu_155399/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/stmary.edu_155812/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/pittstate.edu_155681/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/sckans.edu_155900/</loc>
+    <loc>http://micro.moda/orgs/newmanu.edu_155335/</loc>
   </url>
   
   <url>
@@ -8690,7 +8678,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/stmary.edu_155812/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/sckans.edu_155900/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/washburn.edu_156082/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/pittstate.edu_155681/</loc>
   </url>
   
   <url>
@@ -8698,19 +8698,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/asbury.edu_156213/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/bellarmine.edu_156286/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/berea.edu_156295/</loc>
+    <loc>http://micro.moda/orgs/asbury.edu_156213/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/campbellsville.edu_156365/</loc>
+    <loc>http://micro.moda/orgs/berea.edu_156295/</loc>
   </url>
   
   <url>
@@ -8722,6 +8718,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/campbellsville.edu_156365/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/eku.edu_156620/</loc>
   </url>
   
@@ -8730,11 +8730,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/kysu.edu_157058/</loc>
+    <loc>http://micro.moda/orgs/uky.edu_157085/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uky.edu_157085/</loc>
+    <loc>http://micro.moda/orgs/kysu.edu_157058/</loc>
   </url>
   
   <url>
@@ -8754,11 +8754,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/moreheadstate.edu_157386/</loc>
+    <loc>http://micro.moda/orgs/murraystate.edu_157401/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/murraystate.edu_157401/</loc>
+    <loc>http://micro.moda/orgs/moreheadstate.edu_157386/</loc>
   </url>
   
   <url>
@@ -8766,19 +8766,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/spalding.edu_157757/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/sullivan.edu_157793/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/upike.edu_157535/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/spalding.edu_157757/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/thomasmore.edu_157809/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/sullivan.edu_157793/</loc>
   </url>
   
   <url>
@@ -8790,11 +8790,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wku.edu_157951/</loc>
+    <loc>http://micro.moda/orgs/dillard.edu_158802/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/dillard.edu_158802/</loc>
+    <loc>http://micro.moda/orgs/wku.edu_157951/</loc>
   </url>
   
   <url>
@@ -8806,10 +8806,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lsuhsc.edu_159373/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/lsu.edu_159391/</loc>
   </url>
   
@@ -8818,19 +8814,23 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lacollege.edu_159568/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/latech.edu_159647/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/loyno.edu_159656/</loc>
+    <loc>http://micro.moda/orgs/lacollege.edu_159568/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/lsuhsc.edu_159373/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/mcneese.edu_159717/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/loyno.edu_159656/</loc>
   </url>
   
   <url>
@@ -8854,15 +8854,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/subr.edu_160621/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/selu.edu_160612/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/subr.edu_160621/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/suno.edu_160630/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/louisiana.edu_160658/</loc>
   </url>
   
   <url>
@@ -8874,15 +8878,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/bowdoin.edu_161004/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/louisiana.edu_160658/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/bates.edu_160977/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/bowdoin.edu_161004/</loc>
   </url>
   
   <url>
@@ -8902,15 +8902,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/maine.edu_161235/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/umaine.edu_161253/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/mainemaritime.edu_161299/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/umpi.edu_161341/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/maine.edu_161235/</loc>
   </url>
   
   <url>
@@ -8922,11 +8926,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umaine.edu_161253/</loc>
+    <loc>http://micro.moda/orgs/maine.edu_161554/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/maine.edu_161554/</loc>
+    <loc>http://micro.moda/orgs/thomas.edu_161563/</loc>
   </url>
   
   <url>
@@ -8938,7 +8942,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/thomas.edu_161563/</loc>
+    <loc>http://micro.moda/orgs/coppin.edu_162283/</loc>
   </url>
   
   <url>
@@ -8950,19 +8954,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/coppin.edu_162283/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/jhu.edu_162928/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/hood.edu_162760/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/umuc.edu_163204/</loc>
   </url>
   
   <url>
@@ -8970,15 +8962,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umd.edu_163286/</loc>
+    <loc>http://micro.moda/orgs/umuc.edu_163204/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umbc.edu_163268/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/mica.edu_163295/</loc>
+    <loc>http://micro.moda/orgs/jhu.edu_162928/</loc>
   </url>
   
   <url>
@@ -8986,7 +8974,23 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/umbc.edu_163268/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/umd.edu_163286/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/mica.edu_163295/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/umes.edu_163338/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/morgan.edu_163453/</loc>
   </url>
   
   <url>
@@ -8994,7 +8998,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/morgan.edu_163453/</loc>
+    <loc>http://micro.moda/orgs/ndm.edu_163578/</loc>
   </url>
   
   <url>
@@ -9003,10 +9007,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/smcm.edu_163912/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ndm.edu_163578/</loc>
   </url>
   
   <url>
@@ -9022,11 +9022,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/washcoll.edu_164216/</loc>
+    <loc>http://micro.moda/orgs/stevenson.edu_164173/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/stevenson.edu_164173/</loc>
+    <loc>http://micro.moda/orgs/washcoll.edu_164216/</loc>
   </url>
   
   <url>
@@ -9038,19 +9038,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/assumption.edu_164562/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/amherst.edu_164465/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/babson.edu_164580/</loc>
+    <loc>http://micro.moda/orgs/annamaria.edu_164492/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/annamaria.edu_164492/</loc>
+    <loc>http://micro.moda/orgs/assumption.edu_164562/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/babson.edu_164580/</loc>
   </url>
   
   <url>
@@ -9066,11 +9066,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/the-bac.edu_164872/</loc>
+    <loc>http://micro.moda/orgs/berklee.edu_164748/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/berklee.edu_164748/</loc>
+    <loc>http://micro.moda/orgs/the-bac.edu_164872/</loc>
   </url>
   
   <url>
@@ -9078,11 +9078,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/brandeis.edu_165015/</loc>
+    <loc>http://micro.moda/orgs/bu.edu_164988/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/bu.edu_164988/</loc>
+    <loc>http://micro.moda/orgs/brandeis.edu_165015/</loc>
   </url>
   
   <url>
@@ -9090,11 +9090,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/clarku.edu_165334/</loc>
+    <loc>http://micro.moda/orgs/cambridgecollege.edu_165167/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cambridgecollege.edu_165167/</loc>
+    <loc>http://micro.moda/orgs/clarku.edu_165334/</loc>
   </url>
   
   <url>
@@ -9102,11 +9102,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/emerson.edu_165662/</loc>
+    <loc>http://micro.moda/orgs/enc.edu_165644/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/enc.edu_165644/</loc>
+    <loc>http://micro.moda/orgs/emerson.edu_165662/</loc>
   </url>
   
   <url>
@@ -9114,11 +9114,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fisher.edu_165802/</loc>
+    <loc>http://micro.moda/orgs/endicott.edu_165699/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/endicott.edu_165699/</loc>
+    <loc>http://micro.moda/orgs/fisher.edu_165802/</loc>
   </url>
   
   <url>
@@ -9126,11 +9126,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/gordon.edu_165936/</loc>
+    <loc>http://micro.moda/orgs/framingham.edu_165866/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/framingham.edu_165866/</loc>
+    <loc>http://micro.moda/orgs/gordon.edu_165936/</loc>
   </url>
   
   <url>
@@ -9138,11 +9138,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lasell.edu_166391/</loc>
+    <loc>http://micro.moda/orgs/harvard.edu_166027/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/holycross.edu_166124/</loc>
+    <loc>http://micro.moda/orgs/lasell.edu_166391/</loc>
   </url>
   
   <url>
@@ -9151,10 +9151,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/uml.edu_166513/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/harvard.edu_166027/</loc>
   </url>
   
   <url>
@@ -9170,6 +9166,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/mit.edu_166683/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/maritime.edu_166692/</loc>
   </url>
   
@@ -9182,15 +9182,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mit.edu_166683/</loc>
+    <loc>http://micro.moda/orgs/mtholyoke.edu_166939/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/mountida.edu_166948/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/mtholyoke.edu_166939/</loc>
   </url>
   
   <url>
@@ -9206,15 +9202,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/holycross.edu_166124/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/elms.edu_167394/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/salemstate.edu_167729/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/simmons.edu_167783/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/elms.edu_167394/</loc>
   </url>
   
   <url>
@@ -9230,19 +9230,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/suffolk.edu_168005/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/stonehill.edu_167996/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/tufts.edu_168148/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/wellesley.edu_168218/</loc>
+    <loc>http://micro.moda/orgs/suffolk.edu_168005/</loc>
   </url>
   
   <url>
@@ -9250,15 +9242,23 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ma.edu_168263/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/wne.edu_168254/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/ma.edu_168263/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/wheatoncollege.edu_168281/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/wheelock.edu_168290/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/tufts.edu_168148/</loc>
   </url>
   
   <url>
@@ -9274,15 +9274,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wheelock.edu_168290/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/adrian.edu_168528/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/alma.edu_168591/</loc>
   </url>
   
   <url>
@@ -9294,11 +9286,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/aquinas.edu_168786/</loc>
+    <loc>http://micro.moda/orgs/alma.edu_168591/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cmich.edu_169248/</loc>
+    <loc>http://micro.moda/orgs/wellesley.edu_168218/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/aquinas.edu_168786/</loc>
   </url>
   
   <url>
@@ -9310,6 +9306,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/cmich.edu_169248/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/davenport.edu_169479/</loc>
   </url>
   
@@ -9318,15 +9318,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/emich.edu_169798/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/ferris.edu_169910/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/kettering.edu_169983/</loc>
+    <loc>http://micro.moda/orgs/emich.edu_169798/</loc>
   </url>
   
   <url>
@@ -9334,11 +9330,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/gvsu.edu_170082/</loc>
+    <loc>http://micro.moda/orgs/kettering.edu_169983/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hope.edu_170301/</loc>
+    <loc>http://micro.moda/orgs/gvsu.edu_170082/</loc>
   </url>
   
   <url>
@@ -9346,11 +9342,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lssu.edu_170639/</loc>
+    <loc>http://micro.moda/orgs/hope.edu_170301/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ltu.edu_170675/</loc>
+    <loc>http://micro.moda/orgs/lssu.edu_170639/</loc>
   </url>
   
   <url>
@@ -9366,11 +9362,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umich.edu_170976/</loc>
+    <loc>http://micro.moda/orgs/ltu.edu_170675/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/msu.edu_171100/</loc>
+    <loc>http://micro.moda/orgs/umich.edu_170976/</loc>
   </url>
   
   <url>
@@ -9378,11 +9374,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umich.edu_171137/</loc>
+    <loc>http://micro.moda/orgs/msu.edu_171100/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umflint.edu_171146/</loc>
+    <loc>http://micro.moda/orgs/umich.edu_171137/</loc>
   </url>
   
   <url>
@@ -9398,6 +9394,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/umflint.edu_171146/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/olivetcollege.edu_171599/</loc>
   </url>
   
@@ -9410,11 +9410,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/arbor.edu_172334/</loc>
+    <loc>http://micro.moda/orgs/cooley.edu_172477/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cooley.edu_172477/</loc>
+    <loc>http://micro.moda/orgs/arbor.edu_172334/</loc>
   </url>
   
   <url>
@@ -9423,10 +9423,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/wayne.edu_172644/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/wmich.edu_172699/</loc>
   </url>
   
   <url>
@@ -9442,15 +9438,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/wmich.edu_172699/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/carleton.edu_173258/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/cord.edu_173300/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/csp.edu_173328/</loc>
   </url>
   
   <url>
@@ -9462,6 +9458,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/csp.edu_173328/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/macalester.edu_173902/</loc>
   </url>
   
@@ -9470,15 +9470,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/metrostate.edu_174020/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/umcrookston.edu_174075/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umn.edu_174233/</loc>
+    <loc>http://micro.moda/orgs/metrostate.edu_174020/</loc>
   </url>
   
   <url>
@@ -9490,11 +9486,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mnstate.edu_174358/</loc>
+    <loc>http://micro.moda/orgs/northcentral.edu_174437/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/northcentral.edu_174437/</loc>
+    <loc>http://micro.moda/orgs/mnstate.edu_174358/</loc>
   </url>
   
   <url>
@@ -9534,11 +9530,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/winona.edu_175272/</loc>
+    <loc>http://micro.moda/orgs/smsu.edu_175078/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/smsu.edu_175078/</loc>
+    <loc>http://micro.moda/orgs/winona.edu_175272/</loc>
   </url>
   
   <url>
@@ -9566,7 +9562,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/muw.edu_176035/</loc>
+    <loc>http://micro.moda/orgs/mvsu.edu_176044/</loc>
   </url>
   
   <url>
@@ -9575,10 +9571,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/msstate.edu_176080/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/mvsu.edu_176044/</loc>
   </url>
   
   <url>
@@ -9594,11 +9586,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ccis.edu_177065/</loc>
+    <loc>http://micro.moda/orgs/ucmo.edu_176965/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ucmo.edu_176965/</loc>
+    <loc>http://micro.moda/orgs/ccis.edu_177065/</loc>
   </url>
   
   <url>
@@ -9622,10 +9614,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/atsu.edu_177834/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/lincolnu.edu_177940/</loc>
   </url>
   
@@ -9638,11 +9626,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mssu.edu_178341/</loc>
+    <loc>http://micro.moda/orgs/mobap.edu_178244/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mobap.edu_178244/</loc>
+    <loc>http://micro.moda/orgs/mssu.edu_178341/</loc>
   </url>
   
   <url>
@@ -9670,15 +9658,11 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/umn.edu_174233/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/truman.edu_178615/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/cofo.edu_178697/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/park.edu_178721/</loc>
   </url>
   
   <url>
@@ -9686,7 +9670,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/cofo.edu_178697/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/rockhurst.edu_179043/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/muw.edu_176035/</loc>
   </url>
   
   <url>
@@ -9710,11 +9702,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/webster.edu_179894/</loc>
+    <loc>http://micro.moda/orgs/wustl.edu_179867/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wustl.edu_179867/</loc>
+    <loc>http://micro.moda/orgs/park.edu_178721/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/atsu.edu_177834/</loc>
   </url>
   
   <url>
@@ -9722,15 +9718,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/webster.edu_179894/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/jewell.edu_179955/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/williamwoods.edu_179964/</loc>
+    <loc>http://micro.moda/orgs/carroll.edu_180106/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/carroll.edu_180106/</loc>
+    <loc>http://micro.moda/orgs/williamwoods.edu_179964/</loc>
   </url>
   
   <url>
@@ -9746,11 +9746,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/umt.edu_180489/</loc>
+    <loc>http://micro.moda/orgs/montana.edu_180461/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/montana.edu_180461/</loc>
+    <loc>http://micro.moda/orgs/umt.edu_180489/</loc>
   </url>
   
   <url>
@@ -9778,15 +9778,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hastings.edu_181127/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/creighton.edu_181002/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/unk.edu_181215/</loc>
+    <loc>http://micro.moda/orgs/hastings.edu_181127/</loc>
   </url>
   
   <url>
@@ -9814,11 +9810,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/unr.edu_182290/</loc>
+    <loc>http://micro.moda/orgs/unk.edu_181215/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/unlv.edu_182281/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/unr.edu_182290/</loc>
   </url>
   
   <url>
@@ -9830,19 +9830,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/franklinpierce.edu_182795/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/mountwashington.edu_182865/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/dartmouth.edu_182670/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/franklinpierce.edu_182795/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/nec.edu_182980/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/mountwashington.edu_182865/</loc>
   </url>
   
   <url>
@@ -9914,10 +9914,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/monmouth.edu_185572/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/montclair.edu_185590/</loc>
   </url>
   
@@ -9930,11 +9926,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/rider.edu_186283/</loc>
+    <loc>http://micro.moda/orgs/ramapo.edu_186201/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ramapo.edu_186201/</loc>
+    <loc>http://micro.moda/orgs/rider.edu_186283/</loc>
   </url>
   
   <url>
@@ -9954,15 +9950,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/shu.edu_186584/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/cse.edu_186618/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/stevens.edu_186867/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/shu.edu_186584/</loc>
   </url>
   
   <url>
@@ -9974,15 +9970,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/tcnj.edu_187134/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/wpunj.edu_187444/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/enmu.edu_187648/</loc>
+    <loc>http://micro.moda/orgs/monmouth.edu_185572/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/tcnj.edu_187134/</loc>
   </url>
   
   <url>
@@ -9990,11 +9986,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/nmt.edu_187967/</loc>
+    <loc>http://micro.moda/orgs/enmu.edu_187648/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/unm.edu_187985/</loc>
+    <loc>http://micro.moda/orgs/nmt.edu_187967/</loc>
   </url>
   
   <url>
@@ -10002,11 +9998,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/nnmc.edu_188058/</loc>
+    <loc>http://micro.moda/orgs/unm.edu_187985/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wnmu.edu_188304/</loc>
+    <loc>http://micro.moda/orgs/nnmc.edu_188058/</loc>
   </url>
   
   <url>
@@ -10014,11 +10010,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/adelphi.edu_188429/</loc>
+    <loc>http://micro.moda/orgs/wnmu.edu_188304/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/alfred.edu_188641/</loc>
+    <loc>http://micro.moda/orgs/adelphi.edu_188429/</loc>
   </url>
   
   <url>
@@ -10030,7 +10026,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/barnard.edu_189097/</loc>
+    <loc>http://micro.moda/orgs/alfred.edu_188641/</loc>
   </url>
   
   <url>
@@ -10038,11 +10034,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/briarcliffe.edu_189459/</loc>
+    <loc>http://micro.moda/orgs/barnard.edu_189097/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/brooklaw.edu_189501/</loc>
+    <loc>http://micro.moda/orgs/briarcliffe.edu_189459/</loc>
   </url>
   
   <url>
@@ -10050,7 +10046,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cazenovia.edu_189848/</loc>
+    <loc>http://micro.moda/orgs/brooklaw.edu_189501/</loc>
   </url>
   
   <url>
@@ -10110,11 +10106,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cuny.edu_190646/</loc>
+    <loc>http://micro.moda/orgs/cuny.edu_190655/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cuny.edu_190655/</loc>
+    <loc>http://micro.moda/orgs/cazenovia.edu_189848/</loc>
   </url>
   
   <url>
@@ -10130,6 +10126,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/cuny.edu_190646/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/daemen.edu_190725/</loc>
   </url>
   
@@ -10142,10 +10142,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/elmira.edu_190983/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/fitnyc.edu_191126/</loc>
   </url>
   
@@ -10154,7 +10150,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hamilton.edu_191515/</loc>
+    <loc>http://micro.moda/orgs/elmira.edu_190983/</loc>
   </url>
   
   <url>
@@ -10166,11 +10162,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hws.edu_191630/</loc>
+    <loc>http://micro.moda/orgs/hamilton.edu_191515/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hofstra.edu_191649/</loc>
+    <loc>http://micro.moda/orgs/hws.edu_191630/</loc>
   </url>
   
   <url>
@@ -10214,11 +10210,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/hofstra.edu_191649/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/medaille.edu_192925/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/mercy.edu_193016/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/monroecollege.edu_193308/</loc>
   </url>
   
   <url>
@@ -10230,7 +10234,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/monroecollege.edu_193308/</loc>
+    <loc>http://micro.moda/orgs/mssm.edu_193405/</loc>
   </url>
   
   <url>
@@ -10238,15 +10242,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mssm.edu_193405/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/naz.edu_193584/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/cnr.edu_193645/</loc>
   </url>
   
   <url>
@@ -10254,7 +10250,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/nyls.edu_193821/</loc>
+    <loc>http://micro.moda/orgs/cnr.edu_193645/</loc>
   </url>
   
   <url>
@@ -10298,7 +10294,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/rit.edu_195003/</loc>
+    <loc>http://micro.moda/orgs/nyls.edu_193821/</loc>
   </url>
   
   <url>
@@ -10306,15 +10302,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/rit.edu_195003/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/sage.edu_195128/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sbu.edu_195164/</loc>
+    <loc>http://micro.moda/orgs/sfc.edu_195173/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sfc.edu_195173/</loc>
+    <loc>http://micro.moda/orgs/sbu.edu_195164/</loc>
   </url>
   
   <url>
@@ -10334,11 +10334,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/siena.edu_195474/</loc>
+    <loc>http://micro.moda/orgs/skidmore.edu_195526/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/skidmore.edu_195526/</loc>
+    <loc>http://micro.moda/orgs/siena.edu_195474/</loc>
   </url>
   
   <url>
@@ -10350,19 +10350,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/stjohns.edu_195809/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/alfredstate.edu_196006/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/canton.edu_196015/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/delhi.edu_196024/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/stjohns.edu_195809/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/alfredstate.edu_196006/</loc>
   </url>
   
   <url>
@@ -10374,11 +10374,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/morrisville.edu_196051/</loc>
+    <loc>http://micro.moda/orgs/albany.edu_196060/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/albany.edu_196060/</loc>
+    <loc>http://micro.moda/orgs/morrisville.edu_196051/</loc>
   </url>
   
   <url>
@@ -10446,19 +10446,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/plattsburgh.edu_196246/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/downstate.edu_196255/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/esc.edu_196264/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/sunymaritime.edu_196291/</loc>
+    <loc>http://micro.moda/orgs/plattsburgh.edu_196246/</loc>
   </url>
   
   <url>
@@ -10466,11 +10458,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/syr.edu_196413/</loc>
+    <loc>http://micro.moda/orgs/sunymaritime.edu_196291/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/esc.edu_196264/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/columbia.edu_196468/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/syr.edu_196413/</loc>
   </url>
   
   <url>
@@ -10490,11 +10490,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/vassar.edu_197133/</loc>
+    <loc>http://micro.moda/orgs/sva.edu_197151/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sva.edu_197151/</loc>
+    <loc>http://micro.moda/orgs/vassar.edu_197133/</loc>
   </url>
   
   <url>
@@ -10502,11 +10502,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/appstate.edu_197869/</loc>
+    <loc>http://micro.moda/orgs/barton.edu_197911/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/barton.edu_197911/</loc>
+    <loc>http://micro.moda/orgs/appstate.edu_197869/</loc>
   </url>
   
   <url>
@@ -10514,19 +10514,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/campbell.edu_198136/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/catawba.edu_198215/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/chowan.edu_198303/</loc>
+    <loc>http://micro.moda/orgs/campbell.edu_198136/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/davidson.edu_198385/</loc>
+    <loc>http://micro.moda/orgs/chowan.edu_198303/</loc>
   </url>
   
   <url>
@@ -10542,7 +10538,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/elon.edu_198516/</loc>
+    <loc>http://micro.moda/orgs/davidson.edu_198385/</loc>
   </url>
   
   <url>
@@ -10558,11 +10554,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/guilford.edu_198613/</loc>
+    <loc>http://micro.moda/orgs/elon.edu_198516/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/highpoint.edu_198695/</loc>
+    <loc>http://micro.moda/orgs/guilford.edu_198613/</loc>
   </url>
   
   <url>
@@ -10570,19 +10566,19 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/highpoint.edu_198695/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/lr.edu_198835/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/livingstone.edu_198862/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/mhu.edu_198899/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/meredith.edu_198950/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/livingstone.edu_198862/</loc>
   </url>
   
   <url>
@@ -10594,7 +10590,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ncat.edu_199102/</loc>
+    <loc>http://micro.moda/orgs/mhu.edu_198899/</loc>
   </url>
   
   <url>
@@ -10603,6 +10599,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/unc.edu_199120/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/ncat.edu_199102/</loc>
   </url>
   
   <url>
@@ -10618,10 +10618,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ncsu.edu_199193/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/ncwc.edu_199209/</loc>
   </url>
   
@@ -10630,11 +10626,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/uncp.edu_199281/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/peace.edu_199272/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uncp.edu_199281/</loc>
+    <loc>http://micro.moda/orgs/ncsu.edu_199193/</loc>
   </url>
   
   <url>
@@ -10646,11 +10646,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/st-aug.edu_199582/</loc>
+    <loc>http://micro.moda/orgs/salem.edu_199607/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/salem.edu_199607/</loc>
+    <loc>http://micro.moda/orgs/st-aug.edu_199582/</loc>
   </url>
   
   <url>
@@ -10658,11 +10658,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wfu.edu_199847/</loc>
+    <loc>http://micro.moda/orgs/wingate.edu_199962/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wingate.edu_199962/</loc>
+    <loc>http://micro.moda/orgs/wfu.edu_199847/</loc>
   </url>
   
   <url>
@@ -10671,10 +10671,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/dickinsonstate.com_200059/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/umary.edu_200217/</loc>
   </url>
   
   <url>
@@ -10690,7 +10686,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/und.edu_200280/</loc>
+    <loc>http://micro.moda/orgs/umary.edu_200217/</loc>
   </url>
   
   <url>
@@ -10698,7 +10694,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/vcsu.edu_200572/</loc>
+    <loc>http://micro.moda/orgs/und.edu_200280/</loc>
   </url>
   
   <url>
@@ -10726,15 +10722,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/vcsu.edu_200572/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/case.edu_201645/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/cedarville.edu_201654/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/uc.edu_201885/</loc>
   </url>
   
   <url>
@@ -10762,6 +10758,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/uc.edu_201885/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/franklin.edu_202806/</loc>
   </url>
   
@@ -10774,7 +10774,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/kent.edu_203492/</loc>
+    <loc>http://micro.moda/orgs/jcu.edu_203368/</loc>
   </url>
   
   <url>
@@ -10782,11 +10782,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/jcu.edu_203368/</loc>
+    <loc>http://micro.moda/orgs/kenyon.edu_203535/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/kenyon.edu_203535/</loc>
+    <loc>http://micro.moda/orgs/kent.edu_203492/</loc>
   </url>
   
   <url>
@@ -10802,15 +10802,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/marietta.edu_203845/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/miamioh.edu_204024/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mountunion.edu_204185/</loc>
+    <loc>http://micro.moda/orgs/marietta.edu_203845/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/mvnu.edu_204194/</loc>
   </url>
   
   <url>
@@ -10818,7 +10818,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mvnu.edu_204194/</loc>
+    <loc>http://micro.moda/orgs/mountunion.edu_204185/</loc>
   </url>
   
   <url>
@@ -10926,11 +10926,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/okwu.edu_206835/</loc>
+    <loc>http://micro.moda/orgs/ysu.edu_206695/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ysu.edu_206695/</loc>
+    <loc>http://micro.moda/orgs/okwu.edu_206835/</loc>
   </url>
   
   <url>
@@ -10962,11 +10962,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ouhsc.edu_207342/</loc>
+    <loc>http://micro.moda/orgs/oc.edu_207324/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/oc.edu_207324/</loc>
+    <loc>http://micro.moda/orgs/ouhsc.edu_207342/</loc>
   </url>
   
   <url>
@@ -11034,7 +11034,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/oit.edu_209506/</loc>
+    <loc>http://micro.moda/orgs/uoregon.edu_209551/</loc>
   </url>
   
   <url>
@@ -11042,11 +11042,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uoregon.edu_209551/</loc>
+    <loc>http://micro.moda/orgs/pacificu.edu_209612/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/pacificu.edu_209612/</loc>
+    <loc>http://micro.moda/orgs/oit.edu_209506/</loc>
   </url>
   
   <url>
@@ -11058,15 +11058,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/reed.edu_209922/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/sou.edu_210146/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/corban.edu_210331/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/reed.edu_209922/</loc>
   </url>
   
   <url>
@@ -11106,11 +11106,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/bucknell.edu_211291/</loc>
+    <loc>http://micro.moda/orgs/brynmawr.edu_211273/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/brynmawr.edu_211273/</loc>
+    <loc>http://micro.moda/orgs/bucknell.edu_211291/</loc>
   </url>
   
   <url>
@@ -11190,11 +11190,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/geneva.edu_212656/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/gettysburg.edu_212674/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/geneva.edu_212656/</loc>
+    <loc>http://micro.moda/orgs/gmc.edu_212832/</loc>
   </url>
   
   <url>
@@ -11206,11 +11210,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/gmc.edu_212832/</loc>
+    <loc>http://micro.moda/orgs/holyfamily.edu_212984/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/holyfamily.edu_212984/</loc>
+    <loc>http://micro.moda/orgs/immaculata.edu_213011/</loc>
   </url>
   
   <url>
@@ -11219,10 +11223,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/juniata.edu_213251/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/immaculata.edu_213011/</loc>
   </url>
   
   <url>
@@ -11330,11 +11330,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/psu.edu_214777/</loc>
+    <loc>http://micro.moda/orgs/psu.edu_214731/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/psu.edu_214731/</loc>
+    <loc>http://micro.moda/orgs/psu.edu_214777/</loc>
   </url>
   
   <url>
@@ -11390,10 +11390,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/pointpark.edu_215442/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/rmu.edu_215655/</loc>
   </url>
   
@@ -11403,6 +11399,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/sju.edu_215770/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/pointpark.edu_215442/</loc>
   </url>
   
   <url>
@@ -11442,15 +11442,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/jefferson.edu_216366/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/ursinus.edu_216524/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/vfcc.edu_216542/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/villanova.edu_216597/</loc>
   </url>
   
   <url>
@@ -11462,6 +11462,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/villanova.edu_216597/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/wcupa.edu_216764/</loc>
   </url>
   
@@ -11470,19 +11474,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/jefferson.edu_216366/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/wilkes.edu_216931/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ycp.edu_217059/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/brown.edu_217156/</loc>
   </url>
   
   <url>
@@ -11490,19 +11482,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/providence.edu_217402/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ric.edu_217420/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/uri.edu_217484/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/risd.edu_217493/</loc>
+    <loc>http://micro.moda/orgs/brown.edu_217156/</loc>
   </url>
   
   <url>
@@ -11510,11 +11490,31 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/rwu.edu_217518/</loc>
+    <loc>http://micro.moda/orgs/providence.edu_217402/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/ycp.edu_217059/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/uri.edu_217484/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/ric.edu_217420/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/risd.edu_217493/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/salve.edu_217536/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/rwu.edu_217518/</loc>
   </url>
   
   <url>
@@ -11530,19 +11530,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/swu.edu_217776/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/cofc.edu_217819/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/citadel.edu_217864/</loc>
+    <loc>http://micro.moda/orgs/swu.edu_217776/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/claflin.edu_217873/</loc>
+    <loc>http://micro.moda/orgs/citadel.edu_217864/</loc>
   </url>
   
   <url>
@@ -11558,6 +11554,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/claflin.edu_217873/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/columbiasc.edu_217934/</loc>
   </url>
   
@@ -11570,11 +11570,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/furman.edu_218070/</loc>
+    <loc>http://micro.moda/orgs/lander.edu_218229/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lander.edu_218229/</loc>
+    <loc>http://micro.moda/orgs/furman.edu_218070/</loc>
   </url>
   
   <url>
@@ -11582,19 +11582,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/newberry.edu_218414/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/ngu.edu_218441/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/usca.edu_218645/</loc>
+    <loc>http://micro.moda/orgs/newberry.edu_218414/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uscb.edu_218654/</loc>
+    <loc>http://micro.moda/orgs/usca.edu_218645/</loc>
   </url>
   
   <url>
@@ -11610,11 +11606,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uscupstate.edu_218742/</loc>
+    <loc>http://micro.moda/orgs/uscb.edu_218654/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/winthrop.edu_218964/</loc>
+    <loc>http://micro.moda/orgs/uscupstate.edu_218742/</loc>
   </url>
   
   <url>
@@ -11622,11 +11618,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/augie.edu_219000/</loc>
+    <loc>http://micro.moda/orgs/winthrop.edu_218964/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/bhsu.edu_219046/</loc>
+    <loc>http://micro.moda/orgs/augie.edu_219000/</loc>
   </url>
   
   <url>
@@ -11634,11 +11630,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mtmc.edu_219198/</loc>
+    <loc>http://micro.moda/orgs/bhsu.edu_219046/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/northern.edu_219259/</loc>
+    <loc>http://micro.moda/orgs/mtmc.edu_219198/</loc>
   </url>
   
   <url>
@@ -11646,7 +11642,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sdstate.edu_219356/</loc>
+    <loc>http://micro.moda/orgs/northern.edu_219259/</loc>
   </url>
   
   <url>
@@ -11655,6 +11651,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/usd.edu_219471/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/sdstate.edu_219356/</loc>
   </url>
   
   <url>
@@ -11670,11 +11670,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cn.edu_219806/</loc>
+    <loc>http://micro.moda/orgs/cbu.edu_219833/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/cbu.edu_219833/</loc>
+    <loc>http://micro.moda/orgs/cn.edu_219806/</loc>
   </url>
   
   <url>
@@ -11682,19 +11682,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lipscomb.edu_219976/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/etsu.edu_220075/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fhu.edu_220215/</loc>
+    <loc>http://micro.moda/orgs/lipscomb.edu_219976/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/king.edu_220516/</loc>
+    <loc>http://micro.moda/orgs/fhu.edu_220215/</loc>
   </url>
   
   <url>
@@ -11710,11 +11706,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/leeuniversity.edu_220613/</loc>
+    <loc>http://micro.moda/orgs/king.edu_220516/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lmunet.edu_220631/</loc>
+    <loc>http://micro.moda/orgs/leeuniversity.edu_220613/</loc>
   </url>
   
   <url>
@@ -11726,11 +11722,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/memphis.edu_220862/</loc>
+    <loc>http://micro.moda/orgs/lmunet.edu_220631/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mtsu.edu_220978/</loc>
+    <loc>http://micro.moda/orgs/memphis.edu_220862/</loc>
   </url>
   
   <url>
@@ -11738,11 +11734,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/rhodes.edu_221351/</loc>
+    <loc>http://micro.moda/orgs/sewanee.edu_221519/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/sewanee.edu_221519/</loc>
+    <loc>http://micro.moda/orgs/rhodes.edu_221351/</loc>
   </url>
   
   <url>
@@ -11750,7 +11746,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/twcnet.edu_221731/</loc>
+    <loc>http://micro.moda/orgs/mtsu.edu_220978/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/utc.edu_221740/</loc>
   </url>
   
   <url>
@@ -11762,7 +11762,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/utc.edu_221740/</loc>
+    <loc>http://micro.moda/orgs/twcnet.edu_221731/</loc>
   </url>
   
   <url>
@@ -11774,15 +11774,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/trevecca.edu_221892/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/tusculum.edu_221953/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/trevecca.edu_221892/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/uu.edu_221971/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/acu.edu_222178/</loc>
   </url>
   
   <url>
@@ -11795,10 +11799,6 @@
   
   <url>
     <loc>http://micro.moda/orgs/angelo.edu_222831/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/acu.edu_222178/</loc>
   </url>
   
   <url>
@@ -11818,15 +11818,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/baylor.edu_223232/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/concordia.edu_224004/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/tamucc.edu_224147/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/baylor.edu_223232/</loc>
   </url>
   
   <url>
@@ -11846,15 +11846,15 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hsutx.edu_225247/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/tamuc.edu_224554/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/hbu.edu_225399/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/hsutx.edu_225247/</loc>
   </url>
   
   <url>
@@ -11878,7 +11878,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/tamiu.edu_226152/</loc>
+    <loc>http://micro.moda/orgs/uiw.edu_225627/</loc>
   </url>
   
   <url>
@@ -11886,7 +11886,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lcu.edu_226383/</loc>
+    <loc>http://micro.moda/orgs/tamiu.edu_226152/</loc>
   </url>
   
   <url>
@@ -11894,7 +11894,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uiw.edu_225627/</loc>
+    <loc>http://micro.moda/orgs/lcu.edu_226383/</loc>
   </url>
   
   <url>
@@ -12022,10 +12022,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/tcu.edu_228875/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/uttyler.edu_228802/</loc>
   </url>
   
@@ -12035,6 +12031,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/tlu.edu_228981/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/tcu.edu_228875/</loc>
   </url>
   
   <url>
@@ -12074,11 +12074,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wtamu.edu_229814/</loc>
+    <loc>http://micro.moda/orgs/wbu.edu_229780/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wbu.edu_229780/</loc>
+    <loc>http://micro.moda/orgs/wtamu.edu_229814/</loc>
   </url>
   
   <url>
@@ -12102,6 +12102,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/usu.edu_230728/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/uvu.edu_230737/</loc>
   </url>
   
@@ -12110,11 +12114,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/weber.edu_230782/</loc>
+    <loc>http://micro.moda/orgs/westminstercollege.edu_230807/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/westminstercollege.edu_230807/</loc>
+    <loc>http://micro.moda/orgs/weber.edu_230782/</loc>
   </url>
   
   <url>
@@ -12126,7 +12130,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/usu.edu_230728/</loc>
+    <loc>http://micro.moda/orgs/jsc.edu_230913/</loc>
   </url>
   
   <url>
@@ -12154,10 +12158,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/jsc.edu_230913/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/bridgewater.edu_231581/</loc>
   </url>
   
@@ -12182,11 +12182,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/gmu.edu_232186/</loc>
+    <loc>http://micro.moda/orgs/ferrum.edu_232089/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hamptonu.edu_232265/</loc>
+    <loc>http://micro.moda/orgs/gmu.edu_232186/</loc>
   </url>
   
   <url>
@@ -12194,7 +12194,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/ferrum.edu_232089/</loc>
+    <loc>http://micro.moda/orgs/hamptonu.edu_232265/</loc>
   </url>
   
   <url>
@@ -12218,6 +12218,10 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/umw.edu_232681/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/marymount.edu_232706/</loc>
   </url>
   
@@ -12226,15 +12230,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/odu.edu_232982/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/umw.edu_232681/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/rmc.edu_233295/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/odu.edu_232982/</loc>
   </url>
   
   <url>
@@ -12262,10 +12262,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/virginia.edu_234076/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/vmi.edu_234085/</loc>
   </url>
   
@@ -12287,6 +12283,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/ais.edu_234492/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/virginia.edu_234076/</loc>
   </url>
   
   <url>
@@ -12334,11 +12334,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/seattleu.edu_236595/</loc>
+    <loc>http://micro.moda/orgs/wallawalla.edu_236896/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/wallawalla.edu_236896/</loc>
+    <loc>http://micro.moda/orgs/seattleu.edu_236595/</loc>
   </url>
   
   <url>
@@ -12358,19 +12358,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/whitworth.edu_237066/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/ab.edu_237118/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/bluefieldstate.edu_237215/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/whitworth.edu_237066/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/ucwv.edu_237312/</loc>
   </url>
   
   <url>
@@ -12383,6 +12379,10 @@
   
   <url>
     <loc>http://micro.moda/orgs/glenville.edu_237385/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/ucwv.edu_237312/</loc>
   </url>
   
   <url>
@@ -12426,11 +12426,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/stritch.edu_238430/</loc>
+    <loc>http://micro.moda/orgs/beloit.edu_238333/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/beloit.edu_238333/</loc>
+    <loc>http://micro.moda/orgs/stritch.edu_238430/</loc>
   </url>
   
   <url>
@@ -12470,7 +12470,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/msoe.edu_239318/</loc>
+    <loc>http://micro.moda/orgs/mcw.edu_239169/</loc>
   </url>
   
   <url>
@@ -12478,11 +12478,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mcw.edu_239169/</loc>
+    <loc>http://micro.moda/orgs/snc.edu_239716/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/viterbo.edu_240107/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/msoe.edu_239318/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/uww.edu_240189/</loc>
   </url>
   
   <url>
@@ -12494,15 +12502,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uww.edu_240189/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/uwlax.edu_240329/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/snc.edu_239716/</loc>
   </url>
   
   <url>
@@ -12515,6 +12515,18 @@
   
   <url>
     <loc>http://micro.moda/orgs/uwp.edu_240374/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/herzing.edu_240392/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/uwstout.edu_240417/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/uwsuper.edu_240426/</loc>
   </url>
   
   <url>
@@ -12542,15 +12554,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/uwstout.edu_240417/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/stanford.edu_243744/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/uwsuper.edu_240426/</loc>
   </url>
   
   <url>
@@ -12558,15 +12562,19 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/kaplanuniversity.edu_260901/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/macu.edu_245953/</loc>
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/kaplanuniversity.edu_260901/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/brandman.edu_262086/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/pct.edu_366252/</loc>
   </url>
   
   <url>
@@ -12578,15 +12586,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/pct.edu_366252/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/csusm.edu_366711/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/hodges.edu_367884/</loc>
+    <loc>http://micro.moda/orgs/argosy.edu_367936/</loc>
   </url>
   
   <url>
@@ -12594,7 +12598,7 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/argosy.edu_367936/</loc>
+    <loc>http://micro.moda/orgs/hodges.edu_367884/</loc>
   </url>
   
   <url>
@@ -12606,15 +12610,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/lecom.edu_407629/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/herzing.edu_240392/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/evergladesuniversity.edu_385619/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/lecom.edu_407629/</loc>
   </url>
   
   <url>
@@ -12630,19 +12630,23 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/fgcu.edu_433660/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/aii.edu_428286/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/stevenshenager.edu_438151/</loc>
+    <loc>http://micro.moda/orgs/fgcu.edu_433660/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/mji.edu_434414/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/fcsl.edu_434715/</loc>
+  </url>
+  
+  <url>
+    <loc>http://micro.moda/orgs/stevenshenager.edu_438151/</loc>
   </url>
   
   <url>
@@ -12654,10 +12658,6 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/mji.edu_434414/</loc>
-  </url>
-  
-  <url>
     <loc>http://micro.moda/orgs/nsc.edu_441900/</loc>
   </url>
   
@@ -12666,15 +12666,15 @@
   </url>
   
   <url>
+    <loc>http://micro.moda/orgs/itu.edu_443128/</loc>
+  </url>
+  
+  <url>
     <loc>http://micro.moda/orgs/vt.edu_442806/</loc>
   </url>
   
   <url>
     <loc>http://micro.moda/orgs/digipen.edu_443410/</loc>
-  </url>
-  
-  <url>
-    <loc>http://micro.moda/orgs/itu.edu_443128/</loc>
   </url>
   
   <url>
@@ -12694,11 +12694,11 @@
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/charlottelaw.edu_455169/</loc>
+    <loc>http://micro.moda/orgs/usfsm.edu_451671/</loc>
   </url>
   
   <url>
-    <loc>http://micro.moda/orgs/usfsm.edu_451671/</loc>
+    <loc>http://micro.moda/orgs/charlottelaw.edu_455169/</loc>
   </url>
   
 </urlset>
